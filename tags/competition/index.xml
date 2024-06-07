@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Competition | Ellen Considine</title>
+    <link>http://localhost:4321/tags/competition/</link>
+      <atom:link href="http://localhost:4321/tags/competition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Competition</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Competition</title>
+      <link>http://localhost:4321/tags/competition/</link>
+    </image>
+    
+    <item>
+      <title>Advice for the COMAP MCM/ICM</title>
+      <link>http://localhost:4321/post/mcm-advice/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/post/mcm-advice/</guid>
+      <description>&lt;p&gt;In 2017, 2018, and 2019, a team of two friends and I participated in the &lt;a href=&#34;https://www.comap.com/contests/mcm-icm&#34;&gt;Consortium for Mathematics and Its Applications (COMAP) International Mathematical / Interdisciplinary Contest in Modeling (MCM/ICM)&lt;/a&gt;. The basic idea of the contest is that over 99 hours, a team of three undergrads is tasked with choosing one of six open-ended questions, building some kind of mathematical model, and writing a paper synthesizing their findings along with external research.&lt;/p&gt;
+&lt;p&gt;Over the three years, my team&amp;rsquo;s projects spanned topics from happiness economics to the political impacts of climate change to the spread of the opioid epidemic. You can read more detailed descriptions of our projects here. After being named one of the 36 winners (out of more than 25,000 teams worldwide) in 2019, I feel qualified to give out some advice for this contest.&lt;/p&gt;
+&lt;p&gt;I won&amp;rsquo;t dive too much into the logistics, but preparing for the contest does make things run more smoothly. Pick out a place to work with your team where you won&amp;rsquo;t be distracted, where you have easy access to food and bathrooms, etc. Decide ahead of time what platforms you&amp;rsquo;re going to use to collaborate with your team (e.g. Overleaf, Google Docs, etc.). Plan ahead with school work / get excused from attending lecture so that you don&amp;rsquo;t have to worry about other responsibilities during the contest. Start the weekend well-rested.&lt;/p&gt;
+&lt;p&gt;Here is a list of tips that are more specific to how my team and I approached this contest. Clearly ours is not the only way to go, but if you&amp;rsquo;re on this site, it&amp;rsquo;s likely that you and I have some things in common.&lt;/p&gt;
+&lt;p&gt;Pick a problem for which at least someone on your team has a personal and/or educational affinity. Starting from scratch (no background knowledge) makes it a lot harder to be creative and write a compelling paper.
+Having an interdisciplinary team dramatically increases the odds that at least one of your team members will have an affinity for at least one of the topics, and facilitates division of labor throughout the contest.
+Ground your project with lots of external information. Throughout your paper, reference theory (from both the social and natural sciences, depending on the problem) to motivate your modeling choices and compare your results with real statistics. Just remember to include a reference for EVERYTHING.
+Don&amp;rsquo;t try to learn much (if any) new math or computational techniques. You can go far with simple tools, and struggling to understand new concepts is time-intensive.
+Bridging concepts across fields (especially ones with which one or more of your team members is already familiar) is a nice way of coming up with a novel solution that&amp;rsquo;s not too technically complex.
+Allocate plenty of time for writing and editing. A well-written paper (including the summary sheet) is crucial.
+Have fun with it! Your paper doesn&amp;rsquo;t have to be dry like many scientific journals &amp;ndash; in fact, the more creative you are, the more your paper will stick out to judges.
+Persevere :) The more years you attempt this contest, the more strategies you&amp;rsquo;ll have.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
