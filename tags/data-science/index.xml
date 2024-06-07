@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | Ellen Considine</title>
+    <link>http://localhost:4321/tags/data-science/</link>
+      <atom:link href="http://localhost:4321/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Data Science</title>
+      <link>http://localhost:4321/tags/data-science/</link>
+    </image>
+    
+    <item>
+      <title>Teaching Fellow for Graduate-Level Biostatistics Courses</title>
+      <link>http://localhost:4321/project/tf/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/tf/</guid>
+      <description>&lt;p&gt;Here are descriptions of the three full-semester courses that I helped teach at HSPH.&lt;/p&gt;
+&lt;h3 id=&#34;spring-2024-bst-226-applied-longitudinal-analysis&#34;&gt;Spring 2024: BST 226, Applied Longitudinal Analysis&lt;/h3&gt;
+&lt;p&gt;Approx. number of students: 100
+Course description: This course covers modern methods for the analysis of repeated measures, correlated outcomes and longitudinal data, including the unbalanced and incomplete data sets characteristic of biomedical research. Topics include an introduction to the analysis of correlated data, analysis of response profiles, fitting parametric curves, covariance pattern models, random effects and growth curve models, and generalized linear models for longitudinal data, including generalized estimating equations (GEE) and generalized linear mixed effects models (GLMMs).&lt;/p&gt;
+&lt;h3 id=&#34;fall-2023-bst-210-applied-regression-analysis&#34;&gt;Fall 2023: BST 210, Applied Regression Analysis&lt;/h3&gt;
+&lt;p&gt;Approx. number of students: 75
+Course description: Topics include model interpretation, model building, and model assessment for linear regression with continuous outcomes, logistic regression with binary outcomes, and proportional hazards regression with survival time outcomes. Specific topics include regression diagnostics, confounding and effect modification, goodness of fit, data transformations, splines and additive models, ordinal, multinomial, and conditional logistic regression, generalized linear models, overdispersion, Poisson regression for rate outcomes, hazard functions, and missing data. The course provides students with the skills necessary to perform regression analyses and to critically interpret statistical issues related to regression applications in the public health literature.&lt;/p&gt;
+&lt;h3 id=&#34;fall-2021-bst-222-basics-of-statistical-inference&#34;&gt;Fall 2021: BST 222, Basics of Statistical Inference&lt;/h3&gt;
+&lt;p&gt;Approx. number of students: 75
+Course description: This course provides a basic yet thorough introduction to the probability theory and mathematical statistics that underlie many of the commonly used techniques in public health research. Topics covered include probability distributions (normal, binomial, Poisson), means, variances and expected values, finite sampling distributions, parameter estimation (method of moments, maximum likelihood), confidence intervals, hypothesis testing (likelihood ratio, Wald and score tests). All theoretical material are motivated with problems from epidemiology, biostatistics, environmental health and other public health areas. This course is aimed towards second year doctoral students in fields other than Biostatistics. Background in algebra and calculus required.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overview of Data Science Tools for Climate &amp; Health</title>
+      <link>http://localhost:4321/project/online_course_climate-health-data-science/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/online_course_climate-health-data-science/</guid>
+      <description>&lt;p&gt;&lt;em&gt;As a pedagogy fellow during AY 2022-2023, I developed this short course for the new online master&amp;rsquo;s in public health program at HSPH.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Climate change is one of the most (if not the most) pressing challenges of our time. Meanwhile, data science is a rapidly expanding field; references to the power of “machine learning” are ubiquitous. But what does “machine learning” really mean in the context of public health and climate change? In what situations might a really nice map make advanced statistical analysis gratuitous? This module will help you build a mental framework for distinguishing different aspects of data science and gain intuition for when these tools have the most potential to help us study and fuel action at the intersection of climate and health.&lt;/p&gt;
+&lt;h2 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Differentiate between major categories of statistical / data science tools: (a) data visualization / mapping, (b) traditional statistical modeling / parametric regression, and (c) machine learning&lt;/li&gt;
+&lt;li&gt;Identify areas of climate &amp;amp; health research and/or policy work for which the different types of tools are best suited, possibly in combination or to complement one another&lt;/li&gt;
+&lt;li&gt;Gain familiarity with common critiques / drawbacks of these types of tools, specifically at the intersection of climate and health&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;course-videos&#34;&gt;Course Videos&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d899c27-b721-4867-b53d-b12500eadd24&#34;&gt;Trailer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=15a9d7f7-19f0-4faf-8d34-b12500eae303&#34;&gt;Part 1: Intro to Climate &amp;amp; Health Data Science&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba31e98a-befa-4093-b6ce-b12500eae130&#34;&gt;Part 2: Statistical Analysis for Climate &amp;amp; Health&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=30503792-2c29-4601-a2ec-b12500eadebd&#34;&gt;Part 3: Machine Learning for Climate &amp;amp; Health&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Science in the News Talk</title>
+      <link>http://localhost:4321/project/sitn/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/sitn/</guid>
+      <description>&lt;p&gt;I leveraged the material from my HPHR blog, as well as new content, to give a public-facing talk on air pollution, global health, data science, and public policy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Breathing Data Blog</title>
+      <link>http://localhost:4321/project/breathing_data/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/breathing_data/</guid>
+      <description>&lt;p&gt;In 2021, I wrote a series of blog posts on air pollution, global health, and data science for &lt;em&gt;HPHR Journal&lt;/em&gt;, formerly the &lt;em&gt;Harvard Public Health Review&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Cover image from PurpleAir map on June 7, 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Book Recommendations</title>
+      <link>http://localhost:4321/project/book_recs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/book_recs/</guid>
+      <description>&lt;p&gt;Life gets busy and it can be hard to find the time and motivation to sit down and read nonfiction. However, many of the most important ideas that frame my perspective on the world and my place in it have come from nonfiction books. If you have the time to explore some of the following, great! If you don&amp;rsquo;t have time to read the full books, I still recommend Googling these authors / titles. Whether it&amp;rsquo;s a summary of the book, a YouTube video, or an article or blog post, these people have ideas worth hearing!&lt;/p&gt;
+&lt;h2 id=&#34;environmental&#34;&gt;Environmental&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Regenesis: Feeding the World Without Devouring the Planet&lt;/em&gt; (2022) by George Monbiot&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The 100% Solution: A Plan for Solving Climate Change&lt;/em&gt; (2020) by Solomon Goldstein-Rose&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Climate Casino: Risk, Uncertainty, and Economics for a Warming World&lt;/em&gt; (2013) by William Norhaus&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Sixth Extinction: An Unnatural History&lt;/em&gt; (2014) by Elizabeth Kolbert&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Conundrum: How Scientific Innovation, Increased Efficiency, and Good Intentions Can Make Our Energy and Climate Problems Worse&lt;/em&gt; (2012) by David Owen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;data-science&#34;&gt;Data Science&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Alignment Problem: Machine Learning and Human Values&lt;/em&gt; (2020) by Brian Christian&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Invisible Women: Data Bias in a World Designed for Men&lt;/em&gt; (2019) by Caroline Criado-Perez&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Weapons of Math Destruction&lt;/em&gt; (2016) by Cathy O’Neil&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Signal and the Noise: Why So Many Predictions Fail - But Some Don’t&lt;/em&gt; (2012) by Nate Silver&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;global-health--inequality--development&#34;&gt;Global Health / Inequality / Development&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Divide: A Brief Guide to Global Inequality and its Solutions&lt;/em&gt; (2017) by Jason Hickel&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Caste: The Origins of Our Discontents&lt;/em&gt; (2020) by Isabel Wilkerson&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Great Escape: Health, Wealth, and the Origins of Inequality&lt;/em&gt; (2013) by Angus Deaton&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Factfulness: Ten Reasons We’re Wrong About the World &amp;ndash; and Why Things Are Better Than You Think&lt;/em&gt; (2018) by Hans Rosling, Anna Rosling Ronnlund, and Ola Rosling&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Give a Man a Fish: Reflections on the New Politics of Distribution&lt;/em&gt; (2015) by James Ferguson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;human-nature--behavioral-economics--public-policy&#34;&gt;Human Nature / Behavioral Economics / Public Policy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Yellow Pad: Making Better Decisions in an Uncertain World&lt;/em&gt; (2023) by Robert E. Rubin&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous&lt;/em&gt; (2020) by Joseph Henrich&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Sapiens: A Brief History of Humankind&lt;/em&gt; (2011) by Yuval Noah Harari&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Thinking, Fast and Slow&lt;/em&gt; (2011) by Daniel Kahneman&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Nudge: Improving Decisions About Health, Wealth, and Happiness&lt;/em&gt; (2009) by Richard H. Thaler and Cass R. Sunstein&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Predictably Irrational&lt;/em&gt; (2008) by Dan Ariely&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities&lt;/em&gt; (1982) by Mancur Olson&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science Communication | Ellen Considine</title>
+    <link>http://localhost:4321/tags/science-communication/</link>
+      <atom:link href="http://localhost:4321/tags/science-communication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Science Communication</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Science Communication</title>
+      <link>http://localhost:4321/tags/science-communication/</link>
+    </image>
+    
+    <item>
+      <title>Science in the News Talk</title>
+      <link>http://localhost:4321/project/sitn/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/sitn/</guid>
+      <description>&lt;p&gt;I leveraged the material from my HPHR blog, as well as new content, to give a public-facing talk on air pollution, global health, data science, and public policy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Breathing Data Blog</title>
+      <link>http://localhost:4321/project/breathing_data/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/breathing_data/</guid>
+      <description>&lt;p&gt;In 2021, I wrote a series of blog posts on air pollution, global health, and data science for &lt;em&gt;HPHR Journal&lt;/em&gt;, formerly the &lt;em&gt;Harvard Public Health Review&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Cover image from PurpleAir map on June 7, 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

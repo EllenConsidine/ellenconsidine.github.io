@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public Health | Ellen Considine</title>
+    <link>http://localhost:4321/tags/public-health/</link>
+      <atom:link href="http://localhost:4321/tags/public-health/index.xml" rel="self" type="application/rss+xml" />
+    <description>Public Health</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Public Health</title>
+      <link>http://localhost:4321/tags/public-health/</link>
+    </image>
+    
+    <item>
+      <title>Overview of Data Science Tools for Climate &amp; Health</title>
+      <link>http://localhost:4321/project/online_course_climate-health-data-science/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/online_course_climate-health-data-science/</guid>
+      <description>&lt;p&gt;&lt;em&gt;As a pedagogy fellow during AY 2022-2023, I developed this short course for the new online master&amp;rsquo;s in public health program at HSPH.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Climate change is one of the most (if not the most) pressing challenges of our time. Meanwhile, data science is a rapidly expanding field; references to the power of “machine learning” are ubiquitous. But what does “machine learning” really mean in the context of public health and climate change? In what situations might a really nice map make advanced statistical analysis gratuitous? This module will help you build a mental framework for distinguishing different aspects of data science and gain intuition for when these tools have the most potential to help us study and fuel action at the intersection of climate and health.&lt;/p&gt;
+&lt;h2 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Differentiate between major categories of statistical / data science tools: (a) data visualization / mapping, (b) traditional statistical modeling / parametric regression, and (c) machine learning&lt;/li&gt;
+&lt;li&gt;Identify areas of climate &amp;amp; health research and/or policy work for which the different types of tools are best suited, possibly in combination or to complement one another&lt;/li&gt;
+&lt;li&gt;Gain familiarity with common critiques / drawbacks of these types of tools, specifically at the intersection of climate and health&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;course-videos&#34;&gt;Course Videos&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d899c27-b721-4867-b53d-b12500eadd24&#34;&gt;Trailer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=15a9d7f7-19f0-4faf-8d34-b12500eae303&#34;&gt;Part 1: Intro to Climate &amp;amp; Health Data Science&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba31e98a-befa-4093-b6ce-b12500eae130&#34;&gt;Part 2: Statistical Analysis for Climate &amp;amp; Health&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=30503792-2c29-4601-a2ec-b12500eadebd&#34;&gt;Part 3: Machine Learning for Climate &amp;amp; Health&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Science in the News Talk</title>
+      <link>http://localhost:4321/project/sitn/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/sitn/</guid>
+      <description>&lt;p&gt;I leveraged the material from my HPHR blog, as well as new content, to give a public-facing talk on air pollution, global health, data science, and public policy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Breathing Data Blog</title>
+      <link>http://localhost:4321/project/breathing_data/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/breathing_data/</guid>
+      <description>&lt;p&gt;In 2021, I wrote a series of blog posts on air pollution, global health, and data science for &lt;em&gt;HPHR Journal&lt;/em&gt;, formerly the &lt;em&gt;Harvard Public Health Review&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Cover image from PurpleAir map on June 7, 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

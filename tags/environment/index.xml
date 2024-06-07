@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environment | Ellen Considine</title>
+    <link>http://localhost:4321/tags/environment/</link>
+      <atom:link href="http://localhost:4321/tags/environment/index.xml" rel="self" type="application/rss+xml" />
+    <description>Environment</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Environment</title>
+      <link>http://localhost:4321/tags/environment/</link>
+    </image>
+    
+    <item>
+      <title>Teaching Fellow for Graduate-Level Biostatistics Courses</title>
+      <link>http://localhost:4321/project/tf/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/tf/</guid>
+      <description>&lt;p&gt;Here are descriptions of the three full-semester courses that I helped teach at HSPH.&lt;/p&gt;
+&lt;h3 id=&#34;spring-2024-bst-226-applied-longitudinal-analysis&#34;&gt;Spring 2024: BST 226, Applied Longitudinal Analysis&lt;/h3&gt;
+&lt;p&gt;Approx. number of students: 100
+Course description: This course covers modern methods for the analysis of repeated measures, correlated outcomes and longitudinal data, including the unbalanced and incomplete data sets characteristic of biomedical research. Topics include an introduction to the analysis of correlated data, analysis of response profiles, fitting parametric curves, covariance pattern models, random effects and growth curve models, and generalized linear models for longitudinal data, including generalized estimating equations (GEE) and generalized linear mixed effects models (GLMMs).&lt;/p&gt;
+&lt;h3 id=&#34;fall-2023-bst-210-applied-regression-analysis&#34;&gt;Fall 2023: BST 210, Applied Regression Analysis&lt;/h3&gt;
+&lt;p&gt;Approx. number of students: 75
+Course description: Topics include model interpretation, model building, and model assessment for linear regression with continuous outcomes, logistic regression with binary outcomes, and proportional hazards regression with survival time outcomes. Specific topics include regression diagnostics, confounding and effect modification, goodness of fit, data transformations, splines and additive models, ordinal, multinomial, and conditional logistic regression, generalized linear models, overdispersion, Poisson regression for rate outcomes, hazard functions, and missing data. The course provides students with the skills necessary to perform regression analyses and to critically interpret statistical issues related to regression applications in the public health literature.&lt;/p&gt;
+&lt;h3 id=&#34;fall-2021-bst-222-basics-of-statistical-inference&#34;&gt;Fall 2021: BST 222, Basics of Statistical Inference&lt;/h3&gt;
+&lt;p&gt;Approx. number of students: 75
+Course description: This course provides a basic yet thorough introduction to the probability theory and mathematical statistics that underlie many of the commonly used techniques in public health research. Topics covered include probability distributions (normal, binomial, Poisson), means, variances and expected values, finite sampling distributions, parameter estimation (method of moments, maximum likelihood), confidence intervals, hypothesis testing (likelihood ratio, Wald and score tests). All theoretical material are motivated with problems from epidemiology, biostatistics, environmental health and other public health areas. This course is aimed towards second year doctoral students in fields other than Biostatistics. Background in algebra and calculus required.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Book Recommendations</title>
+      <link>http://localhost:4321/project/book_recs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/book_recs/</guid>
+      <description>&lt;p&gt;Life gets busy and it can be hard to find the time and motivation to sit down and read nonfiction. However, many of the most important ideas that frame my perspective on the world and my place in it have come from nonfiction books. If you have the time to explore some of the following, great! If you don&amp;rsquo;t have time to read the full books, I still recommend Googling these authors / titles. Whether it&amp;rsquo;s a summary of the book, a YouTube video, or an article or blog post, these people have ideas worth hearing!&lt;/p&gt;
+&lt;h2 id=&#34;environmental&#34;&gt;Environmental&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Regenesis: Feeding the World Without Devouring the Planet&lt;/em&gt; (2022) by George Monbiot&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The 100% Solution: A Plan for Solving Climate Change&lt;/em&gt; (2020) by Solomon Goldstein-Rose&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Climate Casino: Risk, Uncertainty, and Economics for a Warming World&lt;/em&gt; (2013) by William Norhaus&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Sixth Extinction: An Unnatural History&lt;/em&gt; (2014) by Elizabeth Kolbert&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Conundrum: How Scientific Innovation, Increased Efficiency, and Good Intentions Can Make Our Energy and Climate Problems Worse&lt;/em&gt; (2012) by David Owen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;data-science&#34;&gt;Data Science&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Alignment Problem: Machine Learning and Human Values&lt;/em&gt; (2020) by Brian Christian&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Invisible Women: Data Bias in a World Designed for Men&lt;/em&gt; (2019) by Caroline Criado-Perez&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Weapons of Math Destruction&lt;/em&gt; (2016) by Cathy O’Neil&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Signal and the Noise: Why So Many Predictions Fail - But Some Don’t&lt;/em&gt; (2012) by Nate Silver&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;global-health--inequality--development&#34;&gt;Global Health / Inequality / Development&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Divide: A Brief Guide to Global Inequality and its Solutions&lt;/em&gt; (2017) by Jason Hickel&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Caste: The Origins of Our Discontents&lt;/em&gt; (2020) by Isabel Wilkerson&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Great Escape: Health, Wealth, and the Origins of Inequality&lt;/em&gt; (2013) by Angus Deaton&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Factfulness: Ten Reasons We’re Wrong About the World &amp;ndash; and Why Things Are Better Than You Think&lt;/em&gt; (2018) by Hans Rosling, Anna Rosling Ronnlund, and Ola Rosling&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Give a Man a Fish: Reflections on the New Politics of Distribution&lt;/em&gt; (2015) by James Ferguson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;human-nature--behavioral-economics--public-policy&#34;&gt;Human Nature / Behavioral Economics / Public Policy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Yellow Pad: Making Better Decisions in an Uncertain World&lt;/em&gt; (2023) by Robert E. Rubin&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous&lt;/em&gt; (2020) by Joseph Henrich&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Sapiens: A Brief History of Humankind&lt;/em&gt; (2011) by Yuval Noah Harari&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Thinking, Fast and Slow&lt;/em&gt; (2011) by Daniel Kahneman&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Nudge: Improving Decisions About Health, Wealth, and Happiness&lt;/em&gt; (2009) by Richard H. Thaler and Cass R. Sunstein&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Predictably Irrational&lt;/em&gt; (2008) by Dan Ariely&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities&lt;/em&gt; (1982) by Mancur Olson&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

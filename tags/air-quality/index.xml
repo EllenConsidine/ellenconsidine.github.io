@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Air Quality | Ellen Considine</title>
+    <link>http://localhost:4321/tags/air-quality/</link>
+      <atom:link href="http://localhost:4321/tags/air-quality/index.xml" rel="self" type="application/rss+xml" />
+    <description>Air Quality</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Air Quality</title>
+      <link>http://localhost:4321/tags/air-quality/</link>
+    </image>
+    
+    <item>
+      <title>Investigating Use of Low-Cost Sensors to Increase Accuracy and Equity of Real-Time Air Quality Information</title>
+      <link>http://localhost:4321/publication/lcs_placements/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/lcs_placements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science in the News Talk</title>
+      <link>http://localhost:4321/project/sitn/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/sitn/</guid>
+      <description>&lt;p&gt;I leveraged the material from my HPHR blog, as well as new content, to give a public-facing talk on air pollution, global health, data science, and public policy.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
