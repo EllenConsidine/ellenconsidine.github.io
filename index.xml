@@ -402,7 +402,7 @@ data.head()
       <link>http://localhost:4321/project/nca5/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/nca5/</guid>
-      <description>&lt;p&gt;I helped coordinate response to public comment for the cross-cutting feature on western wildfires.&lt;/p&gt;
+      <description>&lt;p&gt;I helped coordinate response to public comments for the cross-cutting feature on western wildfires.&lt;/p&gt;
 </description>
     </item>
     
@@ -474,6 +474,32 @@ data.head()
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/publication/lcs_placements/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Final Projects from Upper Division Courses at Harvard and CU Boulder</title>
+      <link>http://localhost:4321/project/course_projects/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/course_projects/</guid>
+      <description>&lt;p&gt;To provide a sense of what I&amp;rsquo;ve worked on other than my research in the National Studies on Air Pollution &amp;amp; Health Group and Earth Lab, here is a list of my most substantial projects that resulted in course papers but not peer-reviewed publications:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reviewed state-of-the-art offline reinforcement learning algorithms&lt;/li&gt;
+&lt;li&gt;Investigated the usefulness of Bayesian Additive Regression Trees (BART) for estimating
+uncertainty in wildfire smoke prediction&lt;/li&gt;
+&lt;li&gt;Explored methods to deal with measurement error (noise) in longitudinal (correlated) data&lt;/li&gt;
+&lt;li&gt;Used distributed lag nonlinear models to investigate associations between air pollution and mortality&lt;/li&gt;
+&lt;li&gt;Explored the evolution of discourse surrounding global public health surveillance and
+information systems, including future opportunities and risks in implementation&lt;/li&gt;
+&lt;li&gt;Used network methods, spatial and socioeconomic data to model migration between U.S. cities&lt;/li&gt;
+&lt;li&gt;Used data assimilation methods to model seasonal flu cases in Denver, CO&lt;/li&gt;
+&lt;li&gt;Used spatial kriging to improve estimation of air quality from a random forest model&lt;/li&gt;
+&lt;li&gt;Used satellite imagery to analyze trends in air quality over Southeast Asia&lt;/li&gt;
+&lt;li&gt;Used a hierarchical model and change-point analysis to predict energy usage from
+temperature in U.S. cities. &lt;em&gt;My model was the class’s most accurate on unseen data&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Used a convolutional neural network to predict sociodemographic information based on
+satellite images of US cities&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
