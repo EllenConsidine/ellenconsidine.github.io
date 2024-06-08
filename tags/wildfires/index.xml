@@ -22,11 +22,29 @@
     </item>
     
     <item>
+      <title>Effect modification of the association between fine particulate air pollution during a wildfire event and respiratory health by area-level measures of socio-economic status, race/ethnicity, and smoking prevalence</title>
+      <link>http://localhost:4321/publication/wildfire-ses/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/wildfire-ses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evaluation of Model-Based PM2.5 Estimates for Exposure Assessment during Wildfire Smoke Episodes in the Western U.S.</title>
       <link>http://localhost:4321/publication/wildfire-pm/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/publication/wildfire-pm/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Breathing Data Blog</title>
+      <link>http://localhost:4321/project/breathing_data/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/breathing_data/</guid>
+      <description>&lt;p&gt;In 2021, I wrote a series of blog posts on air pollution, global health, and data science for &lt;em&gt;HPHR Journal&lt;/em&gt;, formerly the &lt;em&gt;Harvard Public Health Review&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Cover image from PurpleAir map on June 7, 2021.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
