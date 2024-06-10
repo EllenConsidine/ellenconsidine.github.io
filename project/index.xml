@@ -116,6 +116,14 @@ satellite images of US cities&lt;/li&gt;
     </item>
     
     <item>
+      <title></title>
+      <link>http://localhost:4321/project/ideas_resonate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/ideas_resonate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Book Recommendations</title>
       <link>http://localhost:4321/project/book_recs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
