@@ -22,6 +22,37 @@
     </item>
     
     <item>
+      <title>Review Editor for the Fifth National Climate Assessment, Focus on Western Wildfires</title>
+      <link>http://localhost:4321/project/nca5/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/nca5/</guid>
+      <description>&lt;p&gt;I helped coordinate response to public comments for the cross-cutting feature on western wildfires.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overview of Data Science Tools for Climate &amp; Health</title>
+      <link>http://localhost:4321/project/online_course_climate-health-data-science/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/online_course_climate-health-data-science/</guid>
+      <description>&lt;p&gt;&lt;em&gt;As a pedagogy fellow during AY 2022-2023, I developed this short course for the new online master&amp;rsquo;s in public health program at HSPH.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Climate change is one of the most (if not the most) pressing challenges of our time. Meanwhile, data science is a rapidly expanding field; references to the power of “machine learning” are ubiquitous. But what does “machine learning” really mean in the context of public health and climate change? In what situations might a really nice map make advanced statistical analysis gratuitous? This module will help you build a mental framework for distinguishing different aspects of data science and gain intuition for when these tools have the most potential to help us study and fuel action at the intersection of climate and health.&lt;/p&gt;
+&lt;h2 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Differentiate between major categories of statistical / data science tools: (a) data visualization / mapping, (b) traditional statistical modeling / parametric regression, and (c) machine learning&lt;/li&gt;
+&lt;li&gt;Identify areas of climate &amp;amp; health research and/or policy work for which the different types of tools are best suited, possibly in combination or to complement one another&lt;/li&gt;
+&lt;li&gt;Gain familiarity with common critiques / drawbacks of these types of tools, specifically at the intersection of climate and health&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;course-videos&#34;&gt;Course Videos&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d899c27-b721-4867-b53d-b12500eadd24&#34;&gt;Trailer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=15a9d7f7-19f0-4faf-8d34-b12500eae303&#34;&gt;Part 1: Intro to Climate &amp;amp; Health Data Science&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba31e98a-befa-4093-b6ce-b12500eae130&#34;&gt;Part 2: Statistical Analysis for Climate &amp;amp; Health&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=30503792-2c29-4601-a2ec-b12500eadebd&#34;&gt;Part 3: Machine Learning for Climate &amp;amp; Health&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Advice for the COMAP MCM/ICM</title>
       <link>http://localhost:4321/post/mcm-advice/</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
@@ -40,6 +71,30 @@
 &lt;li&gt;Have fun with it! Your paper doesn&amp;rsquo;t have to be dry like many scientific journals &amp;ndash; in fact, the more creative you are, the more your paper will stick out to judges.&lt;/li&gt;
 &lt;li&gt;Persevere :) The more years you attempt this contest, the more strategies you&amp;rsquo;ll have.&lt;/li&gt;
 &lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pursuing STEM, Motivated by the Humanities</title>
+      <link>http://localhost:4321/post/stem-humanities/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/post/stem-humanities/</guid>
+      <description>&lt;p&gt;In an alternate but closely related universe, I could easily have chosen a career in the humanities. I love learning about sociology and philosophy. I am most intellectually enthusiastic when pondering underlying societal phenomenon and the ways we might go about addressing societal issues which manifest human suffering.&lt;/p&gt;
+&lt;p&gt;However, several important factors guided my path into statistics and data science. Firstly, my parents brought my brother and me up to be very conscious of the vocational value of our educations, as well as to gravitate towards career paths which keep doors open and allow for maximal flexibility. Given the modern world&amp;rsquo;s number and variety of jobs in STEM, we were both nudged in that direction. Under the umbrella of practicality, I also grew up with the knowledge that PhDs in STEM are most often fully funded, while many/most other graduate degrees are not, and that it is most often easier to transition from a more technical / hard science field into a less technical / softer skills position than to transition the other way. Further, the fact that both of my parents studied science and math made going into STEM the obvious thing to do. Somewhere along the way, I also came to realize that being someone who wanted to and was able to effectively bridge ideas between STEM and humanities disciplines was relatively rare, making this a valuable niche to pursue. Finally, as I discuss at the end of &amp;ldquo;The Benefits of Attending Your State’s Public University for Undergrad&amp;rdquo;, there were a number of factors at CU that kept me in STEM once I was there, namely stronger peers and harder classes (on average) and more research opportunities &amp;ndash; many professors need students who can assist with quantitative tasks.&lt;/p&gt;
+&lt;p&gt;In this post, I reflect on my experiences as a STEM student with a humanities heart. A recent conversation with an older student in my PhD program reminded me that I&amp;rsquo;m far from alone in this and that being candid about our experiences can help to assure and guide others as they make their way on similar trajectories.&lt;/p&gt;
+&lt;h3 id=&#34;the-strength-of-interdisciplinarity&#34;&gt;The Strength of Interdisciplinarity&lt;/h3&gt;
+&lt;p&gt;Throughout undergrad, my choices of classes, projects, and extracurricular activities  were guided by my humanities interests. And it was at the intersection of my STEM and socially-oriented studies that my most interesting and meaningful experiences arose.&lt;/p&gt;
+&lt;p&gt;In many of my upper division classes, I had the opportunity to design a final project that built off of material from the class. Being able to select a social or environmental application that I was interested in made doing all of these projects more fun and useful. For instance: in my machine learning class, I worked on a model to classify cervical cancer cases (a huge public health problem in low- and middle-income countries). That same semester, I chose to write my final paper for my health and medical geography class on cervical cancer.  In my advanced remote sensing course, I analyzed air pollution trends (captured by satellite proxy) over six capital cities in South Asia. In my data assimilation class, I modeled annual flu seasons in Colorado. In my network dynamics course, I developed a model that used Census data to predict migration of people between major cities in the US. In my development geography class, I wrote a paper on the incorporation of data science into global public health.&lt;/p&gt;
+&lt;p&gt;This combination of STEM and social interests also led me to opportunities outside of classes. For instance, my simultaneous enrollment in environmental sociology and introductory data science courses in my freshman year led me to my environmental health data science research internship of the next three years (see &amp;ldquo;The Power of Showing Up and Reaching Out&amp;rdquo;). Drawing on my interests and affinities for mathematical modeling, analyzing social and environmental issues, and writing helped my team do well in the international COMAP MCM/ICM (see &amp;ldquo;Advice for the COMAP MCM/ICM&amp;rdquo;). And my interest in using STEM to help reduce socioeconomic inequities led me to CU Engineers Without Borders (EWB). My involvement in EWB over the four years was one of the most educational and meaningful experiences of my time in college.&lt;/p&gt;
+&lt;p&gt;Finally, being grounded by a sense of societal purpose helped me both internally and externally. Internally: feeling like I was doing meaningful work and/or tangibly preparing for a career of meaningful work helped motivate me when the going got tough. Externally: having a framework on which to base my personal narrative and goals made it much easier to apply for opportunities such as scholarships and graduate school.&lt;/p&gt;
+&lt;p&gt;This is not to say that developing this framework, figuring out how to combine my interests, was straightforward. For a detailed account of the twists and turns of my experience, see my post &amp;ldquo;On Finding a Career Path&amp;rdquo;.&lt;/p&gt;
+&lt;h3 id=&#34;potent-challenges&#34;&gt;Potent Challenges&lt;/h3&gt;
+&lt;p&gt;The previous sections might have made this kind of path seem like a no-brainer. However, the most obvious downside of my path is that I have struggled a lot with some of my applied math courses. Countless times, material in the more theory-based courses has made me feel intimidated and inadequate. I know from conversations with other students in my undergrad and grad programs that impostor syndrome (feeling like you don&amp;rsquo;t belong) is quite common. However, I suspect that I might have felt / continue to feel less anxious about my intellectual abilities had I chosen a field for which my brain feels a more direct affinity.&lt;/p&gt;
+&lt;p&gt;Also, being in a STEM program can make it harder to develop soft skills, due to lack of time. Taking the minimum required humanities classes for a STEM degree may not provide you with your desired levels of skill in writing, oral presentation/discussion, or thinking critically about social issues. Thus, you have to consciously carve out time for learning and practicing in these areas if you want them in your interdisciplinary toolbox. Especially when you have many other commitments, carving out extra time may not be trivial.&lt;/p&gt;
+&lt;h3 id=&#34;parting-thoughts&#34;&gt;Parting Thoughts&lt;/h3&gt;
+&lt;p&gt;If you find yourself in a similar position on your education/career path, I recommend going out of your way to find opportunities to use your interdisciplinary skills. These experiences can help to validate your efforts and make bearable the parts you don&amp;rsquo;t enjoy as much. To manage the impostor syndrome, I&amp;rsquo;ve also found it helpful to remind myself that I&amp;rsquo;m not directly competing (in a broader career sense) with the people who are killing the math theory game. If you&amp;rsquo;re someone who can use STEM tools but who are also driven by and can draw on non-technical domain knowledge, you&amp;rsquo;re able to define your own playing field, or league. Lastly, I advise carving out time to develop strong communication skills (written and oral). Collaborating across disciplines, especially if you want your work to have broader impacts, requires effective communication.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A related article (not mine): &lt;a href=&#34;https://www.lesswrong.com/posts/XvN2QQpKTuEzgkZHY/being-the-pareto-best-in-the-world&#34;&gt;&amp;ldquo;Being the (Pareto) Best in the World&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

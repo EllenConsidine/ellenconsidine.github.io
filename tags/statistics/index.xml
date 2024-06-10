@@ -31,7 +31,39 @@ Course description: This course provides a basic yet thorough introduction to th
     </item>
     
     <item>
-      <title>Final Projects from Upper Division Courses at Harvard and CU Boulder</title>
+      <title>Optimizing Heat Alert Issuance with Reinforcement Learning</title>
+      <link>http://localhost:4321/publication/hasdm/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/hasdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect modification of the association between fine particulate air pollution during a wildfire event and respiratory health by area-level measures of socio-economic status, race/ethnicity, and smoking prevalence</title>
+      <link>http://localhost:4321/publication/wildfire-ses/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/wildfire-ses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Model-Based PM2.5 Estimates for Exposure Assessment during Wildfire Smoke Episodes in the Western U.S.</title>
+      <link>http://localhost:4321/publication/wildfire-pm/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/wildfire-pm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Use of Low-Cost Sensors to Increase Accuracy and Equity of Real-Time Air Quality Information</title>
+      <link>http://localhost:4321/publication/lcs_placements/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/lcs_placements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upper Division Course Projects at Harvard and CU Boulder</title>
       <link>http://localhost:4321/project/course_projects/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/course_projects/</guid>

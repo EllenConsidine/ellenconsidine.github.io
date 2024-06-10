@@ -5,12 +5,20 @@
     <link>http://localhost:4321/tags/low-cost-sensors/</link>
       <atom:link href="http://localhost:4321/tags/low-cost-sensors/index.xml" rel="self" type="application/rss+xml" />
     <description>Low-Cost Sensors</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Low-Cost Sensors</title>
       <link>http://localhost:4321/tags/low-cost-sensors/</link>
     </image>
+    
+    <item>
+      <title>Investigating Use of Low-Cost Sensors to Increase Accuracy and Equity of Real-Time Air Quality Information</title>
+      <link>http://localhost:4321/publication/lcs_placements/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/lcs_placements/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Breathing Data Blog</title>

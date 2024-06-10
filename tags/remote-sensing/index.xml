@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Final Projects from Upper Division Courses at Harvard and CU Boulder</title>
+      <title>Upper Division Course Projects at Harvard and CU Boulder</title>
       <link>http://localhost:4321/project/course_projects/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/course_projects/</guid>
@@ -23,6 +23,7 @@
 &lt;li&gt;Investigated the usefulness of Bayesian Additive Regression Trees (BART) for estimating
 uncertainty in wildfire smoke prediction&lt;/li&gt;
 &lt;li&gt;Explored methods to deal with measurement error (noise) in longitudinal (correlated) data&lt;/li&gt;
+&lt;li&gt;Used distributed lag nonlinear models to investigate associations between air pollution and mortality&lt;/li&gt;
 &lt;li&gt;Explored the evolution of discourse surrounding global public health surveillance and
 information systems, including future opportunities and risks in implementation&lt;/li&gt;
 &lt;li&gt;Used network methods, spatial and socioeconomic data to model migration between U.S. cities&lt;/li&gt;

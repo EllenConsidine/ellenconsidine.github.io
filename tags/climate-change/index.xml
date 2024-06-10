@@ -5,7 +5,7 @@
     <link>http://localhost:4321/tags/climate-change/</link>
       <atom:link href="http://localhost:4321/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
     <description>Climate Change</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Climate Change</title>
@@ -13,20 +13,64 @@
     </image>
     
     <item>
-      <title>Climate &amp; Health Event Series, Science Policy Group</title>
-      <link>http://localhost:4321/project/scipol/</link>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/scipol/</guid>
-      <description>&lt;p&gt;One of the roles I undertook as Vice-President of the Harvard graduate student science policy group was co-organizing a series of events at the intersection of climate &amp;amp; health. This brought together students and staff from across the Harvard School of Public Health, Medical School, Dental School, and Graduate School of Arts &amp;amp; Sciences. In particular, I spearheaded and moderated a panel and networking dinner focused on the translation of research into policy.&lt;/p&gt;
+      <title>Zooming Out -- On Sustainability, Social Justice, and Data</title>
+      <link>http://localhost:4321/post/zooming-out/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/post/zooming-out/</guid>
+      <description>&lt;p&gt;The threat of climate change has been a driving motivation for both my professional and personal choices for many years. In practice, this has manifested as getting into the weeds with various academic subjects (i.e. air quality, statistics, public health, computer science) as well as recurrent introspection on many aspects of lifestyle. This spring, I was reminded of the importance of picking my head up and seeking out new perspectives &amp;ndash; despite the countless hours I&amp;rsquo;ve spent educating myself on environmental and social/economic justice topics, there is always more to learn and consider. In this blog, I&amp;rsquo;ll share some broad reflections from several recent experiences.&lt;/p&gt;
+&lt;p&gt;Most of the ideas here were inspired by:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Reading the book &lt;em&gt;Regenesis: Feeding the World Without Devouring the Planet&lt;/em&gt; (2022), by George Monbiot, and discussing in the Harvard graduate student Science Policy Group&lt;/li&gt;
+&lt;li&gt;Serving as a Review Editor for the US&amp;rsquo; Fifth National Climate Assessment (NCA5), facilitating the incorporation of comments from public and peer review on the Western Wildfires Focus Box&lt;/li&gt;
+&lt;li&gt;Attending the annual Health Effects Institute (HEI) Conference, specifically the sessions entitled &amp;ldquo;Exploring the Link Between Air Pollution and Health in High Pollution Environments&amp;rdquo; and &amp;ldquo;Addressing Air Pollution and Climate Change with Shared Solutions&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Facilitating or listening in on various climate and/or air quality-related webinars&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;appreciating-the-complexity&#34;&gt;Appreciating the complexity&lt;/h3&gt;
+&lt;p&gt;Reading &lt;em&gt;Regenesis&lt;/em&gt;, in particular, was a powerful reminder of how multifaceted our global environmental + social justice challenges are. While at this point in my academic career, I rarely encounter truly novel information about air pollution or its impacts on public health, I was struck by how many fundamental things I did not know about our global food system &amp;ndash; on topics ranging from soil, plants, water, and their interactions with each other and with the atmosphere, to the many ways in which antibiotics, toxic metals, and microplastics are introduced to various stages of our food production, to the countless perverse financial incentives affecting farmers worldwide, to the degree of corporate monopoly / oligopoly not only in agrochemicals but also in the overall supply / trade of food. The list goes on, but you get the idea.&lt;/p&gt;
+&lt;p&gt;Despite the previous paragraph mostly being about problems, my favorite thing about &lt;em&gt;Regenesis&lt;/em&gt; was its balance: between problems and solutions, between narrative and traditional nonfiction, between breadth and depth, between science and philosophy. One of the most compelling (and generalizable) sections was a discussion of modern complex systems. Monbiot (the author) illustrates how there is a tradeoff between pursuing efficiency and maintaining resilience: basically, while standardization, just-in-time delivery, and strong interconnectedness between nodes (companies, regions, etc.) all make sense for each individual actor at the time of implementation, they also facilitate cascading failure when something goes wrong at any place in the system. Think global supply chain issues during Covid, the financial crisis of 2008, etc. This comparison is even more apt given the increasing coupling of the financial sector with the global food system. While the concepts of diversification and redundancy are not at all new, I found that Regenesis effectively shone a spotlight on how our current food system is particularly vulnerable to cascading failure (with deadly consequences for people in low-income countries or circumstances), especially in the context of climate change. The main takeaway, echoed in other recent seminars / experiences, is that while individual action is important, what is really needed to ward off system-level failure are system-level safeguards.&lt;/p&gt;
+&lt;h3 id=&#34;reasons-for-optimism&#34;&gt;Reasons for optimism&lt;/h3&gt;
+&lt;p&gt;One of Monbiot&amp;rsquo;s critiques which felt particularly relevant to me (as a current grad student) was directed at modern academia: &amp;ldquo;A tremendous body of knowledge accumulates, but the walls between disciplines are high. In science, modularity is dangerous.&amp;rdquo; This year, participating in the preparation of the US NCA5 gave me a rare view of what fully bringing together and bridging scientific disciplines can look like. The National Climate Assessment is a large report, produced approximately every five years, summarizing the current and future impacts of climate change on the US. It is written by more than 300 experts, spanning disciplines ranging from forest ecology to urban planning. For the NCA5, a new element is the inclusion of &amp;ldquo;focus boxes&amp;rdquo;, or short chapters on topics that touch many other disciplines: compound events (disasters), Covid-19, risks to supply chains, blue carbon, and western wildfires. Other developments of the NCA5 (in contrast to previous assessments) were an increased focus on adaptation in addition to mitigation and both acknowledgement and discussion of environmental justice in every chapter.&lt;/p&gt;
+&lt;p&gt;For me, sitting in a conference hall filled with the authors of the NCA5, listening to presentations (both scientific and activist * ) at the HEI conference as well as other climate change-related seminars, and reading &lt;em&gt;Regenesis&lt;/em&gt; were all positive reminders of how many smart, caring people are dedicating their lives to figuring out how to solve our pressing environmental / societal challenges. This is not to say that it feels in any way inevitable that everything will turn out alright &amp;ndash; there is a tremendous amount of work yet to be done, much of it in translating the science into regulatory, industrial, and social reform. But I feel more hopeful than I have in a while. And I imagine that by reading this, you might too.&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;As an example of actions being taken to fight environmental injustice, one of the most memorable presentations at the HEI conference was by GreenRoots, a community-based organization started in Chelsea, MA. Despite its close proximity to Boston, Chelsea (which is majority-racial minority) has much higher levels of pollution, mostly due to the high density of industrial facilities sited in and near the community. Check out a list of GreenRoots&amp;rsquo; recent successes here. But don&amp;rsquo;t forget to come back to this blog &amp;ndash; the most important section is below!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;re-examining-techno-centrism&#34;&gt;Re-examining techno-centrism&lt;/h3&gt;
+&lt;p&gt;After reading &lt;em&gt;Regenesis&lt;/em&gt;, I looked up some critiques of the book, to see what aspects might be reasonably contested. I&amp;rsquo;ve included the links to the most credible at the end of this blog. The following recommendations made by Monbiot appear to be somewhat universal among environmentalists (who care about human welfare) with regards to the global food system:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dramatically shift our diets to rely less on animal products and highly-processed sugars/carbohydrates (the latter more for public health reasons)&lt;/li&gt;
+&lt;li&gt;Minimize our use of water and farm chemicals, relying on organic interventions where necessary to enhance fertility&lt;/li&gt;
+&lt;li&gt;Research and develop a high-yield &lt;a href=&#34;https://www.fao.org/agroecology/overview/en/&#34;&gt;agroecology&lt;/a&gt;, including deepening our understanding of different kinds of soil&lt;/li&gt;
+&lt;li&gt;Break global corporations&amp;rsquo; grip on the food chain and diversify the global food system&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Monbiot then goes on to make the following recommendations, which are the target of some critique:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Limit the land we use to feed humanity&lt;/li&gt;
+&lt;li&gt;Stop farming animals entirely&lt;/li&gt;
+&lt;li&gt;Replace the protein and fat from animals with &lt;a href=&#34;https://gfi.org/resource/precision-fermentation-and-cellular-agriculture/&#34;&gt;precision fermentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Rewild the land released from farming&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In general, Monbiot also puts a lot of emphasis on numeracy, shifting the discourse about food and its production to be less aesthetic and more practical, and wherever possible using scientific &amp;ldquo;understanding of complex systems to trigger cascading change&amp;rdquo;. While I was reading the book, Monbiot&amp;rsquo;s suggestions all made a lot of sense to me. But some of the critiques I later read helped me to zoom out even farther, identifying some of my own blind spots.&lt;/p&gt;
+&lt;p&gt;One of the most salient critiques of Monbiot&amp;rsquo;s whole platform is that despite his calls for strong antitrust laws and restraint of intellectual property regarding precision fermentation, history and current movements by major corporations indicate that oligopoly control of this new technology has relatively high likelihood. Using his own logic about increasingly-standardized nodes in complex systems, critics argue that although precision fermentation is less vulnerable to climate change than crops and animals living outdoors, it is still exposed to the capriciousness of the financial sector. My personal take (acknowledging that this is not my field of expertise and I haven&amp;rsquo;t thought about it for more than a couple of months) is that if precision fermentation is what it takes to save humanity&amp;rsquo;s existence on Earth in the short run, then we will have time to figure out everything else (e.g. economic inequality) in the long run.&lt;/p&gt;
+&lt;p&gt;However, I also acknowledge the broader critique of Monbiot&amp;rsquo;s platform: that it is very techno-centric. &lt;a href=&#34;https://en.wikipedia.org/wiki/Technocentrism&#34;&gt;Techno-centrism&lt;/a&gt;, or the belief that technology can address all environmental / ecological problems, has long been debated in the context of climate change. Historically, a lot of the buzz surrounded carbon capture as a possible solution to anthropogenic greenhouse gas emissions. (The current scientific consensus is that while carbon capture can help us with the &amp;ldquo;last mile&amp;rdquo;, it is not cost-effective for counteracting the vast majority of emissions.) But this is only one example of holding technology up as a silver bullet to fix environmental degradation.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://unherd.com/2022/11/the-truth-about-eco-fascism/&#34;&gt;One of the critiques&lt;/a&gt; of &lt;em&gt;Regenesis&lt;/em&gt; articulated an important point:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;The question you ask will frame the philosophy you develop. If your question is &amp;lsquo;how can we remove all this atmospheric carbon to avoid what these computer models say is coming?&amp;rsquo; then the answer can only lead you to a globalized technocracy. If, on the other hand, the question you ask is &amp;lsquo;how can we build lives which offer us meaning, in alliance with the rest of nature?&amp;rsquo; then you may be led in a very different direction.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The author of this article, Paul Kingsnorth, also posited a broader critique of 21st century environmentalism:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;If you have ever wondered why climate change has so utterly dominated the green debate to the exclusion of so many other problems which stem from industrial society — mass extinction, soil erosion, the collapse of human cultures, ocean pollution — then the answer, I think, is here. Climate change is a problem amenable to numerical questions and technocratic answers. It is, furthermore, a problem which, almost by definition, can only be solved by elites. If you can’t read or understand the &amp;lsquo;peer-reviewed science&amp;rsquo; then you are open to being intimidated into fearful silence by those who can, or claim they can. And those people — drawn, as all green &amp;rsquo;thought leaders&amp;rsquo; are, from the upper strata of society — will bring with them a worldview which treats the mass of humanity like so many cattle to be herded into the sustainable, zero-carbon pen.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Having spent my last 3 years in the Biostatistics PhD program at Harvard, the 4 years before that at CU Boulder surrounded by people in STEM, and my childhood in Boulder (one of the most highly-educated cities in America), I am a poster child for Kingsnorth&amp;rsquo;s critique. And while I think the whole &amp;ldquo;treats the mass of humanity like so many cattle to be herded into the sustainable, zero-carbon pen&amp;rdquo; is overly harsh, I see some truth in his point about climate change lending itself more easily to quantitative analysis than many other environmental and societal problems. ** Similarly, environmental (health) statistics research is dominated by questions related to the quality and temperature of the air, rather than other mediums like water or soil, in part because of our ability to use measurements from technologies such as stationary ground-level monitors and satellite imagery to make inferences about broader areas and population exposures, given atmospheric mixing.&lt;/p&gt;
+&lt;p&gt;But ultimately, Kingsnorth and several other critics don&amp;rsquo;t seem to care so much about the elevation of climate science and renewable energy research over marine biology or soil science so much as the elevation of formal scientific investigation and technology overshadowing other forms of knowing and interacting with the environment. Several articles expressed concern that although in Regenesis Monbiot describes the importance of personal connection with nature, his recommended solutions might further distance people&amp;rsquo;s feeling of being connected to and dependent on the Earth and non-human species, with negative consequences both for people&amp;rsquo;s pursuit of meaning and concern for the environment. Borrowing one of Monbiot&amp;rsquo;s examples, I personally don&amp;rsquo;t see how a &amp;ldquo;dinosaur nugget&amp;rdquo; whose inner protein is sourced from precision fermentation distances people any more from nature or life meaning than one with protein sourced from chicken born, raised, and slaughtered on a factory farm. But I fully agree with the overarching point that it is important to be guided by diverse, not necessarily quantitative perspectives &amp;ndash; including lower-income, rural, Indigenous, Global South &amp;ndash; in attempting to design a more just and sustainable future for us all. And of course, that it is critical to continue trying to make both quantitative data sets and the groups of people who analyze them more representative of the population at large.&lt;/p&gt;
+&lt;p&gt;Harmony between these two visions was articulated nicely by someone at the HEI conference, who said that while it&amp;rsquo;s easier to identify hotspots at scale, fixing the hotspots has to happen locally. In other words, while scientists with access to large data sets can help identify things like distributions, trends, or clusters from above, and can make &lt;em&gt;recommendations&lt;/em&gt; for where (and even how) to allocate societal resources to where they are most needed, and technologists can design tools that can be widely used, the ultimate implementation of effective, lasting solutions requires local buy-in and often also local tailoring. One size does not fit all &amp;ndash; even in the case of precision fermentation. Local government, businesses, and community-based organizations have a vital (possibly the most significant) role to play in the pursuit of environmental sustainability and social justice.&lt;/p&gt;
+&lt;h3 id=&#34;in-closing&#34;&gt;In closing&lt;/h3&gt;
+&lt;p&gt;Whether you&amp;rsquo;ve enjoyed this blog or not, I highly encourage you to go read &lt;em&gt;Regenesis&lt;/em&gt;! As I&amp;rsquo;ve discussed here, not everyone agrees with Monbiot&amp;rsquo;s perspectives, but being exposed to them and all the research he references is prime fodder for individual reflection and conversations about food, people, nature, and more.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Critiques of &lt;em&gt;Regenesis&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.resilience.org/stories/2022-07-20/from-regenesis-to-re-exodus-of-george-monbiot-mathematical-modernism-and-the-case-for-agrarian-localism/&#34;&gt;&amp;ldquo;From regenesis to re-exodus: of George Monbiot, mathematical modernism and the case for agrarian localism&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sustainablefoodtrust.org/news-views/regenesis-response/&#34;&gt;&amp;ldquo;Considering Regenesis: A Perspective from the Sustainable Food Trust&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://unherd.com/2022/11/the-truth-about-eco-fascism/&#34;&gt;&amp;ldquo;The truth about eco-fascism: Environmentalism has been hijacked by the technocrats&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;** 2024 addendum: I ran across &lt;a href=&#34;https://thelearningplanet.wordpress.com/2022/06/07/earth-crisis-blinkers/&#34;&gt;this blog post&lt;/a&gt; which has a nice figure and discussion about &amp;ldquo;earth crisis blinkers&amp;rdquo;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Optimizing Heat Alert Issuance with Reinforcement Learning</title>
-      <link>http://localhost:4321/publication/hasdm/</link>
-      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/hasdm/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -34,29 +78,87 @@
       <link>http://localhost:4321/project/nca5/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/nca5/</guid>
-      <description>&lt;p&gt;I helped coordinate response to public comment for the cross-cutting feature on western wildfires.&lt;/p&gt;
+      <description>&lt;p&gt;I helped coordinate response to public comments for the cross-cutting feature on western wildfires.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Overview of Data Science Tools for Climate &amp; Health</title>
-      <link>http://localhost:4321/project/online_course_climate-health-data-science/</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/online_course_climate-health-data-science/</guid>
-      <description>&lt;p&gt;&lt;em&gt;As a pedagogy fellow during AY 2022-2023, I developed this short course for the new online master&amp;rsquo;s in public health program at HSPH.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;Climate change is one of the most (if not the most) pressing challenges of our time. Meanwhile, data science is a rapidly expanding field; references to the power of “machine learning” are ubiquitous. But what does “machine learning” really mean in the context of public health and climate change? In what situations might a really nice map make advanced statistical analysis gratuitous? This module will help you build a mental framework for distinguishing different aspects of data science and gain intuition for when these tools have the most potential to help us study and fuel action at the intersection of climate and health.&lt;/p&gt;
-&lt;h2 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Differentiate between major categories of statistical / data science tools: (a) data visualization / mapping, (b) traditional statistical modeling / parametric regression, and (c) machine learning&lt;/li&gt;
-&lt;li&gt;Identify areas of climate &amp;amp; health research and/or policy work for which the different types of tools are best suited, possibly in combination or to complement one another&lt;/li&gt;
-&lt;li&gt;Gain familiarity with common critiques / drawbacks of these types of tools, specifically at the intersection of climate and health&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;course-videos&#34;&gt;Course Videos&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d899c27-b721-4867-b53d-b12500eadd24&#34;&gt;Trailer&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=15a9d7f7-19f0-4faf-8d34-b12500eae303&#34;&gt;Part 1: Intro to Climate &amp;amp; Health Data Science&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba31e98a-befa-4093-b6ce-b12500eae130&#34;&gt;Part 2: Statistical Analysis for Climate &amp;amp; Health&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=30503792-2c29-4601-a2ec-b12500eadebd&#34;&gt;Part 3: Machine Learning for Climate &amp;amp; Health&lt;/a&gt;&lt;/p&gt;
+      <title>Breathing Data Blog</title>
+      <link>http://localhost:4321/project/breathing_data/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/breathing_data/</guid>
+      <description>&lt;p&gt;In 2021, I wrote a series of blog posts on air pollution, global health, and data science for &lt;em&gt;HPHR Journal&lt;/em&gt;, formerly the &lt;em&gt;Harvard Public Health Review&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Cover image from PurpleAir map on June 7, 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On Having an Impact, Part 2</title>
+      <link>http://localhost:4321/post/impact-part2/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/post/impact-part2/</guid>
+      <description>&lt;p&gt;The Effective Altruism (EA) / 80,000 Hours philosophy has guided many of my thoughts and actions over the past 4+ years. In this post, my goal is to articulate some of the most important and generalizable aspects of my EA journey so far. If you haven&amp;rsquo;t yet encountered the EA / 80,000 Hours movement, I recommend checking out Part 1!&lt;/p&gt;
+&lt;h3 id=&#34;overall-reflections&#34;&gt;Overall Reflections&lt;/h3&gt;
+&lt;p&gt;Internalizing many of the EA / 80,000 Hours ideas guided me into the field of environmental public health / biostatistics, no question. This semester, I’ve really enjoyed seeing the close alignment between these fields / movements in my introductory public health classes. Of course, there are countless other fields in which one can pursue having a positive impact along the lines of the EA literature. I can simply confirm that I am glad to have made decisions in accordance with this paradigm.&lt;/p&gt;
+&lt;p&gt;However, critically examining one&amp;rsquo;s overall impact is not for the faint of heart. Some of the most distressing loops I&amp;rsquo;ve gotten stuck in over the years include questioning whether certain career / life opportunities are worth their associated environmental costs (such as plane flights) and financial costs (i.e. would it be better to donate money now to a cause than to invest in my personal career capital, which may help that or another cause in the long term?), balancing avoidance of the &amp;ldquo;white savior complex&amp;rdquo; with the potential for bringing in funding and technical expertise to under-resourced areas, and deciding how much to focus on science vs. public policy more directly.&lt;/p&gt;
+&lt;h3 id=&#34;balancing-different-kinds-of-good&#34;&gt;Balancing Different Kinds of Good&lt;/h3&gt;
+&lt;p&gt;The crux of the matter is that nothing we can do is 100% good by all definitions. Even determining if our actions have net positive impact is challenging / impossible. Was my flight to Nepal to volunteer with Engineers Without Borders net positive? In addition to the work that we did and the personal connections we made, all of the learning I did over that summer has helped me to build a more resilient mental framework about global inequities and to more realistically compare pathways for reducing global poverty. But will my having that knowledge end up being more helpful to others than if I’d simply donated the money for my plane ticket to one of the most cost-effective charitable organizations? Wouldn’t my environmental footprint be so much smaller if, instead of going to graduate school and pursuing a professional career, I went and lived off the grid in a tiny cabin in the woods? But then I would be reducing my opportunities to interact with and help others&amp;hellip;&lt;/p&gt;
+&lt;p&gt;The what-ifs are endless, and it’s easy to feel overwhelmed if you let yourself dive too deep too often.&lt;/p&gt;
+&lt;p&gt;Regarding the &lt;em&gt;timing&lt;/em&gt; of individual giving, I have found &lt;a href=&#34;https://80000hours.org/articles/should-you-wait/&#34;&gt;this 80,000 Hours framework&lt;/a&gt; to be helpful. But that still doesn’t necessarily help us distinguish between / balance different types of “good”. Any model that we make to try and quantify and compare different kinds of impacts will have massive uncertainty and subjectivity because there are so many things that are difficult and/or rely on philosophical judgements to quantify. How do we value investment in public K-12 education versus Medicare? Funding to conserve biodiversity versus to fight oppression based on race, gender, or sexual identity? Etc&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Much as I enjoy building mathematical models to describe the world, I don&amp;rsquo;t believe there is a way to maximize good across all the areas of life and society that I care about. Ultimately, on an individual level we have to choose what cause(s) to prioritize based on personal affinity and potential for impact. On a societal level, I believe that democracy is one of our best tools for deciding fair allocation of resources, though even the best national democracy is likely to fall short when considering international and/or intergenerational issues, given lack of representation by all affected parties. This, in turn, highlights the importance of public education, as it can help a population to be aware of the plights of other people across space and time.&lt;/p&gt;
+&lt;h3 id=&#34;fighting-the-white--privileged-savior-complex&#34;&gt;Fighting the White / Privileged Savior Complex&lt;/h3&gt;
+&lt;p&gt;One of the biggest issues with the traditional EA paradigm is that it often assumes, or at least strongly implies, that people from privileged backgrounds can know and do what’s best for people in under-resourced situations. This can lead to ineffective or even harmful interventions, and also often perpetuates professional and socio-cultural power differentials between people in higher- and lower-income countries or communities within the same country. This problem is acknowledged (with links to more lengthy discussions) in the &lt;a href=&#34;https://www.effectivealtruism.org/faqs-criticism-objections#how-are-the-people-youre-trying-to-help-involved-in-the-decision-making&#34;&gt;Effective Altruism list of common objections&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My experiences associated with Engineers Without Borders confronted me with related issues countless times, and in large part convinced me to pursue a career in which I could help gain knowledge and allocate resources on more systemic levels. However, as I&amp;rsquo;ve discussed with multiple professors and other respected mentors, the counterweight is that directly focusing on research or interventions in low-income areas can bring in much-needed funding from higher-income institutions.&lt;/p&gt;
+&lt;p&gt;This issue will not disappear any time soon; I anticipate needing to re-evaluate my ability to provide assistance without overstepping in all my future projects. In general, I believe that people with lived experience and/or intimate expertise must be included (and ideally should lead) when making decisions regarding ways to promote causes such as poverty reduction and racial justice. I dive deeper into this last conviction in my &amp;ldquo;Reflections on Privilege in Higher Education&amp;rdquo;.&lt;/p&gt;
+&lt;h3 id=&#34;careers-in-science-vs-policy&#34;&gt;Careers in Science vs. Policy&lt;/h3&gt;
+&lt;p&gt;Finally, there is clearly a spectrum in terms of how long it takes our work to positively impact the lives of others. In terms of fields that I’m interested in: many technical problems in science (especially those focused on methodology) are not immediately relevant for helping other people (and thus may feel less impactful) in the way that pushing forward legislation in a government agency or working for a non-governmental organization can be. This can be disheartening for those of us who are motivated by a more personal connection to the impacts of our work.&lt;/p&gt;
+&lt;p&gt;However, I sense (and have been told by respected mentors) that this is changing somewhat: many scientists are beginning to engage directly with decision makers. This trend is boosted by the increasing availability of near-real-time data sets (e.g. Covid-19 counts) and recognition that sorting through such data sets often requires scientific expertise.&lt;/p&gt;
+&lt;p&gt;At this point, while I&amp;rsquo;m sure I&amp;rsquo;ll continue to grapple with such questions for many years to come, I&amp;rsquo;m operating under the hope that by gaining a data science skill set grounded in public health applications, I&amp;rsquo;ll be able to strike a balance in my career between indirect and direct work to help others. Though I’m still very much in the midst of figuring this stuff out, my best advice to stay motivated (for anyone following a similar path) is to seek out opportunities to help others along the way, through mentoring, collaborating on applied projects, volunteering, or some combination of the above.&lt;/p&gt;
+&lt;h3 id=&#34;parting-thoughts&#34;&gt;Parting Thoughts&lt;/h3&gt;
+&lt;p&gt;Though I have found the EA / 80,000 Hours framework to be useful in framing my individual pursuit of positive societal impact, I do not believe that this is the only way to make decisions leading to a meaningful life. For instance, I highly value others&amp;rsquo; decision to pursue careers in music and writing fiction. Art could be considered a different kind of positive impact, but I tend to see it as divergent from the traditional EA / 80,000 Hours path.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Book Recommendations</title>
+      <link>http://localhost:4321/project/book_recs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/book_recs/</guid>
+      <description>&lt;p&gt;Life gets busy and it can be hard to find the time and motivation to sit down and read nonfiction. However, many of the most important ideas that frame my perspective on the world and my place in it have come from nonfiction books. If you have the time to explore some of the following, great! If you don&amp;rsquo;t have time to read the full books, I still recommend Googling these authors / titles. Whether it&amp;rsquo;s a summary of the book, a YouTube video, or an article or blog post, these people have ideas worth hearing!&lt;/p&gt;
+&lt;h2 id=&#34;environmental&#34;&gt;Environmental&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Regenesis: Feeding the World Without Devouring the Planet&lt;/em&gt; (2022) by George Monbiot&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The 100% Solution: A Plan for Solving Climate Change&lt;/em&gt; (2020) by Solomon Goldstein-Rose&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Conundrum: How Scientific Innovation, Increased Efficiency, and Good Intentions Can Make Our Energy and Climate Problems Worse&lt;/em&gt; (2012) by David Owen&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Sixth Extinction: An Unnatural History&lt;/em&gt; (2014) by Elizabeth Kolbert&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Climate Casino: Risk, Uncertainty, and Economics for a Warming World&lt;/em&gt; (2013) by William Norhaus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;data-science&#34;&gt;Data Science&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Alignment Problem: Machine Learning and Human Values&lt;/em&gt; (2020) by Brian Christian&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Invisible Women: Data Bias in a World Designed for Men&lt;/em&gt; (2019) by Caroline Criado-Perez&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Weapons of Math Destruction&lt;/em&gt; (2016) by Cathy O’Neil&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Signal and the Noise: Why So Many Predictions Fail - But Some Don’t&lt;/em&gt; (2012) by Nate Silver&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;global-health--inequality--development&#34;&gt;Global Health / Inequality / Development&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Divide: A Brief Guide to Global Inequality and its Solutions&lt;/em&gt; (2017) by Jason Hickel&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Caste: The Origins of Our Discontents&lt;/em&gt; (2020) by Isabel Wilkerson&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Great Escape: Health, Wealth, and the Origins of Inequality&lt;/em&gt; (2013) by Angus Deaton&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Factfulness: Ten Reasons We’re Wrong About the World &amp;ndash; and Why Things Are Better Than You Think&lt;/em&gt; (2018) by Hans Rosling, Anna Rosling Ronnlund, and Ola Rosling&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Give a Man a Fish: Reflections on the New Politics of Distribution&lt;/em&gt; (2015) by James Ferguson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;human-nature--behavioral-economics--public-policy&#34;&gt;Human Nature / Behavioral Economics / Public Policy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Anxiety: A Philosophical Guide&lt;/em&gt; (2024) by Samir Chopra&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Yellow Pad: Making Better Decisions in an Uncertain World&lt;/em&gt; (2023) by Robert E. Rubin&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous&lt;/em&gt; (2020) by Joseph Henrich&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Sapiens: A Brief History of Humankind&lt;/em&gt; (2011) by Yuval Noah Harari&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities&lt;/em&gt; (1982) by Mancur Olson&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Thinking, Fast and Slow&lt;/em&gt; (2011) by Daniel Kahneman&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Nudge: Improving Decisions About Health, Wealth, and Happiness&lt;/em&gt; (2009) by Richard H. Thaler and Cass R. Sunstein&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Predictably Irrational&lt;/em&gt; (2008) by Dan Ariely&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
