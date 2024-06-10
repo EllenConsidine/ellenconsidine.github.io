@@ -321,7 +321,13 @@
     <loc>http://localhost:4321/project/book_recs/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:4321/tags/environmental-health/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:4321/tags/human-nature/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/project/ideas_resonate/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
