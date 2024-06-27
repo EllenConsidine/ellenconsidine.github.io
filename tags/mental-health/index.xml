@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mental Health | Ellen Considine</title>
-    <link>http://localhost:4321/tags/mental-health/</link>
-      <atom:link href="http://localhost:4321/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://EllenConsidine.github.io/tags/mental-health/</link>
+      <atom:link href="https://EllenConsidine.github.io/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
     <description>Mental Health</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Mental Health</title>
-      <link>http://localhost:4321/tags/mental-health/</link>
+      <link>https://EllenConsidine.github.io/tags/mental-health/</link>
     </image>
     
     <item>
       <title>An Honest Conversation About Box-Checking</title>
-      <link>http://localhost:4321/post/box-checking/</link>
+      <link>https://EllenConsidine.github.io/post/box-checking/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/box-checking/</guid>
+      <guid>https://EllenConsidine.github.io/post/box-checking/</guid>
       <description>&lt;p&gt;&amp;ldquo;Box-checking&amp;rdquo; has a pretty negative connotation. It implies that your actions are inauthentic: the only reason you are doing something is to put it on your resume / achieve some glamorous end goal, not because you actually want to do it. It is often associated with helicopter parents and overachieving students trying to get into prestigious colleges. It is perceived as soulless running of the rat race. In this post, I attempt to flesh out a more nuanced perspective.&lt;/p&gt;
 &lt;p&gt;Over the years, I have observed that feeling the need to fill out one&amp;rsquo;s resume and appear objectively impressive can be incredibly stressful and potentially damaging for individuals&amp;rsquo; mental health. In high school, many of my peers were stressed all the time about whether they were doing enough to be accepted into their dream colleges. I feel fortunate to have avoided this in my late teenage years because I planned to attend my home state university. I truly believe that I was doing the things I did in high school (focusing mostly on music and sports) because I enjoyed them, not because I felt forced to do them.&lt;/p&gt;
 &lt;p&gt;After starting college, however, the lines between authentic engagement and box-checking became more blurred for me. Did I join Engineers Without Borders purely because I wanted to help other people and learn about the world or because I wanted this cool international volunteering experience in my back pocket? Did I start doing my research internship because I really wanted to spend more hours of the day learning how to code in R or because I knew that it would open doors to future opportunities? Did I spend more time than I needed to setting up a socially-positive collaborative research project simply because I thought that it was important work to do or because I was already planning to apply for grad school in public health and knew that such a project would help strengthen my application? The honest answer to all of these questions is &lt;em&gt;both&lt;/em&gt;. At times, I have felt uncomfortable with this duality: am I doing this because I care about it or because it will look good on my resume?&lt;/p&gt;
@@ -45,9 +45,9 @@
     
     <item>
       <title>Book Recommendations</title>
-      <link>http://localhost:4321/project/book_recs/</link>
+      <link>https://EllenConsidine.github.io/project/book_recs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/book_recs/</guid>
+      <guid>https://EllenConsidine.github.io/project/book_recs/</guid>
       <description>&lt;p&gt;Life gets busy and it can be hard to find the time and motivation to sit down and read nonfiction. However, many of the most important ideas that frame my perspective on the world and my place in it have come from nonfiction books. If you have the time to explore some of the following, great! If you don&amp;rsquo;t have time to read the full books, I still recommend Googling these authors / titles. Whether it&amp;rsquo;s a summary of the book, a YouTube video, or an article or blog post, these people have ideas worth hearing!&lt;/p&gt;
 &lt;h2 id=&#34;environmental&#34;&gt;Environmental&lt;/h2&gt;
 &lt;ul&gt;

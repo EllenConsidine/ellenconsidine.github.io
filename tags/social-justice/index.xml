@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Justice | Ellen Considine</title>
-    <link>http://localhost:4321/tags/social-justice/</link>
-      <atom:link href="http://localhost:4321/tags/social-justice/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://EllenConsidine.github.io/tags/social-justice/</link>
+      <atom:link href="https://EllenConsidine.github.io/tags/social-justice/index.xml" rel="self" type="application/rss+xml" />
     <description>Social Justice</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Social Justice</title>
-      <link>http://localhost:4321/tags/social-justice/</link>
+      <link>https://EllenConsidine.github.io/tags/social-justice/</link>
     </image>
     
     <item>
       <title>Reflections on Privilege in Higher Education</title>
-      <link>http://localhost:4321/post/privilege-higher-ed/</link>
+      <link>https://EllenConsidine.github.io/post/privilege-higher-ed/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/privilege-higher-ed/</guid>
+      <guid>https://EllenConsidine.github.io/post/privilege-higher-ed/</guid>
       <description>&lt;p&gt;2020 has been a year of reflection for many people. In particular, I am optimistic that renewed focus on systemic racism and economic inequities will fuel real changes in how many individuals and organizations think about and act on promoting inclusivity and fairness. However, while reflecting on my undergraduate experience I have come to the conclusion that many of the advantages I had during college were somewhat subtle and/or difficult to address through many common techniques of diversity-promotion. By articulating these advantages and brainstorming some partial solutions, I hope that I and others can be more conscious of these exclusive processes and more in a position to help implement inclusive ones.&lt;/p&gt;
 &lt;h3 id=&#34;ways-that-my-privilege-has-helped-me&#34;&gt;Ways that my privilege has helped me&lt;/h3&gt;
 &lt;p&gt;The most obvious benefit of economic privilege is &lt;strong&gt;not having to worry about money&lt;/strong&gt; during college. Having to get a job to cover living expenses and/or tuition would have made everything (from courses to research to volunteering to attending extra seminars) so much more difficult, and doing all three at once impossible. Even with complete financial aid independent of work-study, however, the knowledge that your financial coverage depends on your grades is much more stressful than if the only thing you have to lose if you fail a test is your ego or your parents&amp;rsquo; approval. Don&amp;rsquo;t get me wrong: having high expectations from your ego and/or your family is stressful enough, but this is still fundamentally different. In general, having a financial safety net makes risk-taking (including academic and professional exploration) more possible and internally palatable. I will never truly know what it feels like to be worried about having enough money for next month&amp;rsquo;s rent, because I would always know in the back of my mind that I could ask my family for help. I have come to believe that this psychological difference can be very potent in determining individuals&amp;rsquo; ability to find and pursue opportunities.&lt;/p&gt;
@@ -54,9 +54,9 @@
     
     <item>
       <title>Book Recommendations</title>
-      <link>http://localhost:4321/project/book_recs/</link>
+      <link>https://EllenConsidine.github.io/project/book_recs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/book_recs/</guid>
+      <guid>https://EllenConsidine.github.io/project/book_recs/</guid>
       <description>&lt;p&gt;Life gets busy and it can be hard to find the time and motivation to sit down and read nonfiction. However, many of the most important ideas that frame my perspective on the world and my place in it have come from nonfiction books. If you have the time to explore some of the following, great! If you don&amp;rsquo;t have time to read the full books, I still recommend Googling these authors / titles. Whether it&amp;rsquo;s a summary of the book, a YouTube video, or an article or blog post, these people have ideas worth hearing!&lt;/p&gt;
 &lt;h2 id=&#34;environmental&#34;&gt;Environmental&lt;/h2&gt;
 &lt;ul&gt;

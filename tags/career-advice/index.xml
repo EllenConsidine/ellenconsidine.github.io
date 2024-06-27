@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Career Advice | Ellen Considine</title>
-    <link>http://localhost:4321/tags/career-advice/</link>
-      <atom:link href="http://localhost:4321/tags/career-advice/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://EllenConsidine.github.io/tags/career-advice/</link>
+      <atom:link href="https://EllenConsidine.github.io/tags/career-advice/index.xml" rel="self" type="application/rss+xml" />
     <description>Career Advice</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Career Advice</title>
-      <link>http://localhost:4321/tags/career-advice/</link>
+      <link>https://EllenConsidine.github.io/tags/career-advice/</link>
     </image>
     
     <item>
       <title>On Having an Impact, Part 1</title>
-      <link>http://localhost:4321/post/impact-part1/</link>
+      <link>https://EllenConsidine.github.io/post/impact-part1/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/impact-part1/</guid>
+      <guid>https://EllenConsidine.github.io/post/impact-part1/</guid>
       <description>&lt;p&gt;My views and aspirations for both my professional and my personal life have been profoundly influenced by the Effective Altruism (EA) / 80,000 Hours movement. This post is meant to introduce those who haven’t encountered this movement to it. See &amp;ldquo;On Having an Impact, Part 2&amp;rdquo; for some of my reflections in light of this overarching philosophy.&lt;/p&gt;
 &lt;h3 id=&#34;intro-to-effective-altruism-and-80000-hours&#34;&gt;Intro to Effective Altruism and 80,000 Hours&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Note: Instead of citing everything in the paragraphs below, I’m including a list of links at the end of this post, which I encourage you to explore!&lt;/em&gt;&lt;/p&gt;
@@ -59,9 +59,9 @@
     
     <item>
       <title>Pursuing STEM, Motivated by the Humanities</title>
-      <link>http://localhost:4321/post/stem-humanities/</link>
+      <link>https://EllenConsidine.github.io/post/stem-humanities/</link>
       <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/stem-humanities/</guid>
+      <guid>https://EllenConsidine.github.io/post/stem-humanities/</guid>
       <description>&lt;p&gt;In an alternate but closely related universe, I could easily have chosen a career in the humanities. I love learning about sociology and philosophy. I am most intellectually enthusiastic when pondering underlying societal phenomenon and the ways we might go about addressing societal issues which manifest human suffering.&lt;/p&gt;
 &lt;p&gt;However, several important factors guided my path into statistics and data science. Firstly, my parents brought my brother and me up to be very conscious of the vocational value of our educations, as well as to gravitate towards career paths which keep doors open and allow for maximal flexibility. Given the modern world&amp;rsquo;s number and variety of jobs in STEM, we were both nudged in that direction. Under the umbrella of practicality, I also grew up with the knowledge that PhDs in STEM are most often fully funded, while many/most other graduate degrees are not, and that it is most often easier to transition from a more technical / hard science field into a less technical / softer skills position than to transition the other way. Further, the fact that both of my parents studied science and math made going into STEM the obvious thing to do. Somewhere along the way, I also came to realize that being someone who wanted to and was able to effectively bridge ideas between STEM and humanities disciplines was relatively rare, making this a valuable niche to pursue. Finally, as I discuss at the end of &amp;ldquo;The Benefits of Attending Your State’s Public University for Undergrad&amp;rdquo;, there were a number of factors at CU that kept me in STEM once I was there, namely stronger peers and harder classes (on average) and more research opportunities &amp;ndash; many professors need students who can assist with quantitative tasks.&lt;/p&gt;
 &lt;p&gt;In this post, I reflect on my experiences as a STEM student with a humanities heart. A recent conversation with an older student in my PhD program reminded me that I&amp;rsquo;m far from alone in this and that being candid about our experiences can help to assure and guide others as they make their way on similar trajectories.&lt;/p&gt;
@@ -83,9 +83,9 @@
     
     <item>
       <title>On Finding a Career Path</title>
-      <link>http://localhost:4321/post/finding-career-path/</link>
+      <link>https://EllenConsidine.github.io/post/finding-career-path/</link>
       <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/finding-career-path/</guid>
+      <guid>https://EllenConsidine.github.io/post/finding-career-path/</guid>
       <description>&lt;p&gt;Planning out your life is impossible. Circumstances change, people change. New information comes to your attention and you shift course. But at the same time, it&amp;rsquo;s helpful to have a sense of direction, a sense of purpose, to guide your thoughts and actions. Having an idea of where you want to end up can provide this sense of direction.&lt;/p&gt;
 &lt;p&gt;I think of navigating life in this way like hiking through the wilderness. Setting your sights on a distant mountain frees you from having to expend energy on wayfinding every second of every day. You can focus instead on where you&amp;rsquo;re putting your feet and on enjoying the more nearby scenery. As you&amp;rsquo;re making your way across the plains, a different mountain might come into view. Or, maybe, the coast of a large body of water. You might decide this new destination looks better than the first mountain, so you re-orient in that direction. Maybe you&amp;rsquo;ll visit the first mountain someday, maybe you won&amp;rsquo;t. And so it goes: at any point in time, you are hiking towards something, but that something can change as frequently as you want it to.&lt;/p&gt;
 &lt;p&gt;Continuing with this analogy: as you make your way in your intended direction, you will likely encounter other people (depending on how remote the trail is). If you are able to describe where you&amp;rsquo;re headed, these people may be able to give you advice, having previously explored similar places. This is another reason it&amp;rsquo;s helpful to have a sense of direction: you can make it easier for other people to help you. The more detail you provide, the more specific other people can be with their advice. And, if you&amp;rsquo;re visibly inspired about where you&amp;rsquo;re going, other people are often more inspired to help you get there.&lt;/p&gt;
@@ -113,9 +113,9 @@
     
     <item>
       <title>An Honest Conversation About Box-Checking</title>
-      <link>http://localhost:4321/post/box-checking/</link>
+      <link>https://EllenConsidine.github.io/post/box-checking/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/box-checking/</guid>
+      <guid>https://EllenConsidine.github.io/post/box-checking/</guid>
       <description>&lt;p&gt;&amp;ldquo;Box-checking&amp;rdquo; has a pretty negative connotation. It implies that your actions are inauthentic: the only reason you are doing something is to put it on your resume / achieve some glamorous end goal, not because you actually want to do it. It is often associated with helicopter parents and overachieving students trying to get into prestigious colleges. It is perceived as soulless running of the rat race. In this post, I attempt to flesh out a more nuanced perspective.&lt;/p&gt;
 &lt;p&gt;Over the years, I have observed that feeling the need to fill out one&amp;rsquo;s resume and appear objectively impressive can be incredibly stressful and potentially damaging for individuals&amp;rsquo; mental health. In high school, many of my peers were stressed all the time about whether they were doing enough to be accepted into their dream colleges. I feel fortunate to have avoided this in my late teenage years because I planned to attend my home state university. I truly believe that I was doing the things I did in high school (focusing mostly on music and sports) because I enjoyed them, not because I felt forced to do them.&lt;/p&gt;
 &lt;p&gt;After starting college, however, the lines between authentic engagement and box-checking became more blurred for me. Did I join Engineers Without Borders purely because I wanted to help other people and learn about the world or because I wanted this cool international volunteering experience in my back pocket? Did I start doing my research internship because I really wanted to spend more hours of the day learning how to code in R or because I knew that it would open doors to future opportunities? Did I spend more time than I needed to setting up a socially-positive collaborative research project simply because I thought that it was important work to do or because I was already planning to apply for grad school in public health and knew that such a project would help strengthen my application? The honest answer to all of these questions is &lt;em&gt;both&lt;/em&gt;. At times, I have felt uncomfortable with this duality: am I doing this because I care about it or because it will look good on my resume?&lt;/p&gt;
@@ -144,9 +144,9 @@
     
     <item>
       <title>The Benefits of Attending Your State’s Public University for Undergrad</title>
-      <link>http://localhost:4321/post/public-university-undergrad/</link>
+      <link>https://EllenConsidine.github.io/post/public-university-undergrad/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/public-university-undergrad/</guid>
+      <guid>https://EllenConsidine.github.io/post/public-university-undergrad/</guid>
       <description>&lt;p&gt;I grew up in Boulder, Colorado. The University of Colorado (CU) sits right in the middle of town. To many of my high school peers and their families, attending CU was a fallback. It was seen as unadventurous and not at all prestigious. Despite the many good reasons I had for attending CU, I recognize that these perceptions weighed on me somewhat over the last four years. Now, two months into a PhD program at Harvard, my last subconscious traces of insecurity about my undergraduate education have finally faded. The semester is still ramping up, but I feel very well prepared for success in my classes and research projects. I write this with the hope that others in similar positions in high school will feel more confident than I did in choosing what&amp;rsquo;s right for them and not caring what anyone else thinks.&lt;/p&gt;
 &lt;p&gt;In my experience, here are the four main reasons for strong students to consider attending their state universities for undergrad: lower cost, lower stress, more opportunities per capita, and connections in your home state.&lt;/p&gt;
 &lt;p&gt;The &lt;strong&gt;cost of college&lt;/strong&gt; nowadays is insane. For almost any family, paying between $30,000 and $300,000 for a four-year degree per kid is going to be difficult, if not impossible. If you can get a sufficiently large fraction covered by financial aid or merit scholarships, great. If not, these amounts of money have extremely high opportunity costs. The way my parents described opportunity cost to my brother and me was by telling us how much they had saved for each of us and asking us whether we&amp;rsquo;d like to spend all the money on college-related expenses or save some of it and put that towards other things such as a graduate or professional degree, a down-payment on a place to live, or traveling. This perspective made the financial choice much more tangible, and motivated both my brother and me to go to college in-state. However, I think that many families do not discuss family resources and choice of higher education in this way.&lt;/p&gt;
@@ -163,9 +163,9 @@
     
     <item>
       <title>The Power of Showing Up and Reaching Out</title>
-      <link>http://localhost:4321/post/showing-up-reaching-out/</link>
+      <link>https://EllenConsidine.github.io/post/showing-up-reaching-out/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/showing-up-reaching-out/</guid>
+      <guid>https://EllenConsidine.github.io/post/showing-up-reaching-out/</guid>
       <description>&lt;p&gt;When people ask me for advice about college, this is the number one thing I tell them: you never know what will happen if you show up to an event and/or reach out to someone. I feel very grateful that my parents instilled this in me before I went off to college, because it led to every single one of the best opportunities I had during undergrad. By sharing the following stories, it is my intention that others might be inspired to muster the energy and overcome the initial awkwardness of showing up and reaching out.&lt;/p&gt;
 &lt;h3 id=&#34;story-1-how-i-got-involved-in-undergraduate-research&#34;&gt;Story #1: How I Got Involved in Undergraduate Research&lt;/h3&gt;
 &lt;p&gt;In the spring of my freshman year of college, two of my courses were an introductory data science course and an environmental sociology course. In the environmental sociology course, there was a brief lecture on the health impacts of air pollution, which I found fascinating. In the data science course, our final project was to analyze a data set of our choice. I thought it would be cool to combine these interests, and after reading a bit online, I came up with the idea of analyzing whether proximity to highways was associated with asthma rates. I spent a while looking for data online and found some aggregated data sets, but thought there were probably much better publicly-available options that I just wasn&amp;rsquo;t finding.&lt;/p&gt;
@@ -185,9 +185,9 @@
     
     <item>
       <title>Others&#39; Ideas that Resonate</title>
-      <link>http://localhost:4321/project/ideas_resonate/</link>
+      <link>https://EllenConsidine.github.io/project/ideas_resonate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/ideas_resonate/</guid>
+      <guid>https://EllenConsidine.github.io/project/ideas_resonate/</guid>
       <description>&lt;p&gt;Here are lists of articles, podcasts, videos, etc. that I intend to continuously update as I come across well-explained, powerful ideas that relate directly to my field(s) of interest. For the most part, these resources are more conversational than technical, and are meant to inspire as well as inform. Also see my list of recommended nonfiction books, which spans a larger range of topics.&lt;/p&gt;
 &lt;h3 id=&#34;environmental-health&#34;&gt;Environmental Health&lt;/h3&gt;
 &lt;p&gt;Articles:&lt;/p&gt;

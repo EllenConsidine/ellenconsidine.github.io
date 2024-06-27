@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistics | Ellen Considine</title>
-    <link>http://localhost:4321/tags/statistics/</link>
-      <atom:link href="http://localhost:4321/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://EllenConsidine.github.io/tags/statistics/</link>
+      <atom:link href="https://EllenConsidine.github.io/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
     <description>Statistics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Statistics</title>
-      <link>http://localhost:4321/tags/statistics/</link>
+      <link>https://EllenConsidine.github.io/tags/statistics/</link>
     </image>
     
     <item>
       <title>Teaching Fellow for Graduate-Level Biostatistics Courses</title>
-      <link>http://localhost:4321/project/tf/</link>
+      <link>https://EllenConsidine.github.io/project/tf/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/tf/</guid>
+      <guid>https://EllenConsidine.github.io/project/tf/</guid>
       <description>&lt;p&gt;Here are descriptions of the three full-semester courses that I helped teach at HSPH.&lt;/p&gt;
 &lt;h3 id=&#34;spring-2024-bst-226-applied-longitudinal-analysis&#34;&gt;Spring 2024: BST 226, Applied Longitudinal Analysis&lt;/h3&gt;
 &lt;p&gt;Approx. number of students: 100&lt;/p&gt;
@@ -32,41 +32,41 @@
     
     <item>
       <title>Optimizing Heat Alert Issuance with Reinforcement Learning</title>
-      <link>http://localhost:4321/publication/hasdm/</link>
+      <link>https://EllenConsidine.github.io/publication/hasdm/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/hasdm/</guid>
+      <guid>https://EllenConsidine.github.io/publication/hasdm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect modification of the association between fine particulate air pollution during a wildfire event and respiratory health by area-level measures of socio-economic status, race/ethnicity, and smoking prevalence</title>
-      <link>http://localhost:4321/publication/wildfire-ses/</link>
+      <link>https://EllenConsidine.github.io/publication/wildfire-ses/</link>
       <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/wildfire-ses/</guid>
+      <guid>https://EllenConsidine.github.io/publication/wildfire-ses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluation of Model-Based PM2.5 Estimates for Exposure Assessment during Wildfire Smoke Episodes in the Western U.S.</title>
-      <link>http://localhost:4321/publication/wildfire-pm/</link>
+      <link>https://EllenConsidine.github.io/publication/wildfire-pm/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/wildfire-pm/</guid>
+      <guid>https://EllenConsidine.github.io/publication/wildfire-pm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating Use of Low-Cost Sensors to Increase Accuracy and Equity of Real-Time Air Quality Information</title>
-      <link>http://localhost:4321/publication/lcs_placements/</link>
+      <link>https://EllenConsidine.github.io/publication/lcs_placements/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/lcs_placements/</guid>
+      <guid>https://EllenConsidine.github.io/publication/lcs_placements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Upper Division Course Projects at Harvard and CU Boulder</title>
-      <link>http://localhost:4321/project/course_projects/</link>
+      <link>https://EllenConsidine.github.io/project/course_projects/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/course_projects/</guid>
+      <guid>https://EllenConsidine.github.io/project/course_projects/</guid>
       <description>&lt;p&gt;To provide a sense of what I&amp;rsquo;ve worked on other than my research in the National Studies on Air Pollution &amp;amp; Health Group and Earth Lab, here is a list of my most substantial projects that resulted in course papers but not peer-reviewed publications:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Reviewed state-of-the-art offline reinforcement learning algorithms&lt;/li&gt;
@@ -90,9 +90,9 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>Others&#39; Ideas that Resonate</title>
-      <link>http://localhost:4321/project/ideas_resonate/</link>
+      <link>https://EllenConsidine.github.io/project/ideas_resonate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/ideas_resonate/</guid>
+      <guid>https://EllenConsidine.github.io/project/ideas_resonate/</guid>
       <description>&lt;p&gt;Here are lists of articles, podcasts, videos, etc. that I intend to continuously update as I come across well-explained, powerful ideas that relate directly to my field(s) of interest. For the most part, these resources are more conversational than technical, and are meant to inspire as well as inform. Also see my list of recommended nonfiction books, which spans a larger range of topics.&lt;/p&gt;
 &lt;h3 id=&#34;environmental-health&#34;&gt;Environmental Health&lt;/h3&gt;
 &lt;p&gt;Articles:&lt;/p&gt;

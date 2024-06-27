@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Human Nature | Ellen Considine</title>
-    <link>http://localhost:4321/tags/human-nature/</link>
-      <atom:link href="http://localhost:4321/tags/human-nature/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://EllenConsidine.github.io/tags/human-nature/</link>
+      <atom:link href="https://EllenConsidine.github.io/tags/human-nature/index.xml" rel="self" type="application/rss+xml" />
     <description>Human Nature</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Human Nature</title>
-      <link>http://localhost:4321/tags/human-nature/</link>
+      <link>https://EllenConsidine.github.io/tags/human-nature/</link>
     </image>
     
     <item>
       <title>Book Recommendations</title>
-      <link>http://localhost:4321/project/book_recs/</link>
+      <link>https://EllenConsidine.github.io/project/book_recs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/book_recs/</guid>
+      <guid>https://EllenConsidine.github.io/project/book_recs/</guid>
       <description>&lt;p&gt;Life gets busy and it can be hard to find the time and motivation to sit down and read nonfiction. However, many of the most important ideas that frame my perspective on the world and my place in it have come from nonfiction books. If you have the time to explore some of the following, great! If you don&amp;rsquo;t have time to read the full books, I still recommend Googling these authors / titles. Whether it&amp;rsquo;s a summary of the book, a YouTube video, or an article or blog post, these people have ideas worth hearing!&lt;/p&gt;
 &lt;h2 id=&#34;environmental&#34;&gt;Environmental&lt;/h2&gt;
 &lt;ul&gt;
