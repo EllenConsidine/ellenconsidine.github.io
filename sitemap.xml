@@ -2,332 +2,336 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://EllenConsidine.github.io/</loc>
+    <loc>http://localhost:4321/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/event/example/</loc>
+    <loc>http://localhost:4321/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/event/</loc>
+    <loc>http://localhost:4321/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/projects/</loc>
+    <loc>http://localhost:4321/tags/air-quality/</loc>
+    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/post/</loc>
+    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/career-advice/</loc>
+    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/interdisciplinary/</loc>
+    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/post/nsf-grfp/</loc>
+    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/public-health/</loc>
+    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/statistics/</loc>
+    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/</loc>
+    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/project/</loc>
+    <loc>http://localhost:4321/project/</loc>
     <lastmod>2024-05-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/public-health/</loc>
+    <loc>http://localhost:4321/tags/teaching/</loc>
     <lastmod>2024-05-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/statistics/</loc>
+    <loc>http://localhost:4321/project/tf/</loc>
     <lastmod>2024-05-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/</loc>
-    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://EllenConsidine.github.io/tags/teaching/</loc>
-    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://EllenConsidine.github.io/project/tf/</loc>
-    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://EllenConsidine.github.io/tags/climate--health/</loc>
+    <loc>http://localhost:4321/tags/climate--health/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/project/scipol/</loc>
+    <loc>http://localhost:4321/project/scipol/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/event-planning/</loc>
+    <loc>http://localhost:4321/tags/event-planning/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/interdisciplinary/</loc>
+    <loc>http://localhost:4321/tags/science-policy/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/science-policy/</loc>
+    <loc>http://localhost:4321/tags/service/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/service/</loc>
-    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://EllenConsidine.github.io/publication_types/article/</loc>
+    <loc>http://localhost:4321/publication_types/article/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/artificial-intelligence/</loc>
+    <loc>http://localhost:4321/tags/artificial-intelligence/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/publication/hasdm/</loc>
+    <loc>http://localhost:4321/publication/hasdm/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/publication/</loc>
+    <loc>http://localhost:4321/publication/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/publication_types/</loc>
+    <loc>http://localhost:4321/publication_types/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/sequential-decision-making/</loc>
+    <loc>http://localhost:4321/tags/sequential-decision-making/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/experience/</loc>
+    <loc>http://localhost:4321/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/javascript/</loc>
+    <loc>http://localhost:4321/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/teaching/js/</loc>
+    <loc>http://localhost:4321/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/teaching/python/</loc>
+    <loc>http://localhost:4321/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/python/</loc>
+    <loc>http://localhost:4321/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/teaching/</loc>
+    <loc>http://localhost:4321/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/post/</loc>
+    <loc>http://localhost:4321/tags/climate-change/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/climate-change/</loc>
+    <loc>http://localhost:4321/tags/data-science/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/data-science/</loc>
+    <loc>http://localhost:4321/tags/environmental-justice/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/environmental-justice/</loc>
+    <loc>http://localhost:4321/tags/global-inequality/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/global-inequality/</loc>
+    <loc>http://localhost:4321/tags/reading/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/reading/</loc>
+    <loc>http://localhost:4321/tags/sustainability/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/sustainability/</loc>
+    <loc>http://localhost:4321/post/zooming-out/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/post/zooming-out/</loc>
-    <lastmod>2023-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://EllenConsidine.github.io/project/nca5/</loc>
+    <loc>http://localhost:4321/project/nca5/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/wildfires/</loc>
+    <loc>http://localhost:4321/tags/wildfires/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/writing/</loc>
+    <loc>http://localhost:4321/tags/writing/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/project/online_course_climate-health-data-science/</loc>
+    <loc>http://localhost:4321/project/online_course_climate-health-data-science/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/publication_types/article-journal/</loc>
+    <loc>http://localhost:4321/publication_types/article-journal/</loc>
     <lastmod>2023-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/publication/wildfire-ses/</loc>
+    <loc>http://localhost:4321/publication/wildfire-ses/</loc>
     <lastmod>2023-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/learning/</loc>
+    <loc>http://localhost:4321/tags/learning/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/statistical-collaboration/</loc>
+    <loc>http://localhost:4321/tags/statistical-collaboration/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/post/stat-collab-teaching/</loc>
+    <loc>http://localhost:4321/post/stat-collab-teaching/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/air-quality/</loc>
+    <loc>http://localhost:4321/publication/wildfire-pm/</loc>
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/publication/wildfire-pm/</loc>
+    <loc>http://localhost:4321/tags/health/</loc>
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/health/</loc>
-    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://EllenConsidine.github.io/tags/data-collection/</loc>
+    <loc>http://localhost:4321/tags/data-collection/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/publication/lcs_placements/</loc>
+    <loc>http://localhost:4321/publication/lcs_placements/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/low-cost-sensors/</loc>
+    <loc>http://localhost:4321/tags/low-cost-sensors/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/public-policy/</loc>
+    <loc>http://localhost:4321/tags/public-policy/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/machine-learning/</loc>
+    <loc>http://localhost:4321/tags/machine-learning/</loc>
     <lastmod>2022-12-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/mathematical-modeling/</loc>
+    <loc>http://localhost:4321/tags/mathematical-modeling/</loc>
     <lastmod>2022-12-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/remote-sensing/</loc>
+    <loc>http://localhost:4321/tags/remote-sensing/</loc>
     <lastmod>2022-12-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/project/course_projects/</loc>
+    <loc>http://localhost:4321/project/course_projects/</loc>
     <lastmod>2022-12-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/algorithmic-justice/</loc>
+    <loc>http://localhost:4321/tags/algorithmic-justice/</loc>
     <lastmod>2022-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/post/revelatory-mirror/</loc>
+    <loc>http://localhost:4321/post/revelatory-mirror/</loc>
     <lastmod>2022-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/uncertainty/</loc>
+    <loc>http://localhost:4321/tags/uncertainty/</loc>
     <lastmod>2022-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/science-communication/</loc>
+    <loc>http://localhost:4321/tags/science-communication/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/project/sitn/</loc>
+    <loc>http://localhost:4321/project/sitn/</loc>
     <lastmod>2022-03-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/project/breathing_data/</loc>
+    <loc>http://localhost:4321/project/breathing_data/</loc>
     <lastmod>2021-09-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/applied-philosophy/</loc>
+    <loc>http://localhost:4321/tags/applied-philosophy/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/post/public-health-ethos/</loc>
+    <loc>http://localhost:4321/post/public-health-ethos/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/societal-wellbeing/</loc>
+    <loc>http://localhost:4321/tags/societal-wellbeing/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/post/mcm-advice/</loc>
+    <loc>http://localhost:4321/post/mcm-advice/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/competition/</loc>
+    <loc>http://localhost:4321/tags/competition/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/post/impact-part2/</loc>
+    <loc>http://localhost:4321/post/impact-part2/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/career-advice/</loc>
+    <loc>http://localhost:4321/post/impact-part1/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/post/impact-part1/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://EllenConsidine.github.io/tags/higher-education/</loc>
+    <loc>http://localhost:4321/tags/higher-education/</loc>
     <lastmod>2020-10-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/post/stem-humanities/</loc>
+    <loc>http://localhost:4321/post/stem-humanities/</loc>
     <lastmod>2020-10-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/post/finding-career-path/</loc>
+    <loc>http://localhost:4321/post/finding-career-path/</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/post/box-checking/</loc>
+    <loc>http://localhost:4321/post/box-checking/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/mental-health/</loc>
+    <loc>http://localhost:4321/tags/mental-health/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/post/privilege-higher-ed/</loc>
+    <loc>http://localhost:4321/post/privilege-higher-ed/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/social-justice/</loc>
+    <loc>http://localhost:4321/tags/social-justice/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/post/public-university-undergrad/</loc>
+    <loc>http://localhost:4321/post/public-university-undergrad/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/post/showing-up-reaching-out/</loc>
+    <loc>http://localhost:4321/post/showing-up-reaching-out/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/project/book_recs/</loc>
+    <loc>http://localhost:4321/project/book_recs/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/environmental-health/</loc>
+    <loc>http://localhost:4321/tags/environmental-health/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/tags/human-nature/</loc>
+    <loc>http://localhost:4321/tags/human-nature/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://EllenConsidine.github.io/project/ideas_resonate/</loc>
+    <loc>http://localhost:4321/project/ideas_resonate/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

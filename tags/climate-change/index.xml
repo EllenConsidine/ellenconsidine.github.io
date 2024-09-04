@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Climate Change | Ellen Considine</title>
-    <link>https://EllenConsidine.github.io/tags/climate-change/</link>
-      <atom:link href="https://EllenConsidine.github.io/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/tags/climate-change/</link>
+      <atom:link href="http://localhost:4321/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
     <description>Climate Change</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Climate Change</title>
-      <link>https://EllenConsidine.github.io/tags/climate-change/</link>
+      <link>http://localhost:4321/tags/climate-change/</link>
     </image>
     
     <item>
       <title>Zooming Out -- On Sustainability, Social Justice, and Data</title>
-      <link>https://EllenConsidine.github.io/post/zooming-out/</link>
+      <link>http://localhost:4321/post/zooming-out/</link>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/zooming-out/</guid>
+      <guid>http://localhost:4321/post/zooming-out/</guid>
       <description>&lt;p&gt;The threat of climate change has been a driving motivation for both my professional and personal choices for many years. In practice, this has manifested as getting into the weeds with various academic subjects (i.e. air quality, statistics, public health, computer science) as well as recurrent introspection on many aspects of lifestyle. This spring, I was reminded of the importance of picking my head up and seeking out new perspectives &amp;ndash; despite the countless hours I&amp;rsquo;ve spent educating myself on environmental and social/economic justice topics, there is always more to learn and consider. In this blog, I&amp;rsquo;ll share some broad reflections from several recent experiences.&lt;/p&gt;
 &lt;p&gt;Most of the ideas here were inspired by:&lt;/p&gt;
 &lt;ol&gt;
@@ -75,18 +75,18 @@
     
     <item>
       <title>Review Editor for the Fifth National Climate Assessment, Focus on Western Wildfires</title>
-      <link>https://EllenConsidine.github.io/project/nca5/</link>
+      <link>http://localhost:4321/project/nca5/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/nca5/</guid>
+      <guid>http://localhost:4321/project/nca5/</guid>
       <description>&lt;p&gt;I helped coordinate response to public comments for the cross-cutting feature on western wildfires.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Breathing Data Blog</title>
-      <link>https://EllenConsidine.github.io/project/breathing_data/</link>
+      <link>http://localhost:4321/project/breathing_data/</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/breathing_data/</guid>
+      <guid>http://localhost:4321/project/breathing_data/</guid>
       <description>&lt;p&gt;In 2021, I wrote a series of blog posts on air pollution, global health, and data science for &lt;em&gt;HPHR Journal&lt;/em&gt;, formerly the &lt;em&gt;Harvard Public Health Review&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Cover image from PurpleAir map on June 7, 2021.&lt;/p&gt;
 </description>
@@ -94,9 +94,9 @@
     
     <item>
       <title>On Having an Impact, Part 2</title>
-      <link>https://EllenConsidine.github.io/post/impact-part2/</link>
+      <link>http://localhost:4321/post/impact-part2/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/impact-part2/</guid>
+      <guid>http://localhost:4321/post/impact-part2/</guid>
       <description>&lt;p&gt;The Effective Altruism (EA) / 80,000 Hours philosophy has guided many of my thoughts and actions over the past 4+ years. In this post, my goal is to articulate some of the most important and generalizable aspects of my EA journey so far. If you haven&amp;rsquo;t yet encountered the EA / 80,000 Hours movement, I recommend checking out Part 1!&lt;/p&gt;
 &lt;h3 id=&#34;overall-reflections&#34;&gt;Overall Reflections&lt;/h3&gt;
 &lt;p&gt;Internalizing many of the EA / 80,000 Hours ideas guided me into the field of environmental public health / biostatistics, no question. This semester, I’ve really enjoyed seeing the close alignment between these fields / movements in my introductory public health classes. Of course, there are countless other fields in which one can pursue having a positive impact along the lines of the EA literature. I can simply confirm that I am glad to have made decisions in accordance with this paradigm.&lt;/p&gt;
@@ -121,9 +121,9 @@
     
     <item>
       <title>Book Recommendations</title>
-      <link>https://EllenConsidine.github.io/project/book_recs/</link>
+      <link>http://localhost:4321/project/book_recs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/book_recs/</guid>
+      <guid>http://localhost:4321/project/book_recs/</guid>
       <description>&lt;p&gt;Life gets busy and it can be hard to find the time and motivation to sit down and read nonfiction. However, many of the most important ideas that frame my perspective on the world and my place in it have come from nonfiction books. If you have the time to explore some of the following, great! If you don&amp;rsquo;t have time to read the full books, I still recommend Googling these authors / titles. Whether it&amp;rsquo;s a summary of the book, a YouTube video, or an article or blog post, these people have ideas worth hearing!&lt;/p&gt;
 &lt;h2 id=&#34;environmental&#34;&gt;Environmental&lt;/h2&gt;
 &lt;ul&gt;
@@ -164,9 +164,9 @@
     
     <item>
       <title>Others&#39; Ideas that Resonate</title>
-      <link>https://EllenConsidine.github.io/project/ideas_resonate/</link>
+      <link>http://localhost:4321/project/ideas_resonate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/ideas_resonate/</guid>
+      <guid>http://localhost:4321/project/ideas_resonate/</guid>
       <description>&lt;p&gt;Here are lists of articles, podcasts, videos, etc. that I intend to continuously update as I come across well-explained, powerful ideas that relate directly to my field(s) of interest. For the most part, these resources are more conversational than technical, and are meant to inspire as well as inform. Also see my list of recommended nonfiction books, which spans a larger range of topics.&lt;/p&gt;
 &lt;h3 id=&#34;environmental-health&#34;&gt;Environmental Health&lt;/h3&gt;
 &lt;p&gt;Articles:&lt;/p&gt;
