@@ -2,21 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Global Inequality | Ellen Considine</title>
-    <link>http://localhost:4321/tags/global-inequality/</link>
-      <atom:link href="http://localhost:4321/tags/global-inequality/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://EllenConsidine.github.io/tags/global-inequality/</link>
+      <atom:link href="https://EllenConsidine.github.io/tags/global-inequality/index.xml" rel="self" type="application/rss+xml" />
     <description>Global Inequality</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Global Inequality</title>
-      <link>http://localhost:4321/tags/global-inequality/</link>
+      <link>https://EllenConsidine.github.io/tags/global-inequality/</link>
     </image>
     
     <item>
+      <title>Book Recommendations</title>
+      <link>https://EllenConsidine.github.io/project/book_recs/</link>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://EllenConsidine.github.io/project/book_recs/</guid>
+      <description>&lt;p&gt;Life gets busy and it can be hard to find the time and motivation to sit down and read nonfiction. However, many of the most important ideas that frame my perspective on the world and my place in it have come from nonfiction books. If you have the time to explore some of the following, great! If you don&amp;rsquo;t have time to read the full books, I still recommend Googling these authors / titles. Whether it&amp;rsquo;s a summary of the book, a YouTube video, or an article or blog post, these people have ideas worth hearing!&lt;/p&gt;
+&lt;h2 id=&#34;environmental&#34;&gt;Environmental&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;What if We Get it Right? Visions of Climate Futures&lt;/em&gt; (2024) by Ayana Elizabeth Johnson&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Regenesis: Feeding the World Without Devouring the Planet&lt;/em&gt; (2022) by George Monbiot&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The 100% Solution: A Plan for Solving Climate Change&lt;/em&gt; (2020) by Solomon Goldstein-Rose&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Conundrum: How Scientific Innovation, Increased Efficiency, and Good Intentions Can Make Our Energy and Climate Problems Worse&lt;/em&gt; (2012) by David Owen&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Sixth Extinction: An Unnatural History&lt;/em&gt; (2014) by Elizabeth Kolbert&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Climate Casino: Risk, Uncertainty, and Economics for a Warming World&lt;/em&gt; (2013) by William Norhaus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;data-science&#34;&gt;Data Science&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Alignment Problem: Machine Learning and Human Values&lt;/em&gt; (2020) by Brian Christian&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Invisible Women: Data Bias in a World Designed for Men&lt;/em&gt; (2019) by Caroline Criado-Perez&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Weapons of Math Destruction&lt;/em&gt; (2016) by Cathy O’Neil&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Signal and the Noise: Why So Many Predictions Fail - But Some Don’t&lt;/em&gt; (2012) by Nate Silver&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;global-health--inequality--development&#34;&gt;Global Health / Inequality / Development&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Divide: A Brief Guide to Global Inequality and its Solutions&lt;/em&gt; (2017) by Jason Hickel&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Caste: The Origins of Our Discontents&lt;/em&gt; (2020) by Isabel Wilkerson&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Great Escape: Health, Wealth, and the Origins of Inequality&lt;/em&gt; (2013) by Angus Deaton&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Factfulness: Ten Reasons We’re Wrong About the World &amp;ndash; and Why Things Are Better Than You Think&lt;/em&gt; (2018) by Hans Rosling, Anna Rosling Ronnlund, and Ola Rosling&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Give a Man a Fish: Reflections on the New Politics of Distribution&lt;/em&gt; (2015) by James Ferguson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;human-nature--behavioral-economics--public-policy&#34;&gt;Human Nature / Behavioral Economics / Public Policy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Anxiety: A Philosophical Guide&lt;/em&gt; (2024) by Samir Chopra&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Yellow Pad: Making Better Decisions in an Uncertain World&lt;/em&gt; (2023) by Robert E. Rubin&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous&lt;/em&gt; (2020) by Joseph Henrich&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Sapiens: A Brief History of Humankind&lt;/em&gt; (2011) by Yuval Noah Harari&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities&lt;/em&gt; (1982) by Mancur Olson&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Thinking, Fast and Slow&lt;/em&gt; (2011) by Daniel Kahneman&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Nudge: Improving Decisions About Health, Wealth, and Happiness&lt;/em&gt; (2009) by Richard H. Thaler and Cass R. Sunstein&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Predictably Irrational&lt;/em&gt; (2008) by Dan Ariely&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Zooming Out -- On Sustainability, Social Justice, and Data</title>
-      <link>http://localhost:4321/post/zooming-out/</link>
+      <link>https://EllenConsidine.github.io/post/zooming-out/</link>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/zooming-out/</guid>
+      <guid>https://EllenConsidine.github.io/post/zooming-out/</guid>
       <description>&lt;p&gt;The threat of climate change has been a driving motivation for both my professional and personal choices for many years. In practice, this has manifested as getting into the weeds with various academic subjects (i.e. air quality, statistics, public health, computer science) as well as recurrent introspection on many aspects of lifestyle. This spring, I was reminded of the importance of picking my head up and seeking out new perspectives &amp;ndash; despite the countless hours I&amp;rsquo;ve spent educating myself on environmental and social/economic justice topics, there is always more to learn and consider. In this blog, I&amp;rsquo;ll share some broad reflections from several recent experiences.&lt;/p&gt;
 &lt;p&gt;Most of the ideas here were inspired by:&lt;/p&gt;
 &lt;ol&gt;
@@ -75,9 +119,9 @@
     
     <item>
       <title>On Having an Impact, Part 2</title>
-      <link>http://localhost:4321/post/impact-part2/</link>
+      <link>https://EllenConsidine.github.io/post/impact-part2/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/impact-part2/</guid>
+      <guid>https://EllenConsidine.github.io/post/impact-part2/</guid>
       <description>&lt;p&gt;The Effective Altruism (EA) / 80,000 Hours philosophy has guided many of my thoughts and actions over the past 4+ years. In this post, my goal is to articulate some of the most important and generalizable aspects of my EA journey so far. If you haven&amp;rsquo;t yet encountered the EA / 80,000 Hours movement, I recommend checking out Part 1!&lt;/p&gt;
 &lt;h3 id=&#34;overall-reflections&#34;&gt;Overall Reflections&lt;/h3&gt;
 &lt;p&gt;Internalizing many of the EA / 80,000 Hours ideas guided me into the field of environmental public health / biostatistics, no question. This semester, I’ve really enjoyed seeing the close alignment between these fields / movements in my introductory public health classes. Of course, there are countless other fields in which one can pursue having a positive impact along the lines of the EA literature. I can simply confirm that I am glad to have made decisions in accordance with this paradigm.&lt;/p&gt;
@@ -97,49 +141,6 @@
 &lt;p&gt;At this point, while I&amp;rsquo;m sure I&amp;rsquo;ll continue to grapple with such questions for many years to come, I&amp;rsquo;m operating under the hope that by gaining a data science skill set grounded in public health applications, I&amp;rsquo;ll be able to strike a balance in my career between indirect and direct work to help others. Though I’m still very much in the midst of figuring this stuff out, my best advice to stay motivated (for anyone following a similar path) is to seek out opportunities to help others along the way, through mentoring, collaborating on applied projects, volunteering, or some combination of the above.&lt;/p&gt;
 &lt;h3 id=&#34;parting-thoughts&#34;&gt;Parting Thoughts&lt;/h3&gt;
 &lt;p&gt;Though I have found the EA / 80,000 Hours framework to be useful in framing my individual pursuit of positive societal impact, I do not believe that this is the only way to make decisions leading to a meaningful life. For instance, I highly value others&amp;rsquo; decision to pursue careers in music and writing fiction. Art could be considered a different kind of positive impact, but I tend to see it as divergent from the traditional EA / 80,000 Hours path.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Book Recommendations</title>
-      <link>http://localhost:4321/project/book_recs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/book_recs/</guid>
-      <description>&lt;p&gt;Life gets busy and it can be hard to find the time and motivation to sit down and read nonfiction. However, many of the most important ideas that frame my perspective on the world and my place in it have come from nonfiction books. If you have the time to explore some of the following, great! If you don&amp;rsquo;t have time to read the full books, I still recommend Googling these authors / titles. Whether it&amp;rsquo;s a summary of the book, a YouTube video, or an article or blog post, these people have ideas worth hearing!&lt;/p&gt;
-&lt;h2 id=&#34;environmental&#34;&gt;Environmental&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Regenesis: Feeding the World Without Devouring the Planet&lt;/em&gt; (2022) by George Monbiot&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;The 100% Solution: A Plan for Solving Climate Change&lt;/em&gt; (2020) by Solomon Goldstein-Rose&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;The Conundrum: How Scientific Innovation, Increased Efficiency, and Good Intentions Can Make Our Energy and Climate Problems Worse&lt;/em&gt; (2012) by David Owen&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;The Sixth Extinction: An Unnatural History&lt;/em&gt; (2014) by Elizabeth Kolbert&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Climate Casino: Risk, Uncertainty, and Economics for a Warming World&lt;/em&gt; (2013) by William Norhaus&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;data-science&#34;&gt;Data Science&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;The Alignment Problem: Machine Learning and Human Values&lt;/em&gt; (2020) by Brian Christian&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Invisible Women: Data Bias in a World Designed for Men&lt;/em&gt; (2019) by Caroline Criado-Perez&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Weapons of Math Destruction&lt;/em&gt; (2016) by Cathy O’Neil&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;The Signal and the Noise: Why So Many Predictions Fail - But Some Don’t&lt;/em&gt; (2012) by Nate Silver&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;global-health--inequality--development&#34;&gt;Global Health / Inequality / Development&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;The Divide: A Brief Guide to Global Inequality and its Solutions&lt;/em&gt; (2017) by Jason Hickel&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Caste: The Origins of Our Discontents&lt;/em&gt; (2020) by Isabel Wilkerson&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;The Great Escape: Health, Wealth, and the Origins of Inequality&lt;/em&gt; (2013) by Angus Deaton&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Factfulness: Ten Reasons We’re Wrong About the World &amp;ndash; and Why Things Are Better Than You Think&lt;/em&gt; (2018) by Hans Rosling, Anna Rosling Ronnlund, and Ola Rosling&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Give a Man a Fish: Reflections on the New Politics of Distribution&lt;/em&gt; (2015) by James Ferguson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;human-nature--behavioral-economics--public-policy&#34;&gt;Human Nature / Behavioral Economics / Public Policy&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Anxiety: A Philosophical Guide&lt;/em&gt; (2024) by Samir Chopra&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;The Yellow Pad: Making Better Decisions in an Uncertain World&lt;/em&gt; (2023) by Robert E. Rubin&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous&lt;/em&gt; (2020) by Joseph Henrich&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Sapiens: A Brief History of Humankind&lt;/em&gt; (2011) by Yuval Noah Harari&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities&lt;/em&gt; (1982) by Mancur Olson&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Thinking, Fast and Slow&lt;/em&gt; (2011) by Daniel Kahneman&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Nudge: Improving Decisions About Health, Wealth, and Happiness&lt;/em&gt; (2009) by Richard H. Thaler and Cass R. Sunstein&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Predictably Irrational&lt;/em&gt; (2008) by Dan Ariely&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

@@ -2,21 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reading | Ellen Considine</title>
-    <link>http://localhost:4321/tags/reading/</link>
-      <atom:link href="http://localhost:4321/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://EllenConsidine.github.io/tags/reading/</link>
+      <atom:link href="https://EllenConsidine.github.io/tags/reading/index.xml" rel="self" type="application/rss+xml" />
     <description>Reading</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Reading</title>
-      <link>http://localhost:4321/tags/reading/</link>
+      <link>https://EllenConsidine.github.io/tags/reading/</link>
     </image>
     
     <item>
+      <title>Book Recommendations</title>
+      <link>https://EllenConsidine.github.io/project/book_recs/</link>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://EllenConsidine.github.io/project/book_recs/</guid>
+      <description>&lt;p&gt;Life gets busy and it can be hard to find the time and motivation to sit down and read nonfiction. However, many of the most important ideas that frame my perspective on the world and my place in it have come from nonfiction books. If you have the time to explore some of the following, great! If you don&amp;rsquo;t have time to read the full books, I still recommend Googling these authors / titles. Whether it&amp;rsquo;s a summary of the book, a YouTube video, or an article or blog post, these people have ideas worth hearing!&lt;/p&gt;
+&lt;h2 id=&#34;environmental&#34;&gt;Environmental&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;What if We Get it Right? Visions of Climate Futures&lt;/em&gt; (2024) by Ayana Elizabeth Johnson&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Regenesis: Feeding the World Without Devouring the Planet&lt;/em&gt; (2022) by George Monbiot&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The 100% Solution: A Plan for Solving Climate Change&lt;/em&gt; (2020) by Solomon Goldstein-Rose&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Conundrum: How Scientific Innovation, Increased Efficiency, and Good Intentions Can Make Our Energy and Climate Problems Worse&lt;/em&gt; (2012) by David Owen&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Sixth Extinction: An Unnatural History&lt;/em&gt; (2014) by Elizabeth Kolbert&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Climate Casino: Risk, Uncertainty, and Economics for a Warming World&lt;/em&gt; (2013) by William Norhaus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;data-science&#34;&gt;Data Science&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Alignment Problem: Machine Learning and Human Values&lt;/em&gt; (2020) by Brian Christian&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Invisible Women: Data Bias in a World Designed for Men&lt;/em&gt; (2019) by Caroline Criado-Perez&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Weapons of Math Destruction&lt;/em&gt; (2016) by Cathy O’Neil&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Signal and the Noise: Why So Many Predictions Fail - But Some Don’t&lt;/em&gt; (2012) by Nate Silver&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;global-health--inequality--development&#34;&gt;Global Health / Inequality / Development&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Divide: A Brief Guide to Global Inequality and its Solutions&lt;/em&gt; (2017) by Jason Hickel&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Caste: The Origins of Our Discontents&lt;/em&gt; (2020) by Isabel Wilkerson&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Great Escape: Health, Wealth, and the Origins of Inequality&lt;/em&gt; (2013) by Angus Deaton&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Factfulness: Ten Reasons We’re Wrong About the World &amp;ndash; and Why Things Are Better Than You Think&lt;/em&gt; (2018) by Hans Rosling, Anna Rosling Ronnlund, and Ola Rosling&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Give a Man a Fish: Reflections on the New Politics of Distribution&lt;/em&gt; (2015) by James Ferguson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;human-nature--behavioral-economics--public-policy&#34;&gt;Human Nature / Behavioral Economics / Public Policy&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Anxiety: A Philosophical Guide&lt;/em&gt; (2024) by Samir Chopra&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Yellow Pad: Making Better Decisions in an Uncertain World&lt;/em&gt; (2023) by Robert E. Rubin&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous&lt;/em&gt; (2020) by Joseph Henrich&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Sapiens: A Brief History of Humankind&lt;/em&gt; (2011) by Yuval Noah Harari&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities&lt;/em&gt; (1982) by Mancur Olson&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Thinking, Fast and Slow&lt;/em&gt; (2011) by Daniel Kahneman&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Nudge: Improving Decisions About Health, Wealth, and Happiness&lt;/em&gt; (2009) by Richard H. Thaler and Cass R. Sunstein&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Predictably Irrational&lt;/em&gt; (2008) by Dan Ariely&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Zooming Out -- On Sustainability, Social Justice, and Data</title>
-      <link>http://localhost:4321/post/zooming-out/</link>
+      <link>https://EllenConsidine.github.io/post/zooming-out/</link>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/zooming-out/</guid>
+      <guid>https://EllenConsidine.github.io/post/zooming-out/</guid>
       <description>&lt;p&gt;The threat of climate change has been a driving motivation for both my professional and personal choices for many years. In practice, this has manifested as getting into the weeds with various academic subjects (i.e. air quality, statistics, public health, computer science) as well as recurrent introspection on many aspects of lifestyle. This spring, I was reminded of the importance of picking my head up and seeking out new perspectives &amp;ndash; despite the countless hours I&amp;rsquo;ve spent educating myself on environmental and social/economic justice topics, there is always more to learn and consider. In this blog, I&amp;rsquo;ll share some broad reflections from several recent experiences.&lt;/p&gt;
 &lt;p&gt;Most of the ideas here were inspired by:&lt;/p&gt;
 &lt;ol&gt;
@@ -75,9 +119,9 @@
     
     <item>
       <title>The Revelatory Mirror of AI/ML -- On Evolution, Uncertainty, and Recourse</title>
-      <link>http://localhost:4321/post/revelatory-mirror/</link>
+      <link>https://EllenConsidine.github.io/post/revelatory-mirror/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/revelatory-mirror/</guid>
+      <guid>https://EllenConsidine.github.io/post/revelatory-mirror/</guid>
       <description>&lt;p&gt;&lt;strong&gt;“Our successes and failures alike in getting these systems to do &amp;lsquo;what we want,&amp;rsquo; it turns out, offer us an unflinching, revelatory mirror.” - Brian Christian&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This summer, I joined a data science &amp;amp; society-themed book club sponsored by the Harvard Data Science Initiative. Our first book was &lt;em&gt;The Alignment Problem: Machine Learning and Human Values&lt;/em&gt; by Brian Christian (2020). It turned out to be one of my favorite nonfiction books. Someone in the group also let us know about a free virtual event, the Symposium on Interpretable and Explainable Artificial Intelligence and Machine Learning, hosted by the National Academies of Science Committee on Applied and Theoretical Statistics, which I ended up attending. (If you&amp;rsquo;re interested in this Symposium, a recording is available &lt;a href=&#34;https://www.nationalacademies.org/event/06-21-2022/interpretable-and-explainable-ai-and-machine-learning&#34;&gt;here&lt;/a&gt;.)&lt;/p&gt;
 &lt;p&gt;Between the reading, the Symposium, and our book club&amp;rsquo;s weekly discussions, there are a plethora of topics about which I could wax lyrical. For the sake of a bite-sized post, however, I will stick to a few overarching themes that stuck out to me: (1) the development of artificial intelligence (AI) giving us insights into our own brains, (2) the ability (or lack thereof) for individual people or minority groups to pursue justice for maltreatment at the &amp;ldquo;hands&amp;rdquo; of an algorithm, and (3) the perpetual need for humility (for both humans and AI).&lt;/p&gt;
@@ -106,9 +150,9 @@
     
     <item>
       <title>Principled Negotiation and the Ethos of Public Health</title>
-      <link>http://localhost:4321/post/public-health-ethos/</link>
+      <link>https://EllenConsidine.github.io/post/public-health-ethos/</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/public-health-ethos/</guid>
+      <guid>https://EllenConsidine.github.io/post/public-health-ethos/</guid>
       <description>&lt;p&gt;I am currently reading a book on negotiation called &lt;em&gt;Getting to Yes&lt;/em&gt;, written by members of the Harvard Negotiation Project. One of the opening chapters describes positional bargaining: two sides starting from places of disagreement and inching their way closer by making small concessions in turn. The authors describe how problematic this process is: it is inefficient, commonly leads to unwise outcomes (good for neither side), and can harm relationships between parties. Instead, the book presents a case for principled negotiation, founded on separating the people (negotiators) from the problem, focusing on interests instead of positions, inventing options for mutual gain, and insisting on use of objective criteria. &lt;a href=&#34;https://www.pon.harvard.edu/daily/negotiation-skills-daily/principled-negotiation-focus-interests-create-value/&#34;&gt;Here is a nice summary&lt;/a&gt;, for those interested in learning more.&lt;/p&gt;
 &lt;p&gt;I bring this book up to motivate presentation of my principles. Nearly everything we do in our professional and personal lives is a negotiation of some kind. It is important to establish what we believe so that we can work with others to identify common ground and develop pragmatic solutions to our problems.&lt;/p&gt;
 &lt;p&gt;Listening to the news and having conversations with other people, it is clear that there are foundationally diverse beliefs about how human civilization should look, and how we should get there (if the belief is that we aren&amp;rsquo;t already there). I have come to the unoriginal conclusion that the largest discrepancy in how people think and act is described by the weight an individual mentally assigns to their personal freedoms in comparison with the freedoms of others, and to what extent they believe we should rely on governmental authorities to enforce the balance of individuals&amp;rsquo; freedoms. This discrepancy has obvious ties to the arena of public health, where large and complex problems such as infectious diseases and environmental pollution bring tensions between individual freedoms and collective sacrifice to light. In fact, while pondering my beliefs and their implications, I ran across the &lt;a href=&#34;https://www.apha.org/-/media/files/pdf/membergroups/ethics/code_of_ethics.ashx&#34;&gt;Public Health Code of Ethics&lt;/a&gt; by the American Public Health Association (APHA) and determined this to be the most clear articulation of my principles that I have ever found.&lt;/p&gt;
@@ -123,9 +167,9 @@
     
     <item>
       <title>On Having an Impact, Part 1</title>
-      <link>http://localhost:4321/post/impact-part1/</link>
+      <link>https://EllenConsidine.github.io/post/impact-part1/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/impact-part1/</guid>
+      <guid>https://EllenConsidine.github.io/post/impact-part1/</guid>
       <description>&lt;p&gt;My views and aspirations for both my professional and my personal life have been profoundly influenced by the Effective Altruism (EA) / 80,000 Hours movement. This post is meant to introduce those who haven’t encountered this movement to it. See &amp;ldquo;On Having an Impact, Part 2&amp;rdquo; for some of my reflections in light of this overarching philosophy.&lt;/p&gt;
 &lt;h3 id=&#34;intro-to-effective-altruism-and-80000-hours&#34;&gt;Intro to Effective Altruism and 80,000 Hours&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Note: Instead of citing everything in the paragraphs below, I’m including a list of links at the end of this post, which I encourage you to explore!&lt;/em&gt;&lt;/p&gt;
@@ -167,164 +211,129 @@
     </item>
     
     <item>
-      <title>Book Recommendations</title>
-      <link>http://localhost:4321/project/book_recs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/book_recs/</guid>
-      <description>&lt;p&gt;Life gets busy and it can be hard to find the time and motivation to sit down and read nonfiction. However, many of the most important ideas that frame my perspective on the world and my place in it have come from nonfiction books. If you have the time to explore some of the following, great! If you don&amp;rsquo;t have time to read the full books, I still recommend Googling these authors / titles. Whether it&amp;rsquo;s a summary of the book, a YouTube video, or an article or blog post, these people have ideas worth hearing!&lt;/p&gt;
-&lt;h2 id=&#34;environmental&#34;&gt;Environmental&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Regenesis: Feeding the World Without Devouring the Planet&lt;/em&gt; (2022) by George Monbiot&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;The 100% Solution: A Plan for Solving Climate Change&lt;/em&gt; (2020) by Solomon Goldstein-Rose&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;The Conundrum: How Scientific Innovation, Increased Efficiency, and Good Intentions Can Make Our Energy and Climate Problems Worse&lt;/em&gt; (2012) by David Owen&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;The Sixth Extinction: An Unnatural History&lt;/em&gt; (2014) by Elizabeth Kolbert&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Climate Casino: Risk, Uncertainty, and Economics for a Warming World&lt;/em&gt; (2013) by William Norhaus&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;data-science&#34;&gt;Data Science&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;The Alignment Problem: Machine Learning and Human Values&lt;/em&gt; (2020) by Brian Christian&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Invisible Women: Data Bias in a World Designed for Men&lt;/em&gt; (2019) by Caroline Criado-Perez&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Weapons of Math Destruction&lt;/em&gt; (2016) by Cathy O’Neil&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;The Signal and the Noise: Why So Many Predictions Fail - But Some Don’t&lt;/em&gt; (2012) by Nate Silver&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;global-health--inequality--development&#34;&gt;Global Health / Inequality / Development&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;The Divide: A Brief Guide to Global Inequality and its Solutions&lt;/em&gt; (2017) by Jason Hickel&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Caste: The Origins of Our Discontents&lt;/em&gt; (2020) by Isabel Wilkerson&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;The Great Escape: Health, Wealth, and the Origins of Inequality&lt;/em&gt; (2013) by Angus Deaton&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Factfulness: Ten Reasons We’re Wrong About the World &amp;ndash; and Why Things Are Better Than You Think&lt;/em&gt; (2018) by Hans Rosling, Anna Rosling Ronnlund, and Ola Rosling&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Give a Man a Fish: Reflections on the New Politics of Distribution&lt;/em&gt; (2015) by James Ferguson&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;human-nature--behavioral-economics--public-policy&#34;&gt;Human Nature / Behavioral Economics / Public Policy&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Anxiety: A Philosophical Guide&lt;/em&gt; (2024) by Samir Chopra&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;The Yellow Pad: Making Better Decisions in an Uncertain World&lt;/em&gt; (2023) by Robert E. Rubin&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous&lt;/em&gt; (2020) by Joseph Henrich&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Sapiens: A Brief History of Humankind&lt;/em&gt; (2011) by Yuval Noah Harari&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;The Rise and Decline of Nations: Economic Growth, Stagflation, and Social Rigidities&lt;/em&gt; (1982) by Mancur Olson&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Thinking, Fast and Slow&lt;/em&gt; (2011) by Daniel Kahneman&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Nudge: Improving Decisions About Health, Wealth, and Happiness&lt;/em&gt; (2009) by Richard H. Thaler and Cass R. Sunstein&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Predictably Irrational&lt;/em&gt; (2008) by Dan Ariely&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Others&#39; Ideas that Resonate</title>
-      <link>http://localhost:4321/project/ideas_resonate/</link>
+      <link>https://EllenConsidine.github.io/project/ideas_resonate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/ideas_resonate/</guid>
+      <guid>https://EllenConsidine.github.io/project/ideas_resonate/</guid>
       <description>&lt;p&gt;Here are lists of articles, podcasts, videos, etc. that I intend to continuously update as I come across well-explained, powerful ideas that relate directly to my field(s) of interest. For the most part, these resources are more conversational than technical, and are meant to inspire as well as inform. Also see my list of recommended nonfiction books, which spans a larger range of topics.&lt;/p&gt;
 &lt;h3 id=&#34;environmental-health&#34;&gt;Environmental Health&lt;/h3&gt;
 &lt;p&gt;Articles:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Assessing the health burden from air pollution &amp;ndash; Science perspective, 2024&lt;/li&gt;
-&lt;li&gt;StoryMap: &amp;ldquo;Air Pollution and Health: The Global Impacts of Fossil Fuels&amp;rdquo; &amp;ndash; State of Global Air, 2023&lt;/li&gt;
-&lt;li&gt;Engaging Socially Vulnerable Communities and Communicating About Climate Change &amp;ndash; NASEM, 2023&lt;/li&gt;
-&lt;li&gt;Leveraging Air Quality Research Advancements to Assess and Address Exposure Inequities &amp;ndash; Goldman, 2023. Environmental Health Perspectives&lt;/li&gt;
-&lt;li&gt;Are “safe” exposure levels really “safe”? &amp;ndash; Program on Reproductive Health and the Environment, 2023&lt;/li&gt;
-&lt;li&gt;Western lawmakers spot opening in smoke crisis &amp;ndash; Axios, 2023&lt;/li&gt;
-&lt;li&gt;A conversation on air pollution in the United States &amp;ndash; Nature Geoscience, 2023&lt;/li&gt;
-&lt;li&gt;Naming civic health in environmental justice discourse: The Jackson water crisis &amp;ndash; Nwanaji-Enwerem &amp;amp; Casey, 2022&lt;/li&gt;
-&lt;li&gt;Flipping the Climate Debate from Costs to Benefits &amp;ndash; Anenberg, 2021. Environmental Health News&lt;/li&gt;
-&lt;li&gt;Tackling Air Pollution and Climate Justice Together &amp;ndash; Moses &amp;amp; Roy, 2021. Environmental Defense Fund&lt;/li&gt;
-&lt;li&gt;Closing the Data Gap: A Cost-Effective Way to Improve [Global] Air Quality &amp;ndash; Hasenkopf, 2021. World Economic Forum&lt;/li&gt;
-&lt;li&gt;Air Pollution Diminishes Future Generations&amp;rsquo; Economic Opportunities &amp;ndash; Voorheis, 2021. US Census&lt;/li&gt;
-&lt;li&gt;Using Feedback to Improve Accountability in Global Environmental Health and Engineering &amp;ndash; Thomas &amp;amp; Brown, 2020&lt;/li&gt;
-&lt;li&gt;Is AI revolutionizing environmental health? (Simply Statistics &amp;ndash; Peng, 2019). In general, this blog has a lot of cool posts for data scientists and educators.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www-science-org.ezp-prod1.hul.harvard.edu/doi/full/10.1126/science.abo3801&#34;&gt;Assessing the health burden from air pollution&lt;/a&gt; &amp;ndash; &lt;em&gt;Science&lt;/em&gt; perspective, 2024&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://storymaps.arcgis.com/stories/410043f1b72c4fdf88ed8afd8d7141a0&#34;&gt;StoryMap: &amp;ldquo;Air Pollution and Health: The Global Impacts of Fossil Fuels&amp;rdquo;&lt;/a&gt; &amp;ndash; State of Global Air, 2023&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nap.nationalacademies.org/resource/26734/interactive/?utm_source=Division+on+Earth+and+Life+Studies&amp;amp;utm_campaign=ee177163f5-EMAIL_CAMPAIGN_2022_07_18_02_27_COPY_01&amp;amp;utm_medium=email&amp;amp;utm_term=0_3c0b1ad5c8-ee177163f5-278992928&amp;amp;mc_cid=ee177163f5&amp;amp;mc_eid=8a45f13ab8&#34;&gt;Engaging Socially Vulnerable Communities and Communicating About Climate Change&lt;/a&gt; &amp;ndash; NASEM, 2023&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ehp.niehs.nih.gov/doi/full/10.1289/EHP12503&#34;&gt;Leveraging Air Quality Research Advancements to Assess and Address Exposure Inequities&lt;/a&gt; &amp;ndash; Goldman, 2023. &lt;em&gt;Environmental Health Perspectives&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://prheucsf.blog/2023/01/26/are-safe-exposure-levels-really-safe/&#34;&gt;Are “safe” exposure levels really “safe”?&lt;/a&gt; &amp;ndash; Program on Reproductive Health and the Environment, 2023&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.axios.com/2023/06/13/wildfire-bill-congress-air-filters&#34;&gt;Western lawmakers spot opening in smoke crisis&lt;/a&gt; &amp;ndash; &lt;em&gt;Axios&lt;/em&gt;, 2023&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www-nature-com.ezp-prod1.hul.harvard.edu/articles/s41561-023-01307-y&#34;&gt;A conversation on air pollution in the United States&lt;/a&gt; &amp;ndash; &lt;em&gt;Nature Geoscience&lt;/em&gt;, 2023&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S2667193X22001958&#34;&gt;Naming civic health in environmental justice discourse: The Jackson water crisis&lt;/a&gt; &amp;ndash; Nwanaji-Enwerem &amp;amp; Casey, 2022. &lt;em&gt;The Lancet Regional Health - Americas&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://harvardpublichealth.org/environmental-health/no-time-to-waste/&#34;&gt;No Time to Waste: How Harvard Chan School researchers are taking action on climate change and fighting for a healthier, more equitable planet&lt;/a&gt; 2021&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ehn.org/cop26-climate-change-2655521054/cop26&#34;&gt;Flipping the Climate Debate from Costs to Benefits&lt;/a&gt; &amp;ndash; Anenberg, 2021. Environmental Health News&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://globalcleanair.org/climate/tackling-air-pollution-and-climate-justice-together/&#34;&gt;Tackling Air Pollution and Climate Justice Together&lt;/a&gt; &amp;ndash; Moses &amp;amp; Roy, 2021. Environmental Defense Fund&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.weforum.org/stories/2021/02/how-improve-air-quality-cost-effective-way/&#34;&gt;Closing the Data Gap: A Cost-Effective Way to Improve [Global] Air Quality&lt;/a&gt; &amp;ndash; Hasenkopf, 2021. World Economic Forum&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.census.gov/library/stories/2021/02/air-pollution-diminishes-future-generations-economic-opportunities.html&#34;&gt;Air Pollution Diminishes Future Generations&amp;rsquo; Economic Opportunities&lt;/a&gt; &amp;ndash; Voorheis, 2021. US Census&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pubs-acs-org.ezp-prod1.hul.harvard.edu/doi/full/10.1021/acs.est.0c04115?utm_source=12%2F14%2F2020+Digest&amp;amp;utm_campaign=12%2F14%2F2020+Newsletter&amp;amp;utm_medium=email&#34;&gt;Using Feedback to Improve Accountability in Global Environmental Health and Engineering&lt;/a&gt; &amp;ndash; Thomas &amp;amp; Brown, 2020. &lt;em&gt;Environmental Science &amp;amp; Technology&lt;/em&gt; perspective&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://simplystatistics.org/posts/2019-12-04-is-artificial-intelligence-revolutionizing-environmental-health/&#34;&gt;Is AI revolutionizing environmental health?&lt;/a&gt; &lt;em&gt;Simply Statistics&lt;/em&gt; &amp;ndash; Peng, 2019. In general, this blog has a lot of cool posts for data scientists and educators.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Videos:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Environmental Health Disparities - An Overview (Harvard Chan NIEHS Center for Environmental Health) &amp;ndash; Mendonça, 2021&lt;/li&gt;
-&lt;li&gt;ClimateBits: Unhealthy Air &amp;ndash; 2019.&lt;/li&gt;
-&lt;li&gt;What is Environmental Health? &amp;ndash; YouTube, NYU School of Global Public Health, 2019&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=oN2EyuUY6Mg&#34;&gt;Environmental Health Disparities - An Overview&lt;/a&gt; (Harvard Chan NIEHS Center for Environmental Health) &amp;ndash; Mendonça, 2021&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=bD1DzARqFYE&#34;&gt;ClimateBits: Unhealthy Air&lt;/a&gt; &amp;ndash; 2019.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=T97O1VWhglE&#34;&gt;What is Environmental Health?&lt;/a&gt; &amp;ndash; YouTube, NYU School of Global Public Health, 2019&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Podcasts:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Agents of Change in Environmental Justice &amp;ndash; podcast featuring emerging leaders from historically excluded backgrounds in science and academia who are reimagining solutions for a just and healthy planet&lt;/li&gt;
-&lt;li&gt;This is Your Brain on Pollution &amp;ndash; Freakonomics podcast, 2021&lt;/li&gt;
-&lt;li&gt;Using Data Science to Study Air Pollution&amp;rsquo;s Effect on Covid-19 (Women in Data Science podcast) &amp;ndash; Dominici &amp;amp; Nethery, 2020&lt;/li&gt;
-&lt;li&gt;Atmospheric Tales &amp;ndash; podcast discussing global environmental health, 2020 onwards&lt;/li&gt;
-&lt;li&gt;Decolonizing Air Pollution Science &amp;ndash; deSouza, 2020 / MIT Community Innovators Lab (CoLab) Radio (overall archive). Stories and reflections on the interplay of science and technology with community development and planning.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/agents-of-change-justice&#34;&gt;Agents of Change in Environmental Justice&lt;/a&gt; &amp;ndash; podcast featuring emerging leaders from historically excluded backgrounds in science and academia who are reimagining solutions for a just and healthy planet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://freakonomics.com/podcast/this-is-your-brain-on-pollution/&#34;&gt;This is Your Brain on Pollution&lt;/a&gt; &amp;ndash; &lt;em&gt;Freakonomics&lt;/em&gt; podcast, 2021&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.widsworldwide.org/&#34;&gt;Using Data Science to Study Air Pollution&amp;rsquo;s Effect on Covid-19&lt;/a&gt; (Women in Data Science podcast) &amp;ndash; Dominici &amp;amp; Nethery, 2020&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://atmospherictales.com/episodes/&#34;&gt;Atmospheric Tales&lt;/a&gt; &amp;ndash; podcast discussing global environmental health, 2020 onwards&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://priyankadesouza.mit.edu/podcast&#34;&gt;Decolonizing Air Pollution Science&lt;/a&gt; &amp;ndash; deSouza, 2020 / &lt;a href=&#34;https://www.colab.mit.edu/colabradio-more&#34;&gt;MIT Community Innovators Lab (CoLab) Radio (overall archive)&lt;/a&gt;. Stories and reflections on the interplay of science and technology with community development and planning.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Feature-length / series:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;How air pollution impacts our brains, 2024&lt;/li&gt;
-&lt;li&gt;NASEM Climate Crossroads Summit 2023 (video playlist)&lt;/li&gt;
-&lt;li&gt;NASEM Workshop on Communities, Climate Change, and Health Equity – Lessons Learned in Addressing Inequities in Heat-Related Climate Change Impacts (2023)&lt;/li&gt;
-&lt;li&gt;HSPH Climate, Health, &amp;amp; Equity Symposium 2023&lt;/li&gt;
-&lt;li&gt;Health Effects Institute (HEI) Science on the 7th &amp;ndash; series discussing current critical topics in air quality and global health&lt;/li&gt;
-&lt;li&gt;Clearing the Air: Why Now Is the Time to Tackle Global Air Pollution &amp;ndash; HSPH + WHO + CNN, 2021&lt;/li&gt;
-&lt;li&gt;Taking the Temperature: Your Health, Our Climate, and What We Can Do About It &amp;ndash; Mazumder, 2021. Harvard Science in the News series.&lt;/li&gt;
-&lt;li&gt;The Story of Plastic (2019). Documentary examining issues and opportunities throughout the lifecycle of plastic.&lt;/li&gt;
-&lt;li&gt;Dark Waters (2019). Dramatic recreation of Rob Bilott&amp;rsquo;s case against the chemical manufacturing company DuPont after they contaminated a town with unregulated chemicals. &lt;em&gt;For more information on the environmental health science occurring behind the scenes, check out the C8 Science Panel website.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Collaborative on Health and the Environment: Climate Change and Health, 2019. Collection of videos, focusing on the topics of extreme heat, air pollution, extreme weather events, and infectious diseases.&lt;/li&gt;
-&lt;li&gt;The Crowd &amp;amp; the Cloud &amp;ndash; Abdalati, 2017. Video series discussing citizen science used in environmental health applications.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=PUZw-jg5SiE&#34;&gt;How air pollution impacts our brains&lt;/a&gt;, 2024&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nationalacademies.org/event/39683_07-2023_climate-crossroads-summit-2023&#34;&gt;NASEM Climate Crossroads Summit 2023&lt;/a&gt; (video playlist)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nationalacademies.org/event/06-20-2023/workshop-on-communities-climate-change-and-health-equity-lessons-learned-in-addressing-inequities-in-heat-related-climate-change-impacts&#34;&gt;NASEM Workshop on Communities, Climate Change, and Health Equity – Lessons Learned in Addressing Inequities in Heat-Related Climate Change Impacts&lt;/a&gt; (2023)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLmRw3WVY-55lYL0skigGY1m4FlW47sIEp&#34;&gt;HSPH Climate, Health, &amp;amp; Equity Symposium&lt;/a&gt; 2023&lt;/li&gt;
+&lt;li&gt;Health Effects Institute (HEI) &lt;a href=&#34;https://www.healtheffects.org/science-on-the-7th&#34;&gt;Science on the 7th&lt;/a&gt; &amp;ndash; series discussing current critical topics in air quality and global health&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Kaa6Uh3PAd4&#34;&gt;Clearing the Air: Why Now Is the Time to Tackle Global Air Pollution&lt;/a&gt; &amp;ndash; HSPH + WHO + CNN, 2021&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5bKlHlUcGR8&#34;&gt;Taking the Temperature: Your Health, Our Climate, and What We Can Do About It&lt;/a&gt; &amp;ndash; Mazumder, 2021. Harvard Science in the News series.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Story of Plastic&lt;/em&gt; (2019). Documentary examining issues and opportunities throughout the lifecycle of plastic.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Dark Waters&lt;/em&gt; (2019). Dramatic recreation of Rob Bilott&amp;rsquo;s case against the chemical manufacturing company DuPont after they contaminated a town with unregulated chemicals. For more information on the environmental health science occurring behind the scenes, check out the &lt;a href=&#34;http://www.c8sciencepanel.org/index.html&#34;&gt;C8 Science Panel website&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.healthandenvironment.org/our-work/che-webinars&#34;&gt;Collaborative on Health and the Environment: Climate Change and Health&lt;/a&gt;, 2019. Collection of videos, focusing on the topics of extreme heat, air pollution, extreme weather events, and infectious diseases.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://crowdandcloud.org/watch-the-episodes/episode-one&#34;&gt;The Crowd &amp;amp; the Cloud&lt;/a&gt;&lt;/em&gt; &amp;ndash; Abdalati, 2017. Video series discussing citizen science used in environmental health applications.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;data-science--statistics&#34;&gt;Data Science / Statistics&lt;/h3&gt;
 &lt;p&gt;Articles:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Big data in Earth science: Emerging practice and promise &amp;ndash; Science review, 2024&lt;/li&gt;
-&lt;li&gt;Democratizing the future of AI R&amp;amp;D: NSF to launch National AI Research Resource pilot (2024)&lt;/li&gt;
-&lt;li&gt;What Should Data Science Education Do with Large Language Models? &amp;ndash; Tu et al, 2023&lt;/li&gt;
-&lt;li&gt;NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data (2023)&lt;/li&gt;
-&lt;li&gt;Strengthening [global] public health systems through artificial intelligence &amp;ndash; HSPH, 2023&lt;/li&gt;
-&lt;li&gt;Harvard Graduate Transforms High School Math Curriculum: Skew The Script, a nonprofit organization, provides free, socially-relevant math + statistics lessons to high school teachers across the country &amp;ndash; Harvard Data Science Initiative, 2023&lt;/li&gt;
-&lt;li&gt;Apple Women’s Health Study advances understanding of menstrual cycles and health (2023) &amp;ndash;Example of thoughtful data collection generating insights that are highly relevant for both clinicians and policy makers.&lt;/li&gt;
-&lt;li&gt;Is there a role for statistics in artificial intelligence? &amp;ndash; Friedrich et al, 2021&lt;/li&gt;
-&lt;li&gt;What are the Most Important Statistical Ideas of the Past 50 Years? &amp;ndash; Gelman &amp;amp; Vehtari, 2021&lt;/li&gt;
-&lt;li&gt;Artificial Intelligence&amp;rsquo;s Promise &amp;amp; Peril (2021) &amp;ndash; Harvard School of Public Health&lt;/li&gt;
-&lt;li&gt;Twitter thread: best data visualizations (2021)&lt;/li&gt;
-&lt;li&gt;What Are the Values of Data, Data Science, or Data Scientists? &amp;ndash; Meng, 2021. Harvard Data Science Review editorial piece.&lt;/li&gt;
-&lt;li&gt;Statistics Monitors the Environment and Statistics Informs Health Policy &amp;ndash; ASA Statistical Significance Series&lt;/li&gt;
-&lt;li&gt;The ASCCR Frame for Learning Essential Collaboration Skills &amp;ndash; Vance &amp;amp; Smith, 2019&lt;/li&gt;
-&lt;li&gt;Career of Gertrude M. Cox &amp;ndash; NC State Library&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.mit.edu/2024/generative-ai-lacks-coherent-world-understanding-1105?mc_cid=6e257a93d1&amp;amp;mc_eid=eb939aedf9&#34;&gt;Despite its impressive output, generative AI doesn’t have a coherent understanding of the world&lt;/a&gt; &amp;ndash; &lt;em&gt;MIT News&lt;/em&gt;, 2024&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.climatechange.ai/blog/2024-08-09-ai-public-planetary-health&#34;&gt;AI for Public and Planetary Health&lt;/a&gt; &amp;ndash; Skenazy &amp;amp; Khalid, 2024. Climate Change AI blog&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www-science-org.ezp-prod1.hul.harvard.edu/doi/10.1126/science.adh9607&#34;&gt;Big data in Earth science: Emerging practice and promise&lt;/a&gt; &amp;ndash; &lt;em&gt;Science&lt;/em&gt; review, 2024&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://new.nsf.gov/news/democratizing-future-ai-rd-nsf-launch-national-ai&#34;&gt;Democratizing the future of AI R&amp;amp;D: NSF to launch National AI Research Resource pilot&lt;/a&gt; (2024)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hdsr.mitpress.mit.edu/pub/pqiufdew/release/2&#34;&gt;What Should Data Science Education Do with Large Language Models?&lt;/a&gt; &amp;ndash; Tu et al, 2024. &lt;em&gt;Harvard Data Science Review&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face&#34;&gt;NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data&lt;/a&gt; (2023)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hsph.harvard.edu/news/features/harvard-chan-schools-christopher-golden-receives-grant-to-strengthen-public-health-systems-through-artificial-intelligence/?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_content=Strengthening%20public%20health%20systems%20through%20artificial%20intelligence&amp;amp;utm_campaign=Kiosk_051123&#34;&gt;Strengthening [global] public health systems through artificial intelligence&lt;/a&gt; &amp;ndash; HSPH, 2023&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://datascience.harvard.edu/2023/02/23/harvard-graduate-transforms-high-school-math-curriculum-2/&#34;&gt;Harvard Graduate Transforms High School Math Curriculum: Skew The Script, a nonprofit organization, provides free, socially-relevant math + statistics lessons to high school teachers across the country&lt;/a&gt; &amp;ndash; Harvard Data Science Initiative, 2023&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hsph.harvard.edu/news/features/apple-womens-health-study-advances-understanding-of-menstrual-cycles-and-health/?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_content=Apple%20Women%26amp%3B%2339%3Bs%20Health%20Study&amp;amp;utm_campaign=Kiosk_020223&#34;&gt;Apple Women’s Health Study advances understanding of menstrual cycles and health&lt;/a&gt; (2023) &amp;ndash;Example of thoughtful data collection generating insights that are highly relevant for both clinicians and policy makers.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://link-springer-com.ezp-prod1.hul.harvard.edu/article/10.1007/s11634-021-00455-6&#34;&gt;Is there a role for statistics in artificial intelligence?&lt;/a&gt; &amp;ndash; Friedrich et al, 2021&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1938081&#34;&gt;What are the Most Important Statistical Ideas of the Past 50 Years?&lt;/a&gt; &amp;ndash; Gelman &amp;amp; Vehtari, 2021. &lt;em&gt;Journal of the America Statistical Association&lt;/em&gt; review&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://harvardpublichealth.org/alumni-post/artificial-intelligences-promise-and-peril/&#34;&gt;Artificial Intelligence&amp;rsquo;s Promise &amp;amp; Peril&lt;/a&gt; (2021) &amp;ndash; Harvard School of Public Health&lt;/li&gt;
+&lt;li&gt;Twitter thread: &lt;a href=&#34;https://x.com/MaxCRoser/status/1504521427608907780&#34;&gt;best data visualizations&lt;/a&gt; (2021)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hdsr.mitpress.mit.edu/pub/bj2dfcwg/release/1&#34;&gt;What Are the Values of Data, Data Science, or Data Scientists?&lt;/a&gt; &amp;ndash; Meng, 2021. &lt;em&gt;Harvard Data Science Review&lt;/em&gt; editorial piece.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amstat.org/asa/files/pdfs/StatSig/StatSigEnvironment.pdf&#34;&gt;Statistics Monitors the Environment&lt;/a&gt; and &lt;a href=&#34;https://www.amstat.org/asa/files/pdfs/StatSig/StatSigHealthPolicy.pdf&#34;&gt;Statistics Informs Health Policy&lt;/a&gt; &amp;ndash; ASA Statistical Significance Series&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/10691898.2019.1687370&#34;&gt;The ASCCR Frame for Learning Essential Collaboration Skills&lt;/a&gt; &amp;ndash; Vance &amp;amp; Smith, 2019. &lt;em&gt;Journal of Statistics Education&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lib.ncsu.edu/archivedexhibits/cox/career.html&#34;&gt;Career of Gertrude M. Cox&lt;/a&gt; &amp;ndash; NC State Library&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Podcasts:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Mental Health Challenges: How Can Data Science Help? &amp;ndash; Harvard Data Science Review Podcast, 2021&lt;/li&gt;
-&lt;li&gt;Casual Inference podcast by Ellie Murray and Lucy D&amp;rsquo;Agostino McGowan, specifically this episode featuring Roger Peng: &amp;ldquo;Why Everyone is Excited About Causal Inference These Days&amp;rdquo; (2020)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://open.spotify.com/episode/7MtLihJFprYZiwrs709sot&#34;&gt;Mental Health Challenges: How Can Data Science Help?&lt;/a&gt; &amp;ndash; &lt;em&gt;Harvard Data Science Review&lt;/em&gt; Podcast, 2021&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://casualinfer.libsyn.com/&#34;&gt;Casual Inference&lt;/a&gt; podcast by Ellie Murray and Lucy D&amp;rsquo;Agostino McGowan, specifically &lt;a href=&#34;https://casualinfer.libsyn.com/why-everyone-is-excited-about-causal-inference-these-days-with-roger-peng-episode-18&#34;&gt;this episode featuring Roger Peng: &amp;ldquo;Why Everyone is Excited About Causal Inference These Days&amp;rdquo;&lt;/a&gt; (2020)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Feature-length / series:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Shaping the Future of AI &amp;ndash; National Academies; one insightful discussion can be found in the &amp;ldquo;Navigating Ethical Dilemmas&amp;rdquo; section in this article&lt;/li&gt;
-&lt;li&gt;Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead (Harvard Data Science Initiative Bias^2 seminar) &amp;ndash; Rudin, 2021&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nationalacademies.org/topics/artificial-intelligence?utm_source=NASEM+News+and+Publications&amp;amp;utm_campaign=526a3dbc40-EMAIL_CAMPAIGN_2024_02_20_08_03&amp;amp;utm_medium=email&amp;amp;utm_term=0_-526a3dbc40-%5BLIST_EMAIL_ID%5D&amp;amp;mc_cid=526a3dbc40&amp;amp;mc_eid=d75b34703b&#34;&gt;Shaping the Future of AI&lt;/a&gt; &amp;ndash; National Academies; one insightful discussion can be found in the &amp;ldquo;Navigating Ethical Dilemmas&amp;rdquo; section in &lt;a href=&#34;https://www.nationalacademies.org/news/2023/11/how-ai-is-shaping-scientific-discovery?utm_source=NASEM+News+and+Publications&amp;amp;utm_campaign=526a3dbc40-EMAIL_CAMPAIGN_2024_02_20_08_03&amp;amp;utm_medium=email&amp;amp;utm_term=0_-526a3dbc40-%5BLIST_EMAIL_ID%5D&amp;amp;mc_cid=526a3dbc40&amp;amp;mc_eid=d75b34703b&#34;&gt;this article&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=oU54hic66As&#34;&gt;Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead&lt;/a&gt; (Harvard Data Science Initiative Bias^2 seminar) &amp;ndash; Rudin, 2021&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;career--miscellaneous&#34;&gt;Career / Miscellaneous&lt;/h3&gt;
 &lt;p&gt;Articles:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;The Human Implications of AI with Brian Christian &amp;ndash; NASEM, 2024&lt;/li&gt;
-&lt;li&gt;Time to support Indigenous science &amp;ndash; Wall Kimmerer &amp;amp; Artelle, 2024&lt;/li&gt;
-&lt;li&gt;How are you saving the world? &amp;ndash; Parast, 2023&lt;/li&gt;
-&lt;li&gt;All the evidence-based advice we found on how to be more successful in any job &amp;ndash; Todd (80,000 Hours), 2023&lt;/li&gt;
-&lt;li&gt;Field-Specific Ability Beliefs as an Explanation for Gender Differences in Academics’ Career Trajectories: Evidence From Public Profiles on ORCID.org &amp;ndash; Hannak et al, 2023&lt;/li&gt;
-&lt;li&gt;Increasing Women’s Representation in STEM Fields &amp;ndash; Gray, 2023&lt;/li&gt;
-&lt;li&gt;Which food is better for the planet? &amp;ndash; Washington Post Climate Lab (2023). Interactive visualizations comparing different food types over various environmental dimensions.&lt;/li&gt;
-&lt;li&gt;A list of the most high-impact, evidence-based organizations fighting climate change &amp;ndash; Samuel, 2022&lt;/li&gt;
-&lt;li&gt;Rethinking international development strategy—and hearing echoes of global challenges in the United States &amp;ndash; Harvard Kennedy School faculty, 2022&lt;/li&gt;
-&lt;li&gt;Impostors Anonymous &amp;ndash; Witten, 2022. Helpful thoughts on impostor syndrome in academia / high-achievement communities.&lt;/li&gt;
-&lt;li&gt;My experience with imposter syndrome—and how to (partly) overcome it &amp;ndash; Rodriguez (80,000 Hours), 2022&lt;/li&gt;
-&lt;li&gt;Americans experience a false social reality by underestimating popular climate policy support by nearly half &amp;ndash; Sparkman, Geiger, &amp;amp; Weber, 2022.&lt;/li&gt;
-&lt;li&gt;In academia, we need two types of researchers: divers and surfers &amp;ndash; Pandya, 2022&lt;/li&gt;
-&lt;li&gt;Putting Mental Health in America on the Map &amp;ndash; Geraghty (ESRI), 2022&lt;/li&gt;
-&lt;li&gt;How Public Health Took Part in Its Own Downfall &amp;ndash; The Atlantic, 2021&lt;/li&gt;
-&lt;li&gt;Effective Altruism: An Update to Our Thinking On Climate Change &amp;ndash; Ackva, 2020&lt;/li&gt;
-&lt;li&gt;Five Ways To Prioritize Better &amp;ndash; Bye, 2020&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www-nature-com.ezp-prod1.hul.harvard.edu/articles/s44168-024-00171-9&#34;&gt;Challenging the Neutrality Myth in Climate Science and Activism&lt;/a&gt; &amp;ndash; van Eck, Messling, &amp;amp; Hayhoe, 2024. &lt;em&gt;npj Climate Action&lt;/em&gt; comment&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://salatainstitute.harvard.edu/is-the-brain-relevant-to-climate-change/&#34;&gt;Is the Brain Relevant to Climate Change?&lt;/a&gt; &amp;ndash; Harvard Salata Institute for Climate &amp;amp; Sustainability, 2024&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nationalacademies.org/news/2024/04/the-human-implications-of-ai-with-brian-christian?utm_source=NASEM+News+and+Publications&amp;amp;utm_campaign=55dde8d732-EMAIL_CAMPAIGN_2024_03_04_04_53_COPY_01&amp;amp;utm_medium=email&amp;amp;utm_term=0_-35605805d5-%5BLIST_EMAIL_ID%5D&amp;amp;mc_cid=55dde8d732&amp;amp;mc_eid=d75b34703b&#34;&gt;The Human Implications of AI with Brian Christian&lt;/a&gt; &amp;ndash; NASEM, 2024&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.science.org/doi/10.1126/science.ado0684&#34;&gt;Time to support Indigenous science&lt;/a&gt; &amp;ndash; Wall Kimmerer &amp;amp; Artelle, 2024. &lt;em&gt;Science&lt;/em&gt; editorial&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://econweb.ucsd.edu/~pniehaus/papers/Clancyetal2023.pdf&#34;&gt;To speed scientific progress, understand how science policy works&lt;/a&gt; &amp;ndash; Clancy et al, 2023. &lt;em&gt;Nature&lt;/em&gt; perspective&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://imstat.org/2023/05/16/lines-from-layla-how-are-you-saving-the-world/&#34;&gt;How are you saving the world?&lt;/a&gt; &amp;ndash; Parast, 2023&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://80000hours.org/career-guide/how-to-be-successful/?source=email&amp;amp;uni_id=0&amp;amp;utm_source=80%2C000+Hours+mailing+list&amp;amp;utm_campaign=c680e363ae-EMAIL_CAMPAIGN_2023_06_15_03_07&amp;amp;utm_medium=email&amp;amp;utm_term=0_43bc1ae55c-facfa89a55-%5BLIST_EMAIL_ID%5D&#34;&gt;All the evidence-based advice we found on how to be more successful in any job&lt;/a&gt; &amp;ndash; Todd (80,000 Hours), 2023&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/10FPFmxYOSPgUwDwu6xplyjSRx6JzCKvc/view&#34;&gt;Field-Specific Ability Beliefs as an Explanation for Gender Differences in Academics’ Career Trajectories: Evidence From Public Profiles on ORCID.org&lt;/a&gt; &amp;ndash; Hannak et al, 2023&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.insidehighered.com/opinion/career-advice/advancing-faculty/2023/06/13/how-correct-underrepresentation-women-stem&#34;&gt;Increasing Women’s Representation in STEM Fields&lt;/a&gt; &amp;ndash; Gray, 2023&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.washingtonpost.com/climate-environment/interactive/2023/food-impact-climate-water-wildlife/&#34;&gt;Which food is better for the planet?&lt;/a&gt; &amp;ndash; &lt;em&gt;Washington Post&lt;/em&gt; Climate Lab (2023). Interactive visualizations comparing different food types over various environmental dimensions.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://iopscience.iop.org/article/10.1088/1748-9326/ac7409&#34;&gt;Moving from interdisciplinary to convergent research across geoscience and social sciences: challenges and strategies&lt;/a&gt; &amp;ndash; Finn et al, 2022. &lt;em&gt;Environmental Research Letters&lt;/em&gt; perspective&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vox.com/future-perfect/2019/12/2/20976180/climate-change-best-charities-effective-philanthropy&#34;&gt;A list of the most high-impact, evidence-based organizations fighting climate change&lt;/a&gt; &amp;ndash; Samuel, 2022. &lt;em&gt;Vox&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hks.harvard.edu/faculty-research/policy-topics/development-economic-growth/rethinking-international-development?mc_cid=c8527291a8&amp;amp;mc_eid=eb939aedf9&#34;&gt;Rethinking international development strategy—and hearing echoes of global challenges in the United States&lt;/a&gt; &amp;ndash; Harvard Kennedy School faculty, 2022&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://imstat.org/2022/11/15/written-by-witten-impostors-anonymous/&#34;&gt;Impostors Anonymous&lt;/a&gt; &amp;ndash; Witten, 2022. Helpful thoughts on impostor syndrome in academia / high-achievement communities.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://80000hours.org/2022/04/imposter-syndrome/?source=email&amp;amp;uni_id=0&amp;amp;utm_source=80%2C000+Hours+mailing+list&amp;amp;utm_campaign=c680e363ae-EMAIL_CAMPAIGN_2023_06_15_03_07&amp;amp;utm_medium=email&amp;amp;utm_term=0_43bc1ae55c-facfa89a55-%5BLIST_EMAIL_ID%5D&#34;&gt;My experience with imposter syndrome—and how to (partly) overcome it&lt;/a&gt; &amp;ndash; Rodriguez (80,000 Hours), 2022&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s41467-022-32412-y&#34;&gt;Americans experience a false social reality by underestimating popular climate policy support by nearly half&lt;/a&gt; &amp;ndash; Sparkman, Geiger, &amp;amp; Weber, 2022.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://universityaffairs.ca/career-advice/in-academia-we-need-two-types-of-researchers-divers-and-surfers/&#34;&gt;In academia, we need two types of researchers: divers and surfers&lt;/a&gt; &amp;ndash; Pandya, 2022&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.esri.com/en-us/industries/blog/articles/putting-mental-health-in-america-on-the-map/&#34;&gt;Putting Mental Health in America on the Map&lt;/a&gt; &amp;ndash; Geraghty (ESRI), 2022&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theatlantic.com/health/archive/2021/10/how-public-health-took-part-its-own-downfall/620457/&#34;&gt;How Public Health Took Part in Its Own Downfall&lt;/a&gt; &amp;ndash; &lt;em&gt;The Atlantic&lt;/em&gt;, 2021&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.addgene.org/finding-your-science-policy-path&#34;&gt;Finding Your Science Policy Path&lt;/a&gt;, 2020&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.effectivealtruism.org/articles/johannes-ackva-an-update-to-our-thinking-on-climate-change&#34;&gt;Effective Altruism: An Update to Our Thinking On Climate Change&lt;/a&gt; &amp;ndash; Ackva, 2020&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lynettebye.com/blog/2020/6/26/five-ways-to-prioritize-better&#34;&gt;Five Ways To Prioritize Better&lt;/a&gt; &amp;ndash; Bye, 2020&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Videos:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;200 Years in 4 Minutes &amp;ndash; Rosling, 2017. Global relationships between lifespan and income over time, across countries. Note: there are many videos of Rosling presenting other cool data visualizations&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Z8t4k0Q8e8Y&#34;&gt;200 Years in 4 Minutes&lt;/a&gt; &amp;ndash; Rosling, 2017. Global relationships between lifespan and income over time, across countries. Note: there are many videos of Rosling presenting other cool data visualizations&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Podcasts:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Degrees of Freedom &amp;ndash; Hasenkopf, 2020. Exploring many different ways that scientists can have positive impact through their careers.&lt;/li&gt;
-&lt;li&gt;AAAS STPF Sci on the Fly. A variety of science and policy topics, written by scientists working in the federal government.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://podcasts.apple.com/us/podcast/degrees-of-freedom/id1556820259&#34;&gt;Degrees of Freedom&lt;/a&gt; &amp;ndash; Hasenkopf, 2020. Exploring many different ways that scientists can have positive impact through their careers.&lt;/li&gt;
+&lt;li&gt;AAAS STPF [Sci on the Fly](&lt;a href=&#34;https://www.aaaspolicyfellowships.org/blog&#34;&gt;https://www.aaaspolicyfellowships.org/blog&lt;/a&gt;. A variety of science and policy topics, written by scientists working in the federal government.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Feature-length / series:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Harvard School of Public Health YouTube Channel&lt;/li&gt;
-&lt;li&gt;Science x Policy Crossroads: Pathways toward Health Policy &amp;ndash; ten people&amp;rsquo;s stories illustrating different careers at the intersection of science and policy, put together by the National Science Policy Network&lt;/li&gt;
-&lt;li&gt;AAAS Voices: Countering Science Misinformation (2021)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/c/HarvardTHChanSchoolofPublicHealth&#34;&gt;Harvard School of Public Health YouTube Channel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Y-ALIYY9hPtdjXQXEaPgfIOTvkLXsxIi/view&#34;&gt;Science x Policy Crossroads: Pathways toward Health Policy&lt;/a&gt; &amp;ndash; ten people&amp;rsquo;s stories illustrating different careers at the intersection of science and policy, put together by the National Science Policy Network&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.aaas.org/news/misinformation?adobe_mc=MCMID%3D67965801517701935211434112206749667641%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1665447275&amp;amp;_ga=2.170774306.302470820.1665447273-1428285.1646255336&#34;&gt;AAAS Voices: Countering Science Misinformation&lt;/a&gt; (2021)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

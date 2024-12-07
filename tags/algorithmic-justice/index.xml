@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Algorithmic Justice | Ellen Considine</title>
-    <link>http://localhost:4321/tags/algorithmic-justice/</link>
-      <atom:link href="http://localhost:4321/tags/algorithmic-justice/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://EllenConsidine.github.io/tags/algorithmic-justice/</link>
+      <atom:link href="https://EllenConsidine.github.io/tags/algorithmic-justice/index.xml" rel="self" type="application/rss+xml" />
     <description>Algorithmic Justice</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Algorithmic Justice</title>
-      <link>http://localhost:4321/tags/algorithmic-justice/</link>
+      <link>https://EllenConsidine.github.io/tags/algorithmic-justice/</link>
     </image>
     
     <item>
       <title>The Revelatory Mirror of AI/ML -- On Evolution, Uncertainty, and Recourse</title>
-      <link>http://localhost:4321/post/revelatory-mirror/</link>
+      <link>https://EllenConsidine.github.io/post/revelatory-mirror/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/revelatory-mirror/</guid>
+      <guid>https://EllenConsidine.github.io/post/revelatory-mirror/</guid>
       <description>&lt;p&gt;&lt;strong&gt;“Our successes and failures alike in getting these systems to do &amp;lsquo;what we want,&amp;rsquo; it turns out, offer us an unflinching, revelatory mirror.” - Brian Christian&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This summer, I joined a data science &amp;amp; society-themed book club sponsored by the Harvard Data Science Initiative. Our first book was &lt;em&gt;The Alignment Problem: Machine Learning and Human Values&lt;/em&gt; by Brian Christian (2020). It turned out to be one of my favorite nonfiction books. Someone in the group also let us know about a free virtual event, the Symposium on Interpretable and Explainable Artificial Intelligence and Machine Learning, hosted by the National Academies of Science Committee on Applied and Theoretical Statistics, which I ended up attending. (If you&amp;rsquo;re interested in this Symposium, a recording is available &lt;a href=&#34;https://www.nationalacademies.org/event/06-21-2022/interpretable-and-explainable-ai-and-machine-learning&#34;&gt;here&lt;/a&gt;.)&lt;/p&gt;
 &lt;p&gt;Between the reading, the Symposium, and our book club&amp;rsquo;s weekly discussions, there are a plethora of topics about which I could wax lyrical. For the sake of a bite-sized post, however, I will stick to a few overarching themes that stuck out to me: (1) the development of artificial intelligence (AI) giving us insights into our own brains, (2) the ability (or lack thereof) for individual people or minority groups to pursue justice for maltreatment at the &amp;ldquo;hands&amp;rdquo; of an algorithm, and (3) the perpetual need for humility (for both humans and AI).&lt;/p&gt;
