@@ -5,30 +5,12 @@
     <link>https://EllenConsidine.github.io/tags/teaching/</link>
       <atom:link href="https://EllenConsidine.github.io/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Teaching</title>
       <link>https://EllenConsidine.github.io/tags/teaching/</link>
     </image>
-    
-    <item>
-      <title>Teaching Fellow for Graduate-Level Biostatistics Courses</title>
-      <link>https://EllenConsidine.github.io/project/tf/</link>
-      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/tf/</guid>
-      <description>&lt;p&gt;Here are descriptions of the three full-semester courses that I helped teach at HSPH.&lt;/p&gt;
-&lt;h3 id=&#34;spring-2024-bst-226-applied-longitudinal-analysis&#34;&gt;Spring 2024: BST 226, Applied Longitudinal Analysis&lt;/h3&gt;
-&lt;p&gt;Approx. number of students: 100&lt;/p&gt;
-&lt;p&gt;Course description: This course covers modern methods for the analysis of repeated measures, correlated outcomes and longitudinal data, including the unbalanced and incomplete data sets characteristic of biomedical research. Topics include an introduction to the analysis of correlated data, analysis of response profiles, fitting parametric curves, covariance pattern models, random effects and growth curve models, and generalized linear models for longitudinal data, including generalized estimating equations (GEE) and generalized linear mixed effects models (GLMMs).&lt;/p&gt;
-&lt;h3 id=&#34;fall-2023-bst-210-applied-regression-analysis&#34;&gt;Fall 2023: BST 210, Applied Regression Analysis&lt;/h3&gt;
-&lt;p&gt;Approx. number of students: 75&lt;/p&gt;
-&lt;p&gt;Course description: Topics include model interpretation, model building, and model assessment for linear regression with continuous outcomes, logistic regression with binary outcomes, and proportional hazards regression with survival time outcomes. Specific topics include regression diagnostics, confounding and effect modification, goodness of fit, data transformations, splines and additive models, ordinal, multinomial, and conditional logistic regression, generalized linear models, overdispersion, Poisson regression for rate outcomes, hazard functions, and missing data. The course provides students with the skills necessary to perform regression analyses and to critically interpret statistical issues related to regression applications in the public health literature.&lt;/p&gt;
-&lt;h3 id=&#34;fall-2021-bst-222-basics-of-statistical-inference&#34;&gt;Fall 2021: BST 222, Basics of Statistical Inference&lt;/h3&gt;
-&lt;p&gt;Approx. number of students: 75&lt;/p&gt;
-&lt;p&gt;Course description: This course provides a basic yet thorough introduction to the probability theory and mathematical statistics that underlie many of the commonly used techniques in public health research. Topics covered include probability distributions (normal, binomial, Poisson), means, variances and expected values, finite sampling distributions, parameter estimation (method of moments, maximum likelihood), confidence intervals, hypothesis testing (likelihood ratio, Wald and score tests). All theoretical material are motivated with problems from epidemiology, biostatistics, environmental health and other public health areas. This course is aimed towards second year doctoral students in fields other than Biostatistics. Background in algebra and calculus required.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Overview of Data Science Tools for Climate &amp; Health</title>
@@ -81,6 +63,24 @@
 &lt;p&gt;Continuing on the theme of interpersonal skills, in Teaching 100 our main project was to design a syllabus for a course, and I noticed that many of us in the class chose topics meant to address the &amp;ldquo;soft side&amp;rdquo; of our technical disciplines, such as statisticians working with domain experts or doctors working with patients. Traditionally, at least in STEM, there hasn&amp;rsquo;t been much formal training along these lines. Skills in professional communication and/or teaching are often undervalued (e.g. in academic tenure review) and it is mostly expected that people either mimic their advisors / managers or figure it out on their own through trial and error. Especially given the self-selection of many people who have natural affinity for social interaction into other fields, it makes sense that classroom educators might try to fill this gap more systematically.&lt;/p&gt;
 &lt;p&gt;However, as medicine in particular seems to have known for a long time, professional interpersonal skills are very difficult to learn in only a classroom setting. But outside the classroom, it is harder for educators to actually observe and guide their students&amp;rsquo; improvement. If the instructor of a statistical consulting course doesn&amp;rsquo;t have the time / compensation to sit through client meetings with every one of their students, then they (and their students) must have a certain amount of confidence in the students&amp;rsquo; skills to venture forth and report back. This becomes less realistic the more students are in the class and/or the more variation in the students&amp;rsquo; skill levels. I have yet to arrive at a conclusion about how best to deal with this tension.&lt;/p&gt;
 &lt;p&gt;Recent events appear to have made interpersonal skills more important than ever. The emergence of tools such as ChatGPT largely level the playing field for many writing-centric tasks, including composition of cover letters. My suspicion is that live interviews and collaboration skills will become ever more important in hiring for professional positions, in addition to promotions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching Fellow for Graduate-Level Biostatistics Courses</title>
+      <link>https://EllenConsidine.github.io/project/tf/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://EllenConsidine.github.io/project/tf/</guid>
+      <description>&lt;p&gt;Here are descriptions of the three full-semester courses that I helped teach at HSPH.&lt;/p&gt;
+&lt;h3 id=&#34;spring-2024-bst-226-applied-longitudinal-analysis&#34;&gt;Spring 2024: BST 226, Applied Longitudinal Analysis&lt;/h3&gt;
+&lt;p&gt;Approx. number of students: 100&lt;/p&gt;
+&lt;p&gt;Course description: This course covers modern methods for the analysis of repeated measures, correlated outcomes and longitudinal data, including the unbalanced and incomplete data sets characteristic of biomedical research. Topics include an introduction to the analysis of correlated data, analysis of response profiles, fitting parametric curves, covariance pattern models, random effects and growth curve models, and generalized linear models for longitudinal data, including generalized estimating equations (GEE) and generalized linear mixed effects models (GLMMs).&lt;/p&gt;
+&lt;h3 id=&#34;fall-2023-bst-210-applied-regression-analysis&#34;&gt;Fall 2023: BST 210, Applied Regression Analysis&lt;/h3&gt;
+&lt;p&gt;Approx. number of students: 75&lt;/p&gt;
+&lt;p&gt;Course description: Topics include model interpretation, model building, and model assessment for linear regression with continuous outcomes, logistic regression with binary outcomes, and proportional hazards regression with survival time outcomes. Specific topics include regression diagnostics, confounding and effect modification, goodness of fit, data transformations, splines and additive models, ordinal, multinomial, and conditional logistic regression, generalized linear models, overdispersion, Poisson regression for rate outcomes, hazard functions, and missing data. The course provides students with the skills necessary to perform regression analyses and to critically interpret statistical issues related to regression applications in the public health literature.&lt;/p&gt;
+&lt;h3 id=&#34;fall-2021-bst-222-basics-of-statistical-inference&#34;&gt;Fall 2021: BST 222, Basics of Statistical Inference&lt;/h3&gt;
+&lt;p&gt;Approx. number of students: 75&lt;/p&gt;
+&lt;p&gt;Course description: This course provides a basic yet thorough introduction to the probability theory and mathematical statistics that underlie many of the commonly used techniques in public health research. Topics covered include probability distributions (normal, binomial, Poisson), means, variances and expected values, finite sampling distributions, parameter estimation (method of moments, maximum likelihood), confidence intervals, hypothesis testing (likelihood ratio, Wald and score tests). All theoretical material are motivated with problems from epidemiology, biostatistics, environmental health and other public health areas. This course is aimed towards second year doctoral students in fields other than Biostatistics. Background in algebra and calculus required.&lt;/p&gt;
 </description>
     </item>
     
