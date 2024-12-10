@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Air Quality | Ellen Considine</title>
-    <link>https://EllenConsidine.github.io/tags/air-quality/</link>
-      <atom:link href="https://EllenConsidine.github.io/tags/air-quality/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/tags/air-quality/</link>
+      <atom:link href="http://localhost:4321/tags/air-quality/index.xml" rel="self" type="application/rss+xml" />
     <description>Air Quality</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Air Quality</title>
-      <link>https://EllenConsidine.github.io/tags/air-quality/</link>
+      <link>http://localhost:4321/tags/air-quality/</link>
     </image>
     
     <item>
       <title>Applying for the NSF GRFP</title>
-      <link>https://EllenConsidine.github.io/post/nsf-grfp/</link>
+      <link>http://localhost:4321/post/nsf-grfp/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/nsf-grfp/</guid>
+      <guid>http://localhost:4321/post/nsf-grfp/</guid>
       <description>&lt;p&gt;There is a ton of general information online about the National Science Foundation (NSF) Graduate Research Fellowship, so I won&amp;rsquo;t go into many details here. For a large, high-quality collection of advice and past examples across fields, check out &lt;a href=&#34;https://www.alexhunterlang.com/nsf-fellowship&#34;&gt;Alex Lang&amp;rsquo;s website&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;However, for folks interested in statistics/data science/AI applied to public health, a couple more tailored insights may be valuable. For context: I applied for the GRFP during my senior year of undergrad (fall of 2019). I am now entering my fifth and final year of a PhD program in Biostatistics.&lt;/p&gt;
 &lt;h4 id=&#34;to-what-extent-should-i-focus-on-public-health-in-my-application&#34;&gt;To what extent should I focus on public health in my application?&lt;/h4&gt;
@@ -45,25 +45,25 @@ computer or information sciences, is eligible for support.&amp;rdquo;&lt;/p&gt;
     
     <item>
       <title>Evaluation of Model-Based PM2.5 Estimates for Exposure Assessment during Wildfire Smoke Episodes in the Western U.S.</title>
-      <link>https://EllenConsidine.github.io/publication/wildfire-pm/</link>
+      <link>http://localhost:4321/publication/wildfire-pm/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/wildfire-pm/</guid>
+      <guid>http://localhost:4321/publication/wildfire-pm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating Use of Low-Cost Sensors to Increase Accuracy and Equity of Real-Time Air Quality Information</title>
-      <link>https://EllenConsidine.github.io/publication/lcs_placements/</link>
+      <link>http://localhost:4321/publication/lcs_placements/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/lcs_placements/</guid>
+      <guid>http://localhost:4321/publication/lcs_placements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Upper Division Course Projects at Harvard and CU Boulder</title>
-      <link>https://EllenConsidine.github.io/project/course_projects/</link>
+      <link>http://localhost:4321/project/course_projects/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/course_projects/</guid>
+      <guid>http://localhost:4321/project/course_projects/</guid>
       <description>&lt;p&gt;To provide a sense of what I&amp;rsquo;ve worked on other than my research in the National Studies on Air Pollution &amp;amp; Health Group and Earth Lab, here is a list of my most substantial projects that resulted in course papers but not peer-reviewed publications:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Reviewed state-of-the-art offline reinforcement learning algorithms&lt;/li&gt;
@@ -87,18 +87,18 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>Science in the News Talk</title>
-      <link>https://EllenConsidine.github.io/project/sitn/</link>
+      <link>http://localhost:4321/project/sitn/</link>
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/sitn/</guid>
+      <guid>http://localhost:4321/project/sitn/</guid>
       <description>&lt;p&gt;I leveraged the material from my HPHR blog, as well as new content, to give a public-facing talk on air pollution, global health, data science, and public policy.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Breathing Data Blog</title>
-      <link>https://EllenConsidine.github.io/project/breathing_data/</link>
+      <link>http://localhost:4321/project/breathing_data/</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/breathing_data/</guid>
+      <guid>http://localhost:4321/project/breathing_data/</guid>
       <description>&lt;p&gt;In 2021, I wrote a series of blog posts on air pollution, global health, and data science for &lt;em&gt;HPHR Journal&lt;/em&gt;, formerly the &lt;em&gt;Harvard Public Health Review&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Cover image from PurpleAir map on June 7, 2021.&lt;/p&gt;
 </description>

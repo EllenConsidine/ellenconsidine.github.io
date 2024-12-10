@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Higher Education | Ellen Considine</title>
-    <link>https://EllenConsidine.github.io/tags/higher-education/</link>
-      <atom:link href="https://EllenConsidine.github.io/tags/higher-education/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/tags/higher-education/</link>
+      <atom:link href="http://localhost:4321/tags/higher-education/index.xml" rel="self" type="application/rss+xml" />
     <description>Higher Education</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Higher Education</title>
-      <link>https://EllenConsidine.github.io/tags/higher-education/</link>
+      <link>http://localhost:4321/tags/higher-education/</link>
     </image>
     
     <item>
       <title>Pursuing STEM, Motivated by the Humanities</title>
-      <link>https://EllenConsidine.github.io/post/stem-humanities/</link>
+      <link>http://localhost:4321/post/stem-humanities/</link>
       <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/stem-humanities/</guid>
+      <guid>http://localhost:4321/post/stem-humanities/</guid>
       <description>&lt;p&gt;In an alternate but closely related universe, I could easily have chosen a career in the humanities. I love learning about sociology and philosophy. I am most intellectually enthusiastic when pondering underlying societal phenomenon and the ways we might go about addressing societal issues which manifest human suffering.&lt;/p&gt;
 &lt;p&gt;However, several important factors guided my path into statistics and data science. Firstly, my parents brought my brother and me up to be very conscious of the vocational value of our educations, as well as to gravitate towards career paths which keep doors open and allow for maximal flexibility. Given the modern world&amp;rsquo;s number and variety of jobs in STEM, we were both nudged in that direction. Under the umbrella of practicality, I also grew up with the knowledge that PhDs in STEM are most often fully funded, while many/most other graduate degrees are not, and that it is most often easier to transition from a more technical / hard science field into a less technical / softer skills position than to transition the other way. Further, the fact that both of my parents studied science and math made going into STEM the obvious thing to do. Somewhere along the way, I also came to realize that being someone who wanted to and was able to effectively bridge ideas between STEM and humanities disciplines was relatively rare, making this a valuable niche to pursue. Finally, as I discuss at the end of &amp;ldquo;The Benefits of Attending Your State’s Public University for Undergrad&amp;rdquo;, there were a number of factors at CU that kept me in STEM once I was there, namely stronger peers and harder classes (on average) and more research opportunities &amp;ndash; many professors need students who can assist with quantitative tasks.&lt;/p&gt;
 &lt;p&gt;In this post, I reflect on my experiences as a STEM student with a humanities heart. A recent conversation with an older student in my PhD program reminded me that I&amp;rsquo;m far from alone in this and that being candid about our experiences can help to assure and guide others as they make their way on similar trajectories.&lt;/p&gt;
@@ -38,9 +38,9 @@
     
     <item>
       <title>On Finding a Career Path</title>
-      <link>https://EllenConsidine.github.io/post/finding-career-path/</link>
+      <link>http://localhost:4321/post/finding-career-path/</link>
       <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/finding-career-path/</guid>
+      <guid>http://localhost:4321/post/finding-career-path/</guid>
       <description>&lt;p&gt;Planning out your life is impossible. Circumstances change, people change. New information comes to your attention and you shift course. But at the same time, it&amp;rsquo;s helpful to have a sense of direction, a sense of purpose, to guide your thoughts and actions. Having an idea of where you want to end up can provide this sense of direction.&lt;/p&gt;
 &lt;p&gt;I think of navigating life in this way like hiking through the wilderness. Setting your sights on a distant mountain frees you from having to expend energy on wayfinding every second of every day. You can focus instead on where you&amp;rsquo;re putting your feet and on enjoying the more nearby scenery. As you&amp;rsquo;re making your way across the plains, a different mountain might come into view. Or, maybe, the coast of a large body of water. You might decide this new destination looks better than the first mountain, so you re-orient in that direction. Maybe you&amp;rsquo;ll visit the first mountain someday, maybe you won&amp;rsquo;t. And so it goes: at any point in time, you are hiking towards something, but that something can change as frequently as you want it to.&lt;/p&gt;
 &lt;p&gt;Continuing with this analogy: as you make your way in your intended direction, you will likely encounter other people (depending on how remote the trail is). If you are able to describe where you&amp;rsquo;re headed, these people may be able to give you advice, having previously explored similar places. This is another reason it&amp;rsquo;s helpful to have a sense of direction: you can make it easier for other people to help you. The more detail you provide, the more specific other people can be with their advice. And, if you&amp;rsquo;re visibly inspired about where you&amp;rsquo;re going, other people are often more inspired to help you get there.&lt;/p&gt;
@@ -68,9 +68,9 @@
     
     <item>
       <title>An Honest Conversation About Box-Checking</title>
-      <link>https://EllenConsidine.github.io/post/box-checking/</link>
+      <link>http://localhost:4321/post/box-checking/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/box-checking/</guid>
+      <guid>http://localhost:4321/post/box-checking/</guid>
       <description>&lt;p&gt;&amp;ldquo;Box-checking&amp;rdquo; has a pretty negative connotation. It implies that your actions are inauthentic: the only reason you are doing something is to put it on your resume / achieve some glamorous end goal, not because you actually want to do it. It is often associated with helicopter parents and overachieving students trying to get into prestigious colleges. It is perceived as soulless running of the rat race. In this post, I attempt to flesh out a more nuanced perspective.&lt;/p&gt;
 &lt;p&gt;Over the years, I have observed that feeling the need to fill out one&amp;rsquo;s resume and appear objectively impressive can be incredibly stressful and potentially damaging for individuals&amp;rsquo; mental health. In high school, many of my peers were stressed all the time about whether they were doing enough to be accepted into their dream colleges. I feel fortunate to have avoided this in my late teenage years because I planned to attend my home state university. I truly believe that I was doing the things I did in high school (focusing mostly on music and sports) because I enjoyed them, not because I felt forced to do them.&lt;/p&gt;
 &lt;p&gt;After starting college, however, the lines between authentic engagement and box-checking became more blurred for me. Did I join Engineers Without Borders purely because I wanted to help other people and learn about the world or because I wanted this cool international volunteering experience in my back pocket? Did I start doing my research internship because I really wanted to spend more hours of the day learning how to code in R or because I knew that it would open doors to future opportunities? Did I spend more time than I needed to setting up a socially-positive collaborative research project simply because I thought that it was important work to do or because I was already planning to apply for grad school in public health and knew that such a project would help strengthen my application? The honest answer to all of these questions is &lt;em&gt;both&lt;/em&gt;. At times, I have felt uncomfortable with this duality: am I doing this because I care about it or because it will look good on my resume?&lt;/p&gt;
@@ -99,9 +99,9 @@
     
     <item>
       <title>Reflections on Privilege in Higher Education</title>
-      <link>https://EllenConsidine.github.io/post/privilege-higher-ed/</link>
+      <link>http://localhost:4321/post/privilege-higher-ed/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/privilege-higher-ed/</guid>
+      <guid>http://localhost:4321/post/privilege-higher-ed/</guid>
       <description>&lt;p&gt;2020 has been a year of reflection for many people. In particular, I am optimistic that renewed focus on systemic racism and economic inequities will fuel real changes in how many individuals and organizations think about and act on promoting inclusivity and fairness. However, while reflecting on my undergraduate experience I have come to the conclusion that many of the advantages I had during college were somewhat subtle and/or difficult to address through many common techniques of diversity-promotion. By articulating these advantages and brainstorming some partial solutions, I hope that I and others can be more conscious of these exclusive processes and more in a position to help implement inclusive ones.&lt;/p&gt;
 &lt;h3 id=&#34;ways-that-my-privilege-has-helped-me&#34;&gt;Ways that my privilege has helped me&lt;/h3&gt;
 &lt;p&gt;The most obvious benefit of economic privilege is &lt;strong&gt;not having to worry about money&lt;/strong&gt; during college. Having to get a job to cover living expenses and/or tuition would have made everything (from courses to research to volunteering to attending extra seminars) so much more difficult, and doing all three at once impossible. Even with complete financial aid independent of work-study, however, the knowledge that your financial coverage depends on your grades is much more stressful than if the only thing you have to lose if you fail a test is your ego or your parents&amp;rsquo; approval. Don&amp;rsquo;t get me wrong: having high expectations from your ego and/or your family is stressful enough, but this is still fundamentally different. In general, having a financial safety net makes risk-taking (including academic and professional exploration) more possible and internally palatable. I will never truly know what it feels like to be worried about having enough money for next month&amp;rsquo;s rent, because I would always know in the back of my mind that I could ask my family for help. I have come to believe that this psychological difference can be very potent in determining individuals&amp;rsquo; ability to find and pursue opportunities.&lt;/p&gt;
@@ -139,9 +139,9 @@
     
     <item>
       <title>The Benefits of Attending Your State’s Public University for Undergrad</title>
-      <link>https://EllenConsidine.github.io/post/public-university-undergrad/</link>
+      <link>http://localhost:4321/post/public-university-undergrad/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/public-university-undergrad/</guid>
+      <guid>http://localhost:4321/post/public-university-undergrad/</guid>
       <description>&lt;p&gt;I grew up in Boulder, Colorado. The University of Colorado (CU) sits right in the middle of town. To many of my high school peers and their families, attending CU was a fallback. It was seen as unadventurous and not at all prestigious. Despite the many good reasons I had for attending CU, I recognize that these perceptions weighed on me somewhat over the last four years. Now, two months into a PhD program at Harvard, my last subconscious traces of insecurity about my undergraduate education have finally faded. The semester is still ramping up, but I feel very well prepared for success in my classes and research projects. I write this with the hope that others in similar positions in high school will feel more confident than I did in choosing what&amp;rsquo;s right for them and not caring what anyone else thinks.&lt;/p&gt;
 &lt;p&gt;In my experience, here are the four main reasons for strong students to consider attending their state universities for undergrad: lower cost, lower stress, more opportunities per capita, and connections in your home state.&lt;/p&gt;
 &lt;p&gt;The &lt;strong&gt;cost of college&lt;/strong&gt; nowadays is insane. For almost any family, paying between $30,000 and $300,000 for a four-year degree per kid is going to be difficult, if not impossible. If you can get a sufficiently large fraction covered by financial aid or merit scholarships, great. If not, these amounts of money have extremely high opportunity costs. The way my parents described opportunity cost to my brother and me was by telling us how much they had saved for each of us and asking us whether we&amp;rsquo;d like to spend all the money on college-related expenses or save some of it and put that towards other things such as a graduate or professional degree, a down-payment on a place to live, or traveling. This perspective made the financial choice much more tangible, and motivated both my brother and me to go to college in-state. However, I think that many families do not discuss family resources and choice of higher education in this way.&lt;/p&gt;
@@ -158,9 +158,9 @@
     
     <item>
       <title>The Power of Showing Up and Reaching Out</title>
-      <link>https://EllenConsidine.github.io/post/showing-up-reaching-out/</link>
+      <link>http://localhost:4321/post/showing-up-reaching-out/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/showing-up-reaching-out/</guid>
+      <guid>http://localhost:4321/post/showing-up-reaching-out/</guid>
       <description>&lt;p&gt;When people ask me for advice about college, this is the number one thing I tell them: you never know what will happen if you show up to an event and/or reach out to someone. I feel very grateful that my parents instilled this in me before I went off to college, because it led to every single one of the best opportunities I had during undergrad. By sharing the following stories, it is my intention that others might be inspired to muster the energy and overcome the initial awkwardness of showing up and reaching out.&lt;/p&gt;
 &lt;h3 id=&#34;story-1-how-i-got-involved-in-undergraduate-research&#34;&gt;Story #1: How I Got Involved in Undergraduate Research&lt;/h3&gt;
 &lt;p&gt;In the spring of my freshman year of college, two of my courses were an introductory data science course and an environmental sociology course. In the environmental sociology course, there was a brief lecture on the health impacts of air pollution, which I found fascinating. In the data science course, our final project was to analyze a data set of our choice. I thought it would be cool to combine these interests, and after reading a bit online, I came up with the idea of analyzing whether proximity to highways was associated with asthma rates. I spent a while looking for data online and found some aggregated data sets, but thought there were probably much better publicly-available options that I just wasn&amp;rsquo;t finding.&lt;/p&gt;

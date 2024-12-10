@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wildfires | Ellen Considine</title>
-    <link>https://EllenConsidine.github.io/tags/wildfires/</link>
-      <atom:link href="https://EllenConsidine.github.io/tags/wildfires/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/tags/wildfires/</link>
+      <atom:link href="http://localhost:4321/tags/wildfires/index.xml" rel="self" type="application/rss+xml" />
     <description>Wildfires</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Wildfires</title>
-      <link>https://EllenConsidine.github.io/tags/wildfires/</link>
+      <link>http://localhost:4321/tags/wildfires/</link>
     </image>
     
     <item>
       <title>Effect modification of the association between fine particulate air pollution during a wildfire event and respiratory health by area-level measures of socio-economic status, race/ethnicity, and smoking prevalence</title>
-      <link>https://EllenConsidine.github.io/publication/wildfire-ses/</link>
+      <link>http://localhost:4321/publication/wildfire-ses/</link>
       <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/wildfire-ses/</guid>
+      <guid>http://localhost:4321/publication/wildfire-ses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review Editor for the Fifth National Climate Assessment, Focus on Western Wildfires</title>
-      <link>https://EllenConsidine.github.io/project/nca5/</link>
+      <link>http://localhost:4321/project/nca5/</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/nca5/</guid>
+      <guid>http://localhost:4321/project/nca5/</guid>
       <description>&lt;p&gt;I helped coordinate response to public comments for the cross-cutting feature on western wildfires.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Evaluation of Model-Based PM2.5 Estimates for Exposure Assessment during Wildfire Smoke Episodes in the Western U.S.</title>
-      <link>https://EllenConsidine.github.io/publication/wildfire-pm/</link>
+      <link>http://localhost:4321/publication/wildfire-pm/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/wildfire-pm/</guid>
+      <guid>http://localhost:4321/publication/wildfire-pm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Breathing Data Blog</title>
-      <link>https://EllenConsidine.github.io/project/breathing_data/</link>
+      <link>http://localhost:4321/project/breathing_data/</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/breathing_data/</guid>
+      <guid>http://localhost:4321/project/breathing_data/</guid>
       <description>&lt;p&gt;In 2021, I wrote a series of blog posts on air pollution, global health, and data science for &lt;em&gt;HPHR Journal&lt;/em&gt;, formerly the &lt;em&gt;Harvard Public Health Review&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Cover image from PurpleAir map on June 7, 2021.&lt;/p&gt;
 </description>
