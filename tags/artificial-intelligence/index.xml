@@ -5,12 +5,20 @@
     <link>http://localhost:4321/tags/artificial-intelligence/</link>
       <atom:link href="http://localhost:4321/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <description>Artificial Intelligence</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Artificial Intelligence</title>
       <link>http://localhost:4321/tags/artificial-intelligence/</link>
     </image>
+    
+    <item>
+      <title>Optimizing Heat Alert Issuance with Reinforcement Learning</title>
+      <link>http://localhost:4321/publication/hasdm/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/hasdm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Others&#39; Ideas that Resonate</title>
@@ -138,14 +146,6 @@
 &lt;li&gt;&lt;a href=&#34;https://www.aaas.org/news/misinformation?adobe_mc=MCMID%3D67965801517701935211434112206749667641%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1665447275&amp;amp;_ga=2.170774306.302470820.1665447273-1428285.1646255336&#34;&gt;AAAS Voices: Countering Science Misinformation&lt;/a&gt; (2021)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Optimizing Heat Alert Issuance with Reinforcement Learning</title>
-      <link>http://localhost:4321/publication/hasdm/</link>
-      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/hasdm/</guid>
-      <description></description>
     </item>
     
     <item>
