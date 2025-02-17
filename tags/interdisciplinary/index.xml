@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interdisciplinary | Ellen Considine</title>
-    <link>https://EllenConsidine.github.io/tags/interdisciplinary/</link>
-      <atom:link href="https://EllenConsidine.github.io/tags/interdisciplinary/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/tags/interdisciplinary/</link>
+      <atom:link href="http://localhost:4321/tags/interdisciplinary/index.xml" rel="self" type="application/rss+xml" />
     <description>Interdisciplinary</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Interdisciplinary</title>
-      <link>https://EllenConsidine.github.io/tags/interdisciplinary/</link>
+      <link>http://localhost:4321/tags/interdisciplinary/</link>
     </image>
     
     <item>
       <title>Book Recommendations</title>
-      <link>https://EllenConsidine.github.io/project/book_recs/</link>
+      <link>http://localhost:4321/project/book_recs/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/book_recs/</guid>
+      <guid>http://localhost:4321/project/book_recs/</guid>
       <description>&lt;p&gt;Life gets busy and it can be hard to find the time and motivation to sit down and read nonfiction. However, many of the most important ideas that frame my perspective on the world and my place in it have come from nonfiction books. If you have the time to explore some of the following, great! If you don&amp;rsquo;t have time to read the full books, I still recommend Googling these authors / titles. Whether it&amp;rsquo;s a summary of the book, a YouTube video, or an article or blog post, these people have ideas worth hearing!&lt;/p&gt;
 &lt;h2 id=&#34;environmental&#34;&gt;Environmental&lt;/h2&gt;
 &lt;ul&gt;
@@ -58,9 +58,9 @@
     
     <item>
       <title>Others&#39; Ideas that Resonate</title>
-      <link>https://EllenConsidine.github.io/post/ideas_resonate/</link>
+      <link>http://localhost:4321/post/ideas_resonate/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/ideas_resonate/</guid>
+      <guid>http://localhost:4321/post/ideas_resonate/</guid>
       <description>&lt;p&gt;Here are lists of articles, podcasts, videos, etc. that I intend to continuously update as I come across well-explained, powerful ideas that relate directly to my field(s) of interest. For the most part, these resources are more conversational than technical, and are meant to inspire as well as inform. Also see my list of recommended nonfiction books, which spans a larger range of topics.&lt;/p&gt;
 &lt;h3 id=&#34;environmental-health&#34;&gt;Environmental Health&lt;/h3&gt;
 &lt;p&gt;Articles:&lt;/p&gt;
@@ -186,9 +186,9 @@
     
     <item>
       <title>Applying for the NSF GRFP</title>
-      <link>https://EllenConsidine.github.io/post/nsf-grfp/</link>
+      <link>http://localhost:4321/post/nsf-grfp/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/nsf-grfp/</guid>
+      <guid>http://localhost:4321/post/nsf-grfp/</guid>
       <description>&lt;p&gt;There is a ton of general information online about the National Science Foundation (NSF) Graduate Research Fellowship, so I won&amp;rsquo;t go into many details here. For a large, high-quality collection of advice and past examples across fields, check out &lt;a href=&#34;https://www.alexhunterlang.com/nsf-fellowship&#34;&gt;Alex Lang&amp;rsquo;s website&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;However, for folks interested in statistics/data science/AI applied to public health, a couple more tailored insights may be valuable. For context: I applied for the GRFP during my senior year of undergrad (fall of 2019). I am now entering my fifth and final year of a PhD program in Biostatistics.&lt;/p&gt;
 &lt;h4 id=&#34;to-what-extent-should-i-focus-on-public-health-in-my-application&#34;&gt;To what extent should I focus on public health in my application?&lt;/h4&gt;
@@ -217,18 +217,18 @@ computer or information sciences, is eligible for support.&amp;rdquo;&lt;/p&gt;
     
     <item>
       <title>Climate &amp; Health Event Series, Science Policy Group</title>
-      <link>https://EllenConsidine.github.io/project/scipol/</link>
+      <link>http://localhost:4321/project/scipol/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/scipol/</guid>
+      <guid>http://localhost:4321/project/scipol/</guid>
       <description>&lt;p&gt;One of the roles I undertook as Vice-President of the Harvard graduate student science policy group was co-organizing a series of events at the intersection of climate &amp;amp; health. This brought together students and staff from across the Harvard School of Public Health, Medical School, Dental School, and Graduate School of Arts &amp;amp; Sciences. In particular, I spearheaded and moderated a panel and networking dinner focused on the translation of research into policy.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Overview of Data Science Tools for Climate &amp; Health</title>
-      <link>https://EllenConsidine.github.io/project/online_course_climate-health-data-science/</link>
+      <link>http://localhost:4321/project/online_course_climate-health-data-science/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/online_course_climate-health-data-science/</guid>
+      <guid>http://localhost:4321/project/online_course_climate-health-data-science/</guid>
       <description>&lt;p&gt;&lt;em&gt;As a pedagogy fellow during AY 2022-2023, I developed this short course for the new online master&amp;rsquo;s in public health program at HSPH.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;Climate change is one of the most (if not the most) pressing challenges of our time. Meanwhile, data science is a rapidly expanding field; references to the power of “machine learning” are ubiquitous. But what does “machine learning” really mean in the context of public health and climate change? In what situations might a really nice map make advanced statistical analysis gratuitous? This module will help you build a mental framework for distinguishing different aspects of data science and gain intuition for when these tools have the most potential to help us study and fuel action at the intersection of climate and health.&lt;/p&gt;
@@ -248,18 +248,18 @@ computer or information sciences, is eligible for support.&amp;rdquo;&lt;/p&gt;
     
     <item>
       <title>Review Editor for the Fifth National Climate Assessment, Focus on Western Wildfires</title>
-      <link>https://EllenConsidine.github.io/project/nca5/</link>
+      <link>http://localhost:4321/project/nca5/</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/nca5/</guid>
+      <guid>http://localhost:4321/project/nca5/</guid>
       <description>&lt;p&gt;I helped coordinate response to public comments for the cross-cutting feature on western wildfires.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Advice for the COMAP MCM/ICM</title>
-      <link>https://EllenConsidine.github.io/post/mcm-advice/</link>
+      <link>http://localhost:4321/post/mcm-advice/</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/mcm-advice/</guid>
+      <guid>http://localhost:4321/post/mcm-advice/</guid>
       <description>&lt;p&gt;In 2017, 2018, and 2019, a team of two friends and I participated in the &lt;a href=&#34;https://www.comap.com/contests/mcm-icm&#34;&gt;Consortium for Mathematics and Its Applications (COMAP) International Mathematical / Interdisciplinary Contest in Modeling (MCM/ICM)&lt;/a&gt;. The basic idea of the contest is that over 99 hours, a team of three undergrads is tasked with choosing one of six open-ended questions, building some kind of mathematical model, and writing a paper synthesizing their findings along with external research.&lt;/p&gt;
 &lt;p&gt;Over the three years, my team&amp;rsquo;s projects spanned topics from happiness economics to the political impacts of climate change to the spread of the opioid epidemic. After being named one of the 36 winners (out of more than 25,000 teams worldwide) in 2019, I feel qualified to give out some advice for this contest.&lt;/p&gt;
 &lt;p&gt;I won&amp;rsquo;t dive too much into the logistics, but preparing for the contest does make things run more smoothly. Pick out a place to work with your team where you won&amp;rsquo;t be distracted, where you have easy access to food and bathrooms, etc. Decide ahead of time what platforms you&amp;rsquo;re going to use to collaborate with your team (e.g. Overleaf, Google Docs, etc.). Plan ahead with school work / get excused from attending lecture so that you don&amp;rsquo;t have to worry about other responsibilities during the contest. Start the weekend well-rested.&lt;/p&gt;
@@ -279,9 +279,9 @@ computer or information sciences, is eligible for support.&amp;rdquo;&lt;/p&gt;
     
     <item>
       <title>Pursuing STEM, Motivated by the Humanities</title>
-      <link>https://EllenConsidine.github.io/post/stem-humanities/</link>
+      <link>http://localhost:4321/post/stem-humanities/</link>
       <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/stem-humanities/</guid>
+      <guid>http://localhost:4321/post/stem-humanities/</guid>
       <description>&lt;p&gt;In an alternate but closely related universe, I could easily have chosen a career in the humanities. I love learning about sociology and philosophy. I am most intellectually enthusiastic when pondering underlying societal phenomenon and the ways we might go about addressing societal issues which manifest human suffering.&lt;/p&gt;
 &lt;p&gt;However, several important factors guided my path into statistics and data science. Firstly, my parents brought my brother and me up to be very conscious of the vocational value of our educations, as well as to gravitate towards career paths which keep doors open and allow for maximal flexibility. Given the modern world&amp;rsquo;s number and variety of jobs in STEM, we were both nudged in that direction. Under the umbrella of practicality, I also grew up with the knowledge that PhDs in STEM are most often fully funded, while many/most other graduate degrees are not, and that it is most often easier to transition from a more technical / hard science field into a less technical / softer skills position than to transition the other way. Further, the fact that both of my parents studied science and math made going into STEM the obvious thing to do. Somewhere along the way, I also came to realize that being someone who wanted to and was able to effectively bridge ideas between STEM and humanities disciplines was relatively rare, making this a valuable niche to pursue. Finally, as I discuss at the end of &amp;ldquo;The Benefits of Attending Your State’s Public University for Undergrad&amp;rdquo;, there were a number of factors at CU that kept me in STEM once I was there, namely stronger peers and harder classes (on average) and more research opportunities &amp;ndash; many professors need students who can assist with quantitative tasks.&lt;/p&gt;
 &lt;p&gt;In this post, I reflect on my experiences as a STEM student with a humanities heart. A recent conversation with an older student in my PhD program reminded me that I&amp;rsquo;m far from alone in this and that being candid about our experiences can help to assure and guide others as they make their way on similar trajectories.&lt;/p&gt;

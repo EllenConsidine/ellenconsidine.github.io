@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Applied Philosophy | Ellen Considine</title>
-    <link>https://EllenConsidine.github.io/tags/applied-philosophy/</link>
-      <atom:link href="https://EllenConsidine.github.io/tags/applied-philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/tags/applied-philosophy/</link>
+      <atom:link href="http://localhost:4321/tags/applied-philosophy/index.xml" rel="self" type="application/rss+xml" />
     <description>Applied Philosophy</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Applied Philosophy</title>
-      <link>https://EllenConsidine.github.io/tags/applied-philosophy/</link>
+      <link>http://localhost:4321/tags/applied-philosophy/</link>
     </image>
     
     <item>
       <title>Principled Negotiation and the Ethos of Public Health</title>
-      <link>https://EllenConsidine.github.io/post/public-health-ethos/</link>
+      <link>http://localhost:4321/post/public-health-ethos/</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/public-health-ethos/</guid>
+      <guid>http://localhost:4321/post/public-health-ethos/</guid>
       <description>&lt;p&gt;I am currently reading a book on negotiation called &lt;em&gt;Getting to Yes&lt;/em&gt;, written by members of the Harvard Negotiation Project. One of the opening chapters describes positional bargaining: two sides starting from places of disagreement and inching their way closer by making small concessions in turn. The authors describe how problematic this process is: it is inefficient, commonly leads to unwise outcomes (good for neither side), and can harm relationships between parties. Instead, the book presents a case for principled negotiation, founded on separating the people (negotiators) from the problem, focusing on interests instead of positions, inventing options for mutual gain, and insisting on use of objective criteria. &lt;a href=&#34;https://www.pon.harvard.edu/daily/negotiation-skills-daily/principled-negotiation-focus-interests-create-value/&#34;&gt;Here is a nice summary&lt;/a&gt;, for those interested in learning more.&lt;/p&gt;
 &lt;p&gt;I bring this book up to motivate presentation of my principles. Nearly everything we do in our professional and personal lives is a negotiation of some kind. It is important to establish what we believe so that we can work with others to identify common ground and develop pragmatic solutions to our problems.&lt;/p&gt;
 &lt;p&gt;Listening to the news and having conversations with other people, it is clear that there are foundationally diverse beliefs about how human civilization should look, and how we should get there (if the belief is that we aren&amp;rsquo;t already there). I have come to the unoriginal conclusion that the largest discrepancy in how people think and act is described by the weight an individual mentally assigns to their personal freedoms in comparison with the freedoms of others, and to what extent they believe we should rely on governmental authorities to enforce the balance of individuals&amp;rsquo; freedoms. This discrepancy has obvious ties to the arena of public health, where large and complex problems such as infectious diseases and environmental pollution bring tensions between individual freedoms and collective sacrifice to light. In fact, while pondering my beliefs and their implications, I ran across the &lt;a href=&#34;https://www.apha.org/-/media/files/pdf/membergroups/ethics/code_of_ethics.ashx&#34;&gt;Public Health Code of Ethics&lt;/a&gt; by the American Public Health Association (APHA) and determined this to be the most clear articulation of my principles that I have ever found.&lt;/p&gt;
@@ -31,9 +31,9 @@
     
     <item>
       <title>On Having an Impact, Part 2</title>
-      <link>https://EllenConsidine.github.io/post/impact-part2/</link>
+      <link>http://localhost:4321/post/impact-part2/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/impact-part2/</guid>
+      <guid>http://localhost:4321/post/impact-part2/</guid>
       <description>&lt;p&gt;The Effective Altruism (EA) / 80,000 Hours philosophy has guided many of my thoughts and actions over the past 4+ years. In this post, my goal is to articulate some of the most important and generalizable aspects of my EA journey so far. If you haven&amp;rsquo;t yet encountered the EA / 80,000 Hours movement, I recommend checking out Part 1!&lt;/p&gt;
 &lt;h3 id=&#34;overall-reflections&#34;&gt;Overall Reflections&lt;/h3&gt;
 &lt;p&gt;Internalizing many of the EA / 80,000 Hours ideas guided me into the field of environmental public health / biostatistics, no question. This semester, I’ve really enjoyed seeing the close alignment between these fields / movements in my introductory public health classes. Of course, there are countless other fields in which one can pursue having a positive impact along the lines of the EA literature. I can simply confirm that I am glad to have made decisions in accordance with this paradigm.&lt;/p&gt;
@@ -58,9 +58,9 @@
     
     <item>
       <title>On Having an Impact, Part 1</title>
-      <link>https://EllenConsidine.github.io/post/impact-part1/</link>
+      <link>http://localhost:4321/post/impact-part1/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/impact-part1/</guid>
+      <guid>http://localhost:4321/post/impact-part1/</guid>
       <description>&lt;p&gt;My views and aspirations for both my professional and my personal life have been profoundly influenced by the Effective Altruism (EA) / 80,000 Hours movement. This post is meant to introduce those who haven’t encountered this movement to it. See &amp;ldquo;On Having an Impact, Part 2&amp;rdquo; for some of my reflections in light of this overarching philosophy.&lt;/p&gt;
 &lt;h3 id=&#34;intro-to-effective-altruism-and-80000-hours&#34;&gt;Intro to Effective Altruism and 80,000 Hours&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Note: Instead of citing everything in the paragraphs below, I’m including a list of links at the end of this post, which I encourage you to explore!&lt;/em&gt;&lt;/p&gt;
@@ -103,9 +103,9 @@
     
     <item>
       <title>An Honest Conversation About Box-Checking</title>
-      <link>https://EllenConsidine.github.io/post/box-checking/</link>
+      <link>http://localhost:4321/post/box-checking/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/box-checking/</guid>
+      <guid>http://localhost:4321/post/box-checking/</guid>
       <description>&lt;p&gt;&amp;ldquo;Box-checking&amp;rdquo; has a pretty negative connotation. It implies that your actions are inauthentic: the only reason you are doing something is to put it on your resume / achieve some glamorous end goal, not because you actually want to do it. It is often associated with helicopter parents and overachieving students trying to get into prestigious colleges. It is perceived as soulless running of the rat race. In this post, I attempt to flesh out a more nuanced perspective.&lt;/p&gt;
 &lt;p&gt;Over the years, I have observed that feeling the need to fill out one&amp;rsquo;s resume and appear objectively impressive can be incredibly stressful and potentially damaging for individuals&amp;rsquo; mental health. In high school, many of my peers were stressed all the time about whether they were doing enough to be accepted into their dream colleges. I feel fortunate to have avoided this in my late teenage years because I planned to attend my home state university. I truly believe that I was doing the things I did in high school (focusing mostly on music and sports) because I enjoyed them, not because I felt forced to do them.&lt;/p&gt;
 &lt;p&gt;After starting college, however, the lines between authentic engagement and box-checking became more blurred for me. Did I join Engineers Without Borders purely because I wanted to help other people and learn about the world or because I wanted this cool international volunteering experience in my back pocket? Did I start doing my research internship because I really wanted to spend more hours of the day learning how to code in R or because I knew that it would open doors to future opportunities? Did I spend more time than I needed to setting up a socially-positive collaborative research project simply because I thought that it was important work to do or because I was already planning to apply for grad school in public health and knew that such a project would help strengthen my application? The honest answer to all of these questions is &lt;em&gt;both&lt;/em&gt;. At times, I have felt uncomfortable with this duality: am I doing this because I care about it or because it will look good on my resume?&lt;/p&gt;

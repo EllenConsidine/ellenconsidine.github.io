@@ -2,30 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Climate &amp; Health | Ellen Considine</title>
-    <link>https://EllenConsidine.github.io/tags/climate--health/</link>
-      <atom:link href="https://EllenConsidine.github.io/tags/climate--health/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/tags/climate--health/</link>
+      <atom:link href="http://localhost:4321/tags/climate--health/index.xml" rel="self" type="application/rss+xml" />
     <description>Climate &amp; Health</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Climate &amp; Health</title>
-      <link>https://EllenConsidine.github.io/tags/climate--health/</link>
+      <link>http://localhost:4321/tags/climate--health/</link>
     </image>
     
     <item>
+      <title>Optimizing Heat Alert Issuance with Reinforcement Learning</title>
+      <link>http://localhost:4321/publication/hasdm/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/hasdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Climate &amp; Health Event Series, Science Policy Group</title>
-      <link>https://EllenConsidine.github.io/project/scipol/</link>
+      <link>http://localhost:4321/project/scipol/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/scipol/</guid>
+      <guid>http://localhost:4321/project/scipol/</guid>
       <description>&lt;p&gt;One of the roles I undertook as Vice-President of the Harvard graduate student science policy group was co-organizing a series of events at the intersection of climate &amp;amp; health. This brought together students and staff from across the Harvard School of Public Health, Medical School, Dental School, and Graduate School of Arts &amp;amp; Sciences. In particular, I spearheaded and moderated a panel and networking dinner focused on the translation of research into policy.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Overview of Data Science Tools for Climate &amp; Health</title>
-      <link>https://EllenConsidine.github.io/project/online_course_climate-health-data-science/</link>
+      <link>http://localhost:4321/project/online_course_climate-health-data-science/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/online_course_climate-health-data-science/</guid>
+      <guid>http://localhost:4321/project/online_course_climate-health-data-science/</guid>
       <description>&lt;p&gt;&lt;em&gt;As a pedagogy fellow during AY 2022-2023, I developed this short course for the new online master&amp;rsquo;s in public health program at HSPH.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;Climate change is one of the most (if not the most) pressing challenges of our time. Meanwhile, data science is a rapidly expanding field; references to the power of “machine learning” are ubiquitous. But what does “machine learning” really mean in the context of public health and climate change? In what situations might a really nice map make advanced statistical analysis gratuitous? This module will help you build a mental framework for distinguishing different aspects of data science and gain intuition for when these tools have the most potential to help us study and fuel action at the intersection of climate and health.&lt;/p&gt;

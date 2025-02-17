@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistics | Ellen Considine</title>
-    <link>https://EllenConsidine.github.io/tags/statistics/</link>
-      <atom:link href="https://EllenConsidine.github.io/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/tags/statistics/</link>
+      <atom:link href="http://localhost:4321/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
     <description>Statistics</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Statistics</title>
-      <link>https://EllenConsidine.github.io/tags/statistics/</link>
+      <link>http://localhost:4321/tags/statistics/</link>
     </image>
     
     <item>
+      <title>Optimizing Heat Alert Issuance with Reinforcement Learning</title>
+      <link>http://localhost:4321/publication/hasdm/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/hasdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Others&#39; Ideas that Resonate</title>
-      <link>https://EllenConsidine.github.io/post/ideas_resonate/</link>
+      <link>http://localhost:4321/post/ideas_resonate/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/ideas_resonate/</guid>
+      <guid>http://localhost:4321/post/ideas_resonate/</guid>
       <description>&lt;p&gt;Here are lists of articles, podcasts, videos, etc. that I intend to continuously update as I come across well-explained, powerful ideas that relate directly to my field(s) of interest. For the most part, these resources are more conversational than technical, and are meant to inspire as well as inform. Also see my list of recommended nonfiction books, which spans a larger range of topics.&lt;/p&gt;
 &lt;h3 id=&#34;environmental-health&#34;&gt;Environmental Health&lt;/h3&gt;
 &lt;p&gt;Articles:&lt;/p&gt;
@@ -142,9 +150,9 @@
     
     <item>
       <title>Applying for the NSF GRFP</title>
-      <link>https://EllenConsidine.github.io/post/nsf-grfp/</link>
+      <link>http://localhost:4321/post/nsf-grfp/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/nsf-grfp/</guid>
+      <guid>http://localhost:4321/post/nsf-grfp/</guid>
       <description>&lt;p&gt;There is a ton of general information online about the National Science Foundation (NSF) Graduate Research Fellowship, so I won&amp;rsquo;t go into many details here. For a large, high-quality collection of advice and past examples across fields, check out &lt;a href=&#34;https://www.alexhunterlang.com/nsf-fellowship&#34;&gt;Alex Lang&amp;rsquo;s website&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;However, for folks interested in statistics/data science/AI applied to public health, a couple more tailored insights may be valuable. For context: I applied for the GRFP during my senior year of undergrad (fall of 2019). I am now entering my fifth and final year of a PhD program in Biostatistics.&lt;/p&gt;
 &lt;h4 id=&#34;to-what-extent-should-i-focus-on-public-health-in-my-application&#34;&gt;To what extent should I focus on public health in my application?&lt;/h4&gt;
@@ -173,33 +181,33 @@ computer or information sciences, is eligible for support.&amp;rdquo;&lt;/p&gt;
     
     <item>
       <title>Effect modification of the association between fine particulate air pollution during a wildfire event and respiratory health by area-level measures of socio-economic status, race/ethnicity, and smoking prevalence</title>
-      <link>https://EllenConsidine.github.io/publication/wildfire-ses/</link>
+      <link>http://localhost:4321/publication/wildfire-ses/</link>
       <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/wildfire-ses/</guid>
+      <guid>http://localhost:4321/publication/wildfire-ses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluation of Model-Based PM2.5 Estimates for Exposure Assessment during Wildfire Smoke Episodes in the Western U.S.</title>
-      <link>https://EllenConsidine.github.io/publication/wildfire-pm/</link>
+      <link>http://localhost:4321/publication/wildfire-pm/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/wildfire-pm/</guid>
+      <guid>http://localhost:4321/publication/wildfire-pm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating Use of Low-Cost Sensors to Increase Accuracy and Equity of Real-Time Air Quality Information</title>
-      <link>https://EllenConsidine.github.io/publication/lcs_placements/</link>
+      <link>http://localhost:4321/publication/lcs_placements/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/lcs_placements/</guid>
+      <guid>http://localhost:4321/publication/lcs_placements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching Fellow for Graduate-Level Biostatistics Courses</title>
-      <link>https://EllenConsidine.github.io/project/tf/</link>
+      <link>http://localhost:4321/project/tf/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/tf/</guid>
+      <guid>http://localhost:4321/project/tf/</guid>
       <description>&lt;p&gt;Here are descriptions of the three full-semester courses that I helped teach at HSPH.&lt;/p&gt;
 &lt;h3 id=&#34;spring-2024-bst-226-applied-longitudinal-analysis&#34;&gt;Spring 2024: BST 226, Applied Longitudinal Analysis&lt;/h3&gt;
 &lt;p&gt;Approx. number of students: 100&lt;/p&gt;
@@ -215,9 +223,9 @@ computer or information sciences, is eligible for support.&amp;rdquo;&lt;/p&gt;
     
     <item>
       <title>Upper Division Course Projects at Harvard and CU Boulder</title>
-      <link>https://EllenConsidine.github.io/project/course_projects/</link>
+      <link>http://localhost:4321/project/course_projects/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/course_projects/</guid>
+      <guid>http://localhost:4321/project/course_projects/</guid>
       <description>&lt;p&gt;To provide a sense of what I&amp;rsquo;ve worked on other than my research in the National Studies on Air Pollution &amp;amp; Health Group and Earth Lab, here is a list of my most substantial projects that resulted in course papers but not peer-reviewed publications:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Reviewed state-of-the-art offline reinforcement learning algorithms&lt;/li&gt;
@@ -241,17 +249,17 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>Daily PM2.5 concentration estimates by county, ZIP code, and census tract in 11 western states 2008–2018</title>
-      <link>https://EllenConsidine.github.io/publication/pm25-ml/</link>
+      <link>http://localhost:4321/publication/pm25-ml/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/pm25-ml/</guid>
+      <guid>http://localhost:4321/publication/pm25-ml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Associations between respiratory health and ozone and fine particulate matter during a wildfire event</title>
-      <link>https://EllenConsidine.github.io/publication/wildfire-epi/</link>
+      <link>http://localhost:4321/publication/wildfire-epi/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/wildfire-epi/</guid>
+      <guid>http://localhost:4321/publication/wildfire-epi/</guid>
       <description></description>
     </item>
     
