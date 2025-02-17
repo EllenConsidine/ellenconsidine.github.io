@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Air Quality | Ellen Considine</title>
+    <link>https://EllenConsidine.github.io/tags/air-quality/</link>
+      <atom:link href="https://EllenConsidine.github.io/tags/air-quality/index.xml" rel="self" type="application/rss+xml" />
+    <description>Air Quality</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Air Quality</title>
+      <link>https://EllenConsidine.github.io/tags/air-quality/</link>
+    </image>
+    
+    <item>
+      <title>Applying for the NSF GRFP</title>
+      <link>https://EllenConsidine.github.io/post/nsf-grfp/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://EllenConsidine.github.io/post/nsf-grfp/</guid>
+      <description>&lt;p&gt;There is a ton of general information online about the National Science Foundation (NSF) Graduate Research Fellowship, so I won&amp;rsquo;t go into many details here. For a large, high-quality collection of advice and past examples across fields, check out &lt;a href=&#34;https://www.alexhunterlang.com/nsf-fellowship&#34;&gt;Alex Lang&amp;rsquo;s website&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;However, for folks interested in statistics/data science/AI applied to public health, a couple more tailored insights may be valuable. For context: I applied for the GRFP during my senior year of undergrad (fall of 2019). I am now entering my fifth and final year of a PhD program in Biostatistics.&lt;/p&gt;
+&lt;h4 id=&#34;to-what-extent-should-i-focus-on-public-health-in-my-application&#34;&gt;To what extent should I focus on public health in my application?&lt;/h4&gt;
+&lt;p&gt;One part of the GRFP solicitation that can trip people up is the section on &amp;ldquo;Ineligible areas of study&amp;rdquo; and the related section on &amp;ldquo;Limited exceptions to ineligible research&amp;rdquo;. Here are some text excerpts from 2024:&lt;/p&gt;
+&lt;p&gt;i. &amp;ldquo;Individuals are not eligible to apply if they will be enrolled in graduate study focused on clinical practice, counseling, social work, patient-oriented research, epidemiological and medical behavioral studies,
+outcomes research (interventions, treatment, or therapies), and health services research. Ineligible study
+includes pharmacologic, non-pharmacologic, and behavioral interventions for physical or mental disease
+or disorder, prophylaxis, diagnosis, therapy, or treatment. Research to provide evidence leading to a
+scientific basis for consideration of a change in health policy or standard of care is not eligible. Graduate
+study focused on community, public, or global health, or other population-based research including
+medical intervention trials is also not eligible.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;ii. &amp;ldquo;For applicants applying to degree programs in engineering, mathematical, physical, computer or
+information sciences disciplines, research with disease- or health-related goals (e.g., etiology-, diagnosis-,
+or treatment-related) that &lt;strong&gt;advance fundamental knowledge&lt;/strong&gt; in engineering, mathematical, physical,
+computer or information sciences, is eligible for support.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;The question is: &lt;em&gt;what is an appropriate balance between focusing on health vs the fundamental knowledge&lt;/em&gt;? Some advice I was given while applying was to keep in mind that the National Institutes of Health (NIH) have a lot of funding and their own graduate fellowship(s), so you have to make the case that NSF should care about your work in this ecosystem. When I was writing my application, I tried to emphasize the statistical questions / proposed contributions, using the public health question(s) as motivation throughout.&lt;/p&gt;
+&lt;h4 id=&#34;my-application-materials&#34;&gt;My application materials&lt;/h4&gt;
+&lt;p&gt;As a concrete example, &lt;a href=&#34;./ConsidineEM_GRFP_Research_Proposal.pdf&#34;&gt;here is my research proposal&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For additional context, &lt;a href=&#34;./ConsidineEM_GRFP_application_review.pdf&#34;&gt;here are the reviews  I received&lt;/a&gt;, which also provide some documentation of my CV at the time.&lt;/p&gt;
+&lt;h4 id=&#34;how-similar-is-my-dissertation-to-my-grfp-proposal-from-5-years-ago&#34;&gt;How similar is my dissertation to my GRFP proposal from 5 years ago?&lt;/h4&gt;
+&lt;p&gt;As emphasized throughout GRFP advice forums, this fellowship invests in the person, not the project. For a sense of how much your ideas can change / be refined (especially if you are applying as an undergrad), I encourage you to read the abstract of &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/36623253/&#34;&gt;my first dissertation paper&lt;/a&gt;, which was originally based on my GRFP research proposal.&lt;/p&gt;
+&lt;p&gt;While the rest of my dissertation falls under the umbrella of statistics/data science for environmental health (consistent with the goals stated throughout my GRFP application), the topics of my second and third papers are quite different than my GRFP research proposal, in part because they explore methodological areas that I was unfamiliar with / unaware of before starting grad school.&lt;/p&gt;
+&lt;p&gt;In conclusion, as long as you genuinely represent your goals, your specific research ideas can (and likely will!) evolve.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Model-Based PM2.5 Estimates for Exposure Assessment during Wildfire Smoke Episodes in the Western U.S.</title>
+      <link>https://EllenConsidine.github.io/publication/wildfire-pm/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://EllenConsidine.github.io/publication/wildfire-pm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Use of Low-Cost Sensors to Increase Accuracy and Equity of Real-Time Air Quality Information</title>
+      <link>https://EllenConsidine.github.io/publication/lcs_placements/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://EllenConsidine.github.io/publication/lcs_placements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upper Division Course Projects at Harvard and CU Boulder</title>
+      <link>https://EllenConsidine.github.io/project/course_projects/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://EllenConsidine.github.io/project/course_projects/</guid>
+      <description>&lt;p&gt;To provide a sense of what I&amp;rsquo;ve worked on other than my research in the National Studies on Air Pollution &amp;amp; Health Group and Earth Lab, here is a list of my most substantial projects that resulted in course papers but not peer-reviewed publications:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reviewed state-of-the-art offline reinforcement learning algorithms&lt;/li&gt;
+&lt;li&gt;Investigated the usefulness of Bayesian Additive Regression Trees (BART) for estimating
+uncertainty in wildfire smoke prediction&lt;/li&gt;
+&lt;li&gt;Explored methods to deal with measurement error (noise) in longitudinal (correlated) data&lt;/li&gt;
+&lt;li&gt;Used distributed lag nonlinear models to investigate associations between air pollution and mortality&lt;/li&gt;
+&lt;li&gt;Explored the evolution of discourse surrounding global public health surveillance and
+information systems, including future opportunities and risks in implementation&lt;/li&gt;
+&lt;li&gt;Used network methods, spatial and socioeconomic data to model migration between U.S. cities&lt;/li&gt;
+&lt;li&gt;Used data assimilation methods to model seasonal flu cases in Denver, CO&lt;/li&gt;
+&lt;li&gt;Used spatial kriging to improve estimation of air quality from a random forest model&lt;/li&gt;
+&lt;li&gt;Used satellite imagery to analyze trends in air quality over Southeast Asia&lt;/li&gt;
+&lt;li&gt;Used a hierarchical model and change-point analysis to predict energy usage from
+temperature in U.S. cities. &lt;em&gt;My model was the class’s most accurate on unseen data&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Used a convolutional neural network to predict sociodemographic information based on
+satellite images of US cities&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Science in the News Talk</title>
+      <link>https://EllenConsidine.github.io/project/sitn/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://EllenConsidine.github.io/project/sitn/</guid>
+      <description>&lt;p&gt;I leveraged the material from my HPHR blog, as well as new content, to give a public-facing talk on air pollution, global health, data science, and public policy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Breathing Data Blog</title>
+      <link>https://EllenConsidine.github.io/project/breathing_data/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://EllenConsidine.github.io/project/breathing_data/</guid>
+      <description>&lt;p&gt;In 2021, I wrote a series of blog posts on air pollution, global health, and data science for &lt;em&gt;HPHR Journal&lt;/em&gt;, formerly the &lt;em&gt;Harvard Public Health Review&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Cover image from PurpleAir map on June 7, 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daily PM2.5 concentration estimates by county, ZIP code, and census tract in 11 western states 2008–2018</title>
+      <link>https://EllenConsidine.github.io/publication/pm25-ml/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://EllenConsidine.github.io/publication/pm25-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving accuracy of air pollution exposure measurements: Statistical correction of a municipal low-cost airborne particulate matter sensor network</title>
+      <link>https://EllenConsidine.github.io/publication/ddphe-collab/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://EllenConsidine.github.io/publication/ddphe-collab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
