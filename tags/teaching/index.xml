@@ -17,7 +17,8 @@
       <link>http://localhost:4321/project/online_course_climate-health-data-science/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/online_course_climate-health-data-science/</guid>
-      <description>&lt;p&gt;&lt;em&gt;As a pedagogy fellow during AY 2022-2023, I developed this short course for the new online master&amp;rsquo;s in public health program at HSPH.&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;As a pedagogy fellow during AY 2022-2023, I developed this short course for the new online master&amp;rsquo;s in public health program at the Harvard School of Public Health.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Visual abstract uses images from &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Climate_change_icon.png&#34;&gt;Wikimedia Commons&lt;/a&gt; and &lt;a href=&#34;https://openclipart.org/detail/216852/heartbeat-logo-for-healthse-no-background-red-heart#google_vignette&#34;&gt;OpenClipart&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;Climate change is one of the most (if not the most) pressing challenges of our time. Meanwhile, data science is a rapidly expanding field; references to the power of “machine learning” are ubiquitous. But what does “machine learning” really mean in the context of public health and climate change? In what situations might a really nice map make advanced statistical analysis gratuitous? This module will help you build a mental framework for distinguishing different aspects of data science and gain intuition for when these tools have the most potential to help us study and fuel action at the intersection of climate and health.&lt;/p&gt;
 &lt;h2 id=&#34;learning-objectives&#34;&gt;Learning Objectives&lt;/h2&gt;

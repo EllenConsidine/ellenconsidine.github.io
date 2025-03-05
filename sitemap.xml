@@ -14,40 +14,60 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:4321/publication/plastic-aq-causal/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/air-quality/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:4321/publication_types/article/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/artificial-intelligence/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tags/environmental-justice/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/climate--health/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/publication/hasdm/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tags/machine-learning/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/publication/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/policy-evaluation/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/publication_types/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/sequential-decision-making/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/tags/statistics/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tags/statistics-/-data-science/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/tags/</loc>
-    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/artificial-intelligence/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/climate--health/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/publication/hasdm/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/sequential-decision-making/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/post/</loc>
@@ -110,12 +130,12 @@
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/sustainability/</loc>
+    <loc>http://localhost:4321/tags/statistics/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/air-quality/</loc>
-    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tags/sustainability/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/post/nsf-grfp/</loc>
@@ -166,10 +186,6 @@
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/environmental-justice/</loc>
-    <lastmod>2023-06-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:4321/post/zooming-out/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -218,14 +234,6 @@
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/health/</loc>
-    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/tags/data-collection/</loc>
-    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:4321/publication/lcs_placements/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -240,10 +248,6 @@
   </url><url>
     <loc>http://localhost:4321/project/tf/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/tags/machine-learning/</loc>
-    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/tags/mathematical-modeling/</loc>
@@ -286,6 +290,10 @@
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:4321/tags/health/</loc>
+    <lastmod>2021-04-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:4321/tags/applied-philosophy/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -296,6 +304,10 @@
   </url><url>
     <loc>http://localhost:4321/tags/societal-wellbeing/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/data-collection/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/publication/ddphe-collab/</loc>
