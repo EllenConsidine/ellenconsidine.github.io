@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistics | Ellen Considine</title>
-    <link>http://localhost:4321/tags/statistics/</link>
-      <atom:link href="http://localhost:4321/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://EllenConsidine.github.io/tags/statistics/</link>
+      <atom:link href="https://EllenConsidine.github.io/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
     <description>Statistics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Statistics</title>
-      <link>http://localhost:4321/tags/statistics/</link>
+      <link>https://EllenConsidine.github.io/tags/statistics/</link>
     </image>
     
     <item>
       <title>Others&#39; Ideas that Resonate</title>
-      <link>http://localhost:4321/post/ideas_resonate/</link>
+      <link>https://EllenConsidine.github.io/post/ideas_resonate/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/ideas_resonate/</guid>
+      <guid>https://EllenConsidine.github.io/post/ideas_resonate/</guid>
       <description>&lt;p&gt;Here are lists of articles, podcasts, videos, etc. that I intend to continuously update as I come across well-explained, powerful ideas that relate directly to my field(s) of interest. For the most part, these resources are more conversational than technical, and are meant to inspire as well as inform. Also see my list of recommended nonfiction books, which spans a larger range of topics.&lt;/p&gt;
 &lt;h3 id=&#34;environmental-health&#34;&gt;Environmental Health&lt;/h3&gt;
 &lt;p&gt;Articles:&lt;/p&gt;
@@ -142,9 +142,9 @@
     
     <item>
       <title>Applying for the NSF GRFP</title>
-      <link>http://localhost:4321/post/nsf-grfp/</link>
+      <link>https://EllenConsidine.github.io/post/nsf-grfp/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/nsf-grfp/</guid>
+      <guid>https://EllenConsidine.github.io/post/nsf-grfp/</guid>
       <description>&lt;p&gt;There is a ton of general information online about the National Science Foundation (NSF) Graduate Research Fellowship, so I won&amp;rsquo;t go into many details here. For a large, high-quality collection of advice and past examples across fields, check out &lt;a href=&#34;https://www.alexhunterlang.com/nsf-fellowship&#34;&gt;Alex Lang&amp;rsquo;s website&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;However, for folks interested in statistics/data science/AI applied to public health, a couple more tailored insights may be valuable. For context: I applied for the GRFP during my senior year of undergrad (fall of 2019). I am now entering my fifth and final year of a PhD program in Biostatistics.&lt;/p&gt;
 &lt;h4 id=&#34;to-what-extent-should-i-focus-on-public-health-in-my-application&#34;&gt;To what extent should I focus on public health in my application?&lt;/h4&gt;
@@ -173,9 +173,9 @@ computer or information sciences, is eligible for support.&amp;rdquo;&lt;/p&gt;
     
     <item>
       <title>Teaching Fellow for Graduate-Level Biostatistics Courses</title>
-      <link>http://localhost:4321/project/tf/</link>
+      <link>https://EllenConsidine.github.io/project/tf/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/tf/</guid>
+      <guid>https://EllenConsidine.github.io/project/tf/</guid>
       <description>&lt;p&gt;Here are descriptions of the three full-semester courses that I helped teach at HSPH.&lt;/p&gt;
 &lt;h3 id=&#34;spring-2024-bst-226-applied-longitudinal-analysis&#34;&gt;Spring 2024: BST 226, Applied Longitudinal Analysis&lt;/h3&gt;
 &lt;p&gt;Approx. number of students: 100&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathematical Modeling | Ellen Considine</title>
-    <link>http://localhost:4321/tags/mathematical-modeling/</link>
-      <atom:link href="http://localhost:4321/tags/mathematical-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://EllenConsidine.github.io/tags/mathematical-modeling/</link>
+      <atom:link href="https://EllenConsidine.github.io/tags/mathematical-modeling/index.xml" rel="self" type="application/rss+xml" />
     <description>Mathematical Modeling</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Mathematical Modeling</title>
-      <link>http://localhost:4321/tags/mathematical-modeling/</link>
+      <link>https://EllenConsidine.github.io/tags/mathematical-modeling/</link>
     </image>
     
     <item>
       <title>Upper Division Course Projects at Harvard and CU Boulder</title>
-      <link>http://localhost:4321/project/course_projects/</link>
+      <link>https://EllenConsidine.github.io/project/course_projects/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/course_projects/</guid>
+      <guid>https://EllenConsidine.github.io/project/course_projects/</guid>
       <description>&lt;p&gt;To provide a sense of what I&amp;rsquo;ve worked on other than my research in the National Studies on Air Pollution &amp;amp; Health Group and Earth Lab, here is a list of my most substantial projects that resulted in course papers but not peer-reviewed publications:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Reviewed state-of-the-art offline reinforcement learning algorithms&lt;/li&gt;
@@ -40,9 +40,9 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>Advice for the COMAP MCM/ICM</title>
-      <link>http://localhost:4321/post/mcm-advice/</link>
+      <link>https://EllenConsidine.github.io/post/mcm-advice/</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/mcm-advice/</guid>
+      <guid>https://EllenConsidine.github.io/post/mcm-advice/</guid>
       <description>&lt;p&gt;In 2017, 2018, and 2019, a team of two friends and I participated in the &lt;a href=&#34;https://www.comap.com/contests/mcm-icm&#34;&gt;Consortium for Mathematics and Its Applications (COMAP) International Mathematical / Interdisciplinary Contest in Modeling (MCM/ICM)&lt;/a&gt;. The basic idea of the contest is that over 99 hours, a team of three undergrads is tasked with choosing one of six open-ended questions, building some kind of mathematical model, and writing a paper synthesizing their findings along with external research.&lt;/p&gt;
 &lt;p&gt;Over the three years, my team&amp;rsquo;s projects spanned topics from happiness economics to the political impacts of climate change to the spread of the opioid epidemic. After being named one of the 36 winners (out of more than 25,000 teams worldwide) in 2019, I feel qualified to give out some advice for this contest.&lt;/p&gt;
 &lt;p&gt;I won&amp;rsquo;t dive too much into the logistics, but preparing for the contest does make things run more smoothly. Pick out a place to work with your team where you won&amp;rsquo;t be distracted, where you have easy access to food and bathrooms, etc. Decide ahead of time what platforms you&amp;rsquo;re going to use to collaborate with your team (e.g. Overleaf, Google Docs, etc.). Plan ahead with school work / get excused from attending lecture so that you don&amp;rsquo;t have to worry about other responsibilities during the contest. Start the weekend well-rested.&lt;/p&gt;
