@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Policy Evaluation | Ellen Considine</title>
-    <link>https://EllenConsidine.github.io/tags/policy-evaluation/</link>
-      <atom:link href="https://EllenConsidine.github.io/tags/policy-evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/tags/policy-evaluation/</link>
+      <atom:link href="http://localhost:4321/tags/policy-evaluation/index.xml" rel="self" type="application/rss+xml" />
     <description>Policy Evaluation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Policy Evaluation</title>
-      <link>https://EllenConsidine.github.io/tags/policy-evaluation/</link>
+      <link>http://localhost:4321/tags/policy-evaluation/</link>
     </image>
     
     <item>
       <title>A Spatiotemporal, Quasi-experimental Causal Inference Approach to Characterize the Effects of Global Plastic Waste Export and Burning on Air Quality Using Remotely Sensed Data</title>
-      <link>https://EllenConsidine.github.io/publication/plastic-aq-causal/</link>
+      <link>http://localhost:4321/publication/plastic-aq-causal/</link>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/plastic-aq-causal/</guid>
+      <guid>http://localhost:4321/publication/plastic-aq-causal/</guid>
       <description>&lt;p&gt;Visual abstract uses images from &lt;a href=&#34;https://www.flickr.com/photos/thegef/8652479588&#34;&gt;Global Environment Facility&lt;/a&gt; and &lt;a href=&#34;https://stocksnap.io/photo/satellite-orbit-JRVIMXKSYX&#34;&gt;StockSnap&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimizing Heat Alert Issuance with Reinforcement Learning</title>
-      <link>https://EllenConsidine.github.io/publication/hasdm/</link>
+      <link>http://localhost:4321/publication/hasdm/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/hasdm/</guid>
+      <guid>http://localhost:4321/publication/hasdm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating Use of Low-Cost Sensors to Increase Accuracy and Equity of Real-Time Air Quality Information</title>
-      <link>https://EllenConsidine.github.io/publication/lcs_placements/</link>
+      <link>http://localhost:4321/publication/lcs_placements/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/lcs_placements/</guid>
+      <guid>http://localhost:4321/publication/lcs_placements/</guid>
       <description></description>
     </item>
     

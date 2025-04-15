@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Ellen Considine</title>
-    <link>https://EllenConsidine.github.io/project/</link>
-      <atom:link href="https://EllenConsidine.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/project/</link>
+      <atom:link href="http://localhost:4321/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://EllenConsidine.github.io/project/</link>
+      <link>http://localhost:4321/project/</link>
     </image>
     
     <item>
       <title>Book Recommendations</title>
-      <link>https://EllenConsidine.github.io/project/book_recs/</link>
+      <link>http://localhost:4321/project/book_recs/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/book_recs/</guid>
+      <guid>http://localhost:4321/project/book_recs/</guid>
       <description>&lt;p&gt;Life gets busy and it can be hard to find the time and motivation to sit down and read nonfiction. However, many of the most important ideas that frame my perspective on the world and my place in it have come from nonfiction books. If you have the time to explore some of the following, great! If you don&amp;rsquo;t have time to read the full books, I still recommend Googling these authors / titles. Whether it&amp;rsquo;s a summary of the book, a YouTube video, or an article or blog post, these people have ideas worth hearing!&lt;/p&gt;
 &lt;h2 id=&#34;environmental&#34;&gt;Environmental&lt;/h2&gt;
 &lt;ul&gt;
@@ -58,18 +58,18 @@
     
     <item>
       <title>Climate &amp; Health Event Series, Science Policy Group</title>
-      <link>https://EllenConsidine.github.io/project/scipol/</link>
+      <link>http://localhost:4321/project/scipol/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/scipol/</guid>
+      <guid>http://localhost:4321/project/scipol/</guid>
       <description>&lt;p&gt;One of the roles I undertook as Vice-President of the Harvard graduate student science policy group was co-organizing a series of events at the intersection of climate &amp;amp; health. This brought together students and staff from across the Harvard School of Public Health, Medical School, Dental School, and Graduate School of Arts &amp;amp; Sciences. In particular, I spearheaded and moderated a panel and networking dinner focused on the translation of research into policy.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Overview of Data Science Tools for Climate &amp; Health</title>
-      <link>https://EllenConsidine.github.io/project/online_course_climate-health-data-science/</link>
+      <link>http://localhost:4321/project/online_course_climate-health-data-science/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/online_course_climate-health-data-science/</guid>
+      <guid>http://localhost:4321/project/online_course_climate-health-data-science/</guid>
       <description>&lt;p&gt;&lt;em&gt;As a pedagogy fellow during AY 2022-2023, I developed this short course for the new online master&amp;rsquo;s in public health program at the Harvard School of Public Health.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Visual abstract uses images from &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Climate_change_icon.png&#34;&gt;Wikimedia Commons&lt;/a&gt; and &lt;a href=&#34;https://openclipart.org/detail/216852/heartbeat-logo-for-healthse-no-background-red-heart#google_vignette&#34;&gt;OpenClipart&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
@@ -90,18 +90,18 @@
     
     <item>
       <title>Review Editor for the Fifth National Climate Assessment, Focus on Western Wildfires</title>
-      <link>https://EllenConsidine.github.io/project/nca5/</link>
+      <link>http://localhost:4321/project/nca5/</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/nca5/</guid>
+      <guid>http://localhost:4321/project/nca5/</guid>
       <description>&lt;p&gt;I helped coordinate response to public comments for the cross-cutting feature on western wildfires.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Teaching Fellow for Graduate-Level Biostatistics Courses</title>
-      <link>https://EllenConsidine.github.io/project/tf/</link>
+      <link>http://localhost:4321/project/tf/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/tf/</guid>
+      <guid>http://localhost:4321/project/tf/</guid>
       <description>&lt;p&gt;Here are descriptions of the three full-semester courses that I helped teach at HSPH.&lt;/p&gt;
 &lt;h3 id=&#34;spring-2024-bst-226-applied-longitudinal-analysis&#34;&gt;Spring 2024: BST 226, Applied Longitudinal Analysis&lt;/h3&gt;
 &lt;p&gt;Approx. number of students: 100&lt;/p&gt;
@@ -117,9 +117,9 @@
     
     <item>
       <title>Upper Division Course Projects at Harvard and CU Boulder</title>
-      <link>https://EllenConsidine.github.io/project/course_projects/</link>
+      <link>http://localhost:4321/project/course_projects/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/course_projects/</guid>
+      <guid>http://localhost:4321/project/course_projects/</guid>
       <description>&lt;p&gt;To provide a sense of what I&amp;rsquo;ve worked on other than my research in the National Studies on Air Pollution &amp;amp; Health Group and Earth Lab, here is a list of my most substantial projects that resulted in course papers but not peer-reviewed publications:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Reviewed state-of-the-art offline reinforcement learning algorithms&lt;/li&gt;
@@ -143,18 +143,18 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>Science in the News Talk</title>
-      <link>https://EllenConsidine.github.io/project/sitn/</link>
+      <link>http://localhost:4321/project/sitn/</link>
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/sitn/</guid>
+      <guid>http://localhost:4321/project/sitn/</guid>
       <description>&lt;p&gt;I leveraged the material from my HPHR blog, as well as new content, to give a public-facing talk on air pollution, global health, data science, and public policy.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Breathing Data Blog</title>
-      <link>https://EllenConsidine.github.io/project/breathing_data/</link>
+      <link>http://localhost:4321/project/breathing_data/</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/breathing_data/</guid>
+      <guid>http://localhost:4321/project/breathing_data/</guid>
       <description>&lt;p&gt;In 2021, I wrote a series of blog posts on air pollution, global health, and data science for &lt;em&gt;HPHR Journal&lt;/em&gt;, formerly the &lt;em&gt;Harvard Public Health Review&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Cover image from PurpleAir map on June 7, 2021.&lt;/p&gt;
 </description>
