@@ -2,21 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mental Health | Ellen Considine</title>
-    <link>http://localhost:4321/tags/mental-health/</link>
-      <atom:link href="http://localhost:4321/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://EllenConsidine.github.io/tags/mental-health/</link>
+      <atom:link href="https://EllenConsidine.github.io/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
     <description>Mental Health</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Mental Health</title>
-      <link>http://localhost:4321/tags/mental-health/</link>
+      <link>https://EllenConsidine.github.io/tags/mental-health/</link>
     </image>
     
     <item>
+      <title>Some Takeaways from my Time as a PhD Student</title>
+      <link>https://EllenConsidine.github.io/post/phd-tracking-hours/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://EllenConsidine.github.io/post/phd-tracking-hours/</guid>
+      <description>&lt;h3 id=&#34;the-big-picture&#34;&gt;The big picture&lt;/h3&gt;
+&lt;p&gt;Looking back on the last five years, I think I had about as good of an experience doing a PhD as one can have.&lt;/p&gt;
+&lt;p&gt;That’s not to say that everything was rainbows and unicorns. Major sources of stress over the years included facing challenging course material, learning how to balance the demands of teaching with my other responsibilities, running into countless dead ends in a research project, soul-searching about what kind of career I wanted to pursue, and navigating the uncertainty of the job search. I suspect that both chronic and acute stress contributed to several prolonged illnesses I had during this time frame.&lt;/p&gt;
+&lt;p&gt;But on the whole, grad school was a good experience. I learned a lot (about topics both expected and unexpected), met many interesting and inspiring people, and now feel prepared (to the extent one can be) for embarking on my post-student chapter.&lt;/p&gt;
+&lt;p&gt;A lot of standard advice for being a PhD student served me well:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Picking an advisor (or advisors) who you “click” with as a person, in addition to being aligned with on research interests;&lt;/li&gt;
+&lt;li&gt;Prioritizing your dissertation research (getting it done) above all else;&lt;/li&gt;
+&lt;li&gt;Taking the opportunity to explore, pushing yourself outside your academic comfort zone;&lt;/li&gt;
+&lt;li&gt;Developing / refining soft skills (writing, oral presentation) in addition to technical skills;&lt;/li&gt;
+&lt;li&gt;Getting plenty of sleep, nutritious food, and regular exercise, and staying in frequent communication with friends / family;&lt;/li&gt;
+&lt;li&gt;Acknowledging the endurance nature of this endeavor, and taking ample time to rest along the way.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here I’ll advocate for one less-standard practice that has also served me well.&lt;/p&gt;
+&lt;h3 id=&#34;track-your-hours&#34;&gt;Track your hours&lt;/h3&gt;
+&lt;p&gt;When I started grad school in the middle of the Covid-19 pandemic, I tracked my working hours in a spreadsheet for curiosity’s sake. I continued this practice for the duration of my PhD for several reasons.&lt;/p&gt;
+&lt;p&gt;Early on, an upper-year student told me that if one was disciplined, it was possible to treat our PhD program like a 9-to-5. I chose not to stick to that rigid of a schedule, partly due to my preference for taking a break in the middle of the day to exercise and mentally reset, but I did use this perspective to guide the volume of hours that I worked, acknowledging that some weeks would be busier and others less busy due to factors outside of my control. &lt;em&gt;Note: the number of hours per week needed to be successful as a PhD student varies with the discipline, as well as the individual. For example, research that requires bench work is often more time intensive than computational research. Similarly, an individual who enters a PhD program with a lot of relevant technical and/or domain knowledge will need to spend less time doing background reading than a student who is new to the field.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;From the get-go I was interested in exploring careers outside of academia, while keeping the door to academia open. Through informational interviews and reading online, I learned that a number of jobs I might be interested in, such as research consulting, required one to track “billable” hours across projects. Hence, tracking my hours in grad school felt like good practice for potentially needing to do this later on. I have since learned that academic jobs too require a fair amount of documentation on the allocation of one’s time/effort, whether that be between research grants covering different fractions of one’s salary or between one’s research, teaching, and service responsibilities.&lt;/p&gt;
+&lt;p&gt;During grad school, I classified my working hours as either schoolwork, research, teaching, or professional development &amp;amp; service. The final category is somewhat nebulous. Major tasks I lumped into this include volunteering with career-relevant student organizations or on department committees, mentoring junior students, attending career development events, building my website and updating my CV and LinkedIn, networking / informational interviewing, attending scientific or public policy seminars not directly related to my research area, reading professionally-relevant newsletters, writing blog posts, and searching for and applying for jobs. &lt;em&gt;Note: in the rest of the professional world, many of these tasks would not count as “working” hours.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Keeping track of approximately how much time I spent on each activity-category per day was helpful both in real time (e.g., deciding how much more work to do in a given week) and in retrospect (noticing bigger-picture patterns, appreciating how much time I’d put in the past semester). At my current juncture, having this record enables both creating interesting summaries like the following figure and making informed predictions for how much time it will take me to accomplish various tasks (and thus plan ahead) in my new job.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;PhD_activity_allocation.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This plot shows the proportion of time I spent in each year of my PhD program on schoolwork &amp;amp; other necessary paperwork, research, teaching, and professional development &amp;amp; service. Note that these proportions represent the average for the whole year (academic year and summer), that the denominators for the five years are different (and I am intentionally choosing not to include those in this publicly available blog post), and that in my fifth year, the red bar represents the time I spent preparing to defend / graduate (putting together my dissertation document, preparing my defense slides, etc.).&lt;/p&gt;
+&lt;p&gt;Possibly the best reason to track your hours is to be able to assess alignment between how you &lt;em&gt;are&lt;/em&gt; spending your time and how you &lt;em&gt;should be or want to be&lt;/em&gt; spending your time. For instance, if you notice that you are consistently spending an unreasonably high number of hours per week grading or answering student emails for a class you are TAing, then it’s probably time to discuss this burden with the course instructor and/or update your approach. As another example, does the number of hours you are spending on a particular service or professional development activity align with how much you personally care about that activity and/or how important you think the activity is for your career advancement? (Speaking with people in your desired profession is often the best way to assess the latter.)&lt;/p&gt;
+&lt;p&gt;One last thing to clarify is that my system requires being honest with myself about how much time I am actually focused on work. For instance, if I get distracted and end up scrolling social media for 30 minutes, then I do not include that time in my work log. But, as I and others have found, being “on the clock” can help to maintain a work mindset (focus). &lt;em&gt;Note that if instead of tracking your hours manually you would prefer to automate the process, then there are a variety of options you can explore, such as Toggl.&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&#34;caveat-and-parting-thoughts&#34;&gt;Caveat and parting thoughts&lt;/h4&gt;
+&lt;p&gt;One caveat is that hours spent are only a proxy for effort. As you have likely experienced, different tasks require different amounts of energy. Being creative (brainstorming research ideas, writing a paper, creating curriculum) takes more energy than reading a paper (especially one which doesn’t require you to learn many new concepts) or grading a homework assignment based on a detailed rubric.&lt;/p&gt;
+&lt;p&gt;Ultimately, the most important thing during your PhD (and life in general, IMHO) is to &lt;em&gt;be intentional&lt;/em&gt;. A hiking analogy for this is described in the first section of my earlier blog, &lt;a href=&#34;https://ellenconsidine.github.io/post/finding-career-path/&#34;&gt;&amp;ldquo;On Finding a Career Path&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;recommended-reading&#34;&gt;Recommended reading&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://imstat.org/2022/04/01/written-by-witten-so-long-and-thanks-for-all-the-tips/&#34;&gt;&amp;ldquo;So long, and thanks for all the tips&amp;rdquo;&lt;/a&gt; by Daniela Witten&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gr8lawrence.com/2024/09/23/a-few-lessons-i-learned-from-my-ph-d-program/&#34;&gt;&amp;ldquo;A Few Lessons I Learned from My Ph.D. Program&amp;rdquo;&lt;/a&gt; by Tianyi Liu&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.briantimar.com/notes/mimetic/mimetic&#34;&gt;&amp;ldquo;Mimetic Traps&amp;rdquo;&lt;/a&gt; by Brian Timar – &lt;em&gt;thanks to Apara Venkat for the suggestion&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;General resources for PhD students:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gsc.upenn.edu/uncovering-hidden-curriculum&#34;&gt;&amp;ldquo;Uncovering the Hidden Curriculum&amp;rdquo;&lt;/a&gt; &amp;ndash;&amp;gt; &amp;ldquo;Advice&amp;rdquo; section&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.plasticityinneurodevelopmentlab.com/resourcesforresearchers/project-four-7eljr&#34;&gt;PhD student and postdoc resources collection&lt;/a&gt; – &lt;em&gt;neuroscience focused, but many things are generalizable&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Book Recommendations</title>
-      <link>http://localhost:4321/project/book_recs/</link>
+      <link>https://EllenConsidine.github.io/project/book_recs/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/book_recs/</guid>
+      <guid>https://EllenConsidine.github.io/project/book_recs/</guid>
       <description>&lt;p&gt;Life gets busy and it can be hard to find the time and motivation to sit down and read nonfiction. However, many of the most important ideas that frame my perspective on the world and my place in it have come from nonfiction books. If you have the time to explore some of the following, great! If you don&amp;rsquo;t have time to read the full books, I still recommend Googling these authors / titles. Whether it&amp;rsquo;s a summary of the book, a YouTube video, or an article or blog post, these people have ideas worth hearing!&lt;/p&gt;
 &lt;h2 id=&#34;environmental&#34;&gt;Environmental&lt;/h2&gt;
 &lt;ul&gt;
@@ -58,9 +105,9 @@
     
     <item>
       <title>An Honest Conversation About Box-Checking</title>
-      <link>http://localhost:4321/post/box-checking/</link>
+      <link>https://EllenConsidine.github.io/post/box-checking/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/box-checking/</guid>
+      <guid>https://EllenConsidine.github.io/post/box-checking/</guid>
       <description>&lt;p&gt;&amp;ldquo;Box-checking&amp;rdquo; has a pretty negative connotation. It implies that your actions are inauthentic: the only reason you are doing something is to put it on your resume / achieve some glamorous end goal, not because you actually want to do it. It is often associated with helicopter parents and overachieving students trying to get into prestigious colleges. It is perceived as soulless running of the rat race. In this post, I attempt to flesh out a more nuanced perspective.&lt;/p&gt;
 &lt;p&gt;Over the years, I have observed that feeling the need to fill out one&amp;rsquo;s resume and appear objectively impressive can be incredibly stressful and potentially damaging for individuals&amp;rsquo; mental health. In high school, many of my peers were stressed all the time about whether they were doing enough to be accepted into their dream colleges. I feel fortunate to have avoided this in my late teenage years because I planned to attend my home state university. I truly believe that I was doing the things I did in high school (focusing mostly on music and sports) because I enjoyed them, not because I felt forced to do them.&lt;/p&gt;
 &lt;p&gt;After starting college, however, the lines between authentic engagement and box-checking became more blurred for me. Did I join Engineers Without Borders purely because I wanted to help other people and learn about the world or because I wanted this cool international volunteering experience in my back pocket? Did I start doing my research internship because I really wanted to spend more hours of the day learning how to code in R or because I knew that it would open doors to future opportunities? Did I spend more time than I needed to setting up a socially-positive collaborative research project simply because I thought that it was important work to do or because I was already planning to apply for grad school in public health and knew that such a project would help strengthen my application? The honest answer to all of these questions is &lt;em&gt;both&lt;/em&gt;. At times, I have felt uncomfortable with this duality: am I doing this because I care about it or because it will look good on my resume?&lt;/p&gt;

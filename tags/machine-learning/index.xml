@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning | Ellen Considine</title>
-    <link>http://localhost:4321/tags/machine-learning/</link>
-      <atom:link href="http://localhost:4321/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://EllenConsidine.github.io/tags/machine-learning/</link>
+      <atom:link href="https://EllenConsidine.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Machine Learning</title>
-      <link>http://localhost:4321/tags/machine-learning/</link>
+      <link>https://EllenConsidine.github.io/tags/machine-learning/</link>
     </image>
     
     <item>
       <title>A Spatiotemporal, Quasi-experimental Causal Inference Approach to Characterize the Effects of Global Plastic Waste Export and Burning on Air Quality Using Remotely Sensed Data</title>
-      <link>http://localhost:4321/publication/plastic-aq-causal/</link>
-      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/plastic-aq-causal/</guid>
+      <link>https://EllenConsidine.github.io/publication/plastic-aq-causal/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://EllenConsidine.github.io/publication/plastic-aq-causal/</guid>
       <description>&lt;p&gt;Visual abstract uses images from &lt;a href=&#34;https://www.flickr.com/photos/thegef/8652479588&#34;&gt;Global Environment Facility&lt;/a&gt; and &lt;a href=&#34;https://stocksnap.io/photo/satellite-orbit-JRVIMXKSYX&#34;&gt;StockSnap&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimizing Heat Alert Issuance with Reinforcement Learning</title>
-      <link>http://localhost:4321/publication/hasdm/</link>
+      <link>https://EllenConsidine.github.io/publication/hasdm/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/hasdm/</guid>
+      <guid>https://EllenConsidine.github.io/publication/hasdm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Upper Division Course Projects at Harvard and CU Boulder</title>
-      <link>http://localhost:4321/project/course_projects/</link>
+      <link>https://EllenConsidine.github.io/project/course_projects/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/course_projects/</guid>
+      <guid>https://EllenConsidine.github.io/project/course_projects/</guid>
       <description>&lt;p&gt;To provide a sense of what I&amp;rsquo;ve worked on other than my research in the National Studies on Air Pollution &amp;amp; Health Group and Earth Lab, here is a list of my most substantial projects that resulted in course papers but not peer-reviewed publications:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Reviewed state-of-the-art offline reinforcement learning algorithms&lt;/li&gt;
@@ -57,9 +57,9 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>Daily PM2.5 concentration estimates by county, ZIP code, and census tract in 11 western states 2008–2018</title>
-      <link>http://localhost:4321/publication/pm25-ml/</link>
+      <link>https://EllenConsidine.github.io/publication/pm25-ml/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/pm25-ml/</guid>
+      <guid>https://EllenConsidine.github.io/publication/pm25-ml/</guid>
       <description></description>
     </item>
     

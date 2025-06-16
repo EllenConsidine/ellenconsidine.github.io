@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reading | Ellen Considine</title>
-    <link>http://localhost:4321/tags/reading/</link>
-      <atom:link href="http://localhost:4321/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://EllenConsidine.github.io/tags/reading/</link>
+      <atom:link href="https://EllenConsidine.github.io/tags/reading/index.xml" rel="self" type="application/rss+xml" />
     <description>Reading</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Reading</title>
-      <link>http://localhost:4321/tags/reading/</link>
+      <link>https://EllenConsidine.github.io/tags/reading/</link>
     </image>
     
     <item>
       <title>Book Recommendations</title>
-      <link>http://localhost:4321/project/book_recs/</link>
+      <link>https://EllenConsidine.github.io/project/book_recs/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/book_recs/</guid>
+      <guid>https://EllenConsidine.github.io/project/book_recs/</guid>
       <description>&lt;p&gt;Life gets busy and it can be hard to find the time and motivation to sit down and read nonfiction. However, many of the most important ideas that frame my perspective on the world and my place in it have come from nonfiction books. If you have the time to explore some of the following, great! If you don&amp;rsquo;t have time to read the full books, I still recommend Googling these authors / titles. Whether it&amp;rsquo;s a summary of the book, a YouTube video, or an article or blog post, these people have ideas worth hearing!&lt;/p&gt;
 &lt;h2 id=&#34;environmental&#34;&gt;Environmental&lt;/h2&gt;
 &lt;ul&gt;
@@ -58,9 +58,9 @@
     
     <item>
       <title>Others&#39; Ideas that Resonate</title>
-      <link>http://localhost:4321/post/ideas_resonate/</link>
+      <link>https://EllenConsidine.github.io/post/ideas_resonate/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/ideas_resonate/</guid>
+      <guid>https://EllenConsidine.github.io/post/ideas_resonate/</guid>
       <description>&lt;p&gt;Here are lists of articles, podcasts, videos, etc. that I intend to continuously update as I come across well-explained, powerful ideas that relate directly to my field(s) of interest. For the most part, these resources are more conversational than technical, and are meant to inspire as well as inform. Also see my list of recommended nonfiction books, which spans a larger range of topics.&lt;/p&gt;
 &lt;h3 id=&#34;environmental-health&#34;&gt;Environmental Health&lt;/h3&gt;
 &lt;p&gt;Articles:&lt;/p&gt;
@@ -186,9 +186,9 @@
     
     <item>
       <title>Zooming Out -- On Sustainability, Social Justice, and Data</title>
-      <link>http://localhost:4321/post/zooming-out/</link>
+      <link>https://EllenConsidine.github.io/post/zooming-out/</link>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/zooming-out/</guid>
+      <guid>https://EllenConsidine.github.io/post/zooming-out/</guid>
       <description>&lt;p&gt;The threat of climate change has been a driving motivation for both my professional and personal choices for many years. In practice, this has manifested as getting into the weeds with various academic subjects (i.e. air quality, statistics, public health, computer science) as well as recurrent introspection on many aspects of lifestyle. This spring, I was reminded of the importance of picking my head up and seeking out new perspectives &amp;ndash; despite the countless hours I&amp;rsquo;ve spent educating myself on environmental and social/economic justice topics, there is always more to learn and consider. In this blog, I&amp;rsquo;ll share some broad reflections from several recent experiences.&lt;/p&gt;
 &lt;p&gt;Most of the ideas here were inspired by:&lt;/p&gt;
 &lt;ol&gt;
@@ -247,9 +247,9 @@
     
     <item>
       <title>The Revelatory Mirror of AI/ML -- On Evolution, Uncertainty, and Recourse</title>
-      <link>http://localhost:4321/post/revelatory-mirror/</link>
+      <link>https://EllenConsidine.github.io/post/revelatory-mirror/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/revelatory-mirror/</guid>
+      <guid>https://EllenConsidine.github.io/post/revelatory-mirror/</guid>
       <description>&lt;p&gt;&lt;strong&gt;“Our successes and failures alike in getting these systems to do &amp;lsquo;what we want,&amp;rsquo; it turns out, offer us an unflinching, revelatory mirror.” - Brian Christian&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This summer, I joined a data science &amp;amp; society-themed book club sponsored by the Harvard Data Science Initiative. Our first book was &lt;em&gt;The Alignment Problem: Machine Learning and Human Values&lt;/em&gt; by Brian Christian (2020). It turned out to be one of my favorite nonfiction books. Someone in the group also let us know about a free virtual event, the Symposium on Interpretable and Explainable Artificial Intelligence and Machine Learning, hosted by the National Academies of Science Committee on Applied and Theoretical Statistics, which I ended up attending. (If you&amp;rsquo;re interested in this Symposium, a recording is available &lt;a href=&#34;https://www.nationalacademies.org/event/06-21-2022/interpretable-and-explainable-ai-and-machine-learning&#34;&gt;here&lt;/a&gt;.)&lt;/p&gt;
 &lt;p&gt;Between the reading, the Symposium, and our book club&amp;rsquo;s weekly discussions, there are a plethora of topics about which I could wax lyrical. For the sake of a bite-sized post, however, I will stick to a few overarching themes that stuck out to me: (1) the development of artificial intelligence (AI) giving us insights into our own brains, (2) the ability (or lack thereof) for individual people or minority groups to pursue justice for maltreatment at the &amp;ldquo;hands&amp;rdquo; of an algorithm, and (3) the perpetual need for humility (for both humans and AI).&lt;/p&gt;
@@ -278,9 +278,9 @@
     
     <item>
       <title>Principled Negotiation and the Ethos of Public Health</title>
-      <link>http://localhost:4321/post/public-health-ethos/</link>
+      <link>https://EllenConsidine.github.io/post/public-health-ethos/</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/public-health-ethos/</guid>
+      <guid>https://EllenConsidine.github.io/post/public-health-ethos/</guid>
       <description>&lt;p&gt;I am currently reading a book on negotiation called &lt;em&gt;Getting to Yes&lt;/em&gt;, written by members of the Harvard Negotiation Project. One of the opening chapters describes positional bargaining: two sides starting from places of disagreement and inching their way closer by making small concessions in turn. The authors describe how problematic this process is: it is inefficient, commonly leads to unwise outcomes (good for neither side), and can harm relationships between parties. Instead, the book presents a case for principled negotiation, founded on separating the people (negotiators) from the problem, focusing on interests instead of positions, inventing options for mutual gain, and insisting on use of objective criteria. &lt;a href=&#34;https://www.pon.harvard.edu/daily/negotiation-skills-daily/principled-negotiation-focus-interests-create-value/&#34;&gt;Here is a nice summary&lt;/a&gt;, for those interested in learning more.&lt;/p&gt;
 &lt;p&gt;I bring this book up to motivate presentation of my principles. Nearly everything we do in our professional and personal lives is a negotiation of some kind. It is important to establish what we believe so that we can work with others to identify common ground and develop pragmatic solutions to our problems.&lt;/p&gt;
 &lt;p&gt;Listening to the news and having conversations with other people, it is clear that there are foundationally diverse beliefs about how human civilization should look, and how we should get there (if the belief is that we aren&amp;rsquo;t already there). I have come to the unoriginal conclusion that the largest discrepancy in how people think and act is described by the weight an individual mentally assigns to their personal freedoms in comparison with the freedoms of others, and to what extent they believe we should rely on governmental authorities to enforce the balance of individuals&amp;rsquo; freedoms. This discrepancy has obvious ties to the arena of public health, where large and complex problems such as infectious diseases and environmental pollution bring tensions between individual freedoms and collective sacrifice to light. In fact, while pondering my beliefs and their implications, I ran across the &lt;a href=&#34;https://www.apha.org/-/media/files/pdf/membergroups/ethics/code_of_ethics.ashx&#34;&gt;Public Health Code of Ethics&lt;/a&gt; by the American Public Health Association (APHA) and determined this to be the most clear articulation of my principles that I have ever found.&lt;/p&gt;
@@ -295,9 +295,9 @@
     
     <item>
       <title>On Having an Impact, Part 1</title>
-      <link>http://localhost:4321/post/impact-part1/</link>
+      <link>https://EllenConsidine.github.io/post/impact-part1/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/impact-part1/</guid>
+      <guid>https://EllenConsidine.github.io/post/impact-part1/</guid>
       <description>&lt;p&gt;My views and aspirations for both my professional and my personal life have been profoundly influenced by the Effective Altruism (EA) / 80,000 Hours movement. This post is meant to introduce those who haven’t encountered this movement to it. See &amp;ldquo;On Having an Impact, Part 2&amp;rdquo; for some of my reflections in light of this overarching philosophy.&lt;/p&gt;
 &lt;h3 id=&#34;intro-to-effective-altruism-and-80000-hours&#34;&gt;Intro to Effective Altruism and 80,000 Hours&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Note: Instead of citing everything in the paragraphs below, I’m including a list of links at the end of this post, which I encourage you to explore!&lt;/em&gt;&lt;/p&gt;
