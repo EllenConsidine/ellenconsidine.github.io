@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Environmental Health | Ellen Considine</title>
-    <link>https://EllenConsidine.github.io/tags/environmental-health/</link>
-      <atom:link href="https://EllenConsidine.github.io/tags/environmental-health/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/tags/environmental-health/</link>
+      <atom:link href="http://localhost:4321/tags/environmental-health/index.xml" rel="self" type="application/rss+xml" />
     <description>Environmental Health</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Environmental Health</title>
-      <link>https://EllenConsidine.github.io/tags/environmental-health/</link>
+      <link>http://localhost:4321/tags/environmental-health/</link>
     </image>
     
     <item>
       <title>Others&#39; Ideas that Resonate</title>
-      <link>https://EllenConsidine.github.io/post/ideas_resonate/</link>
+      <link>http://localhost:4321/post/ideas_resonate/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/ideas_resonate/</guid>
+      <guid>http://localhost:4321/post/ideas_resonate/</guid>
       <description>&lt;p&gt;Here are lists of articles, podcasts, videos, etc. that I intend to continuously update as I come across well-explained, powerful ideas that relate directly to my field(s) of interest. For the most part, these resources are more conversational than technical, and are meant to inspire as well as inform. Also see my list of recommended nonfiction books, which spans a larger range of topics.&lt;/p&gt;
 &lt;h3 id=&#34;environmental-health&#34;&gt;Environmental Health&lt;/h3&gt;
 &lt;p&gt;Articles:&lt;/p&gt;

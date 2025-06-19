@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistics / Data Science | Ellen Considine</title>
-    <link>https://EllenConsidine.github.io/tags/statistics-/-data-science/</link>
-      <atom:link href="https://EllenConsidine.github.io/tags/statistics-/-data-science/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/tags/statistics-/-data-science/</link>
+      <atom:link href="http://localhost:4321/tags/statistics-/-data-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Statistics / Data Science</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Statistics / Data Science</title>
-      <link>https://EllenConsidine.github.io/tags/statistics-/-data-science/</link>
+      <link>http://localhost:4321/tags/statistics-/-data-science/</link>
     </image>
     
     <item>
       <title>A Spatiotemporal, Quasi-experimental Causal Inference Approach to Characterize the Effects of Global Plastic Waste Export and Burning on Air Quality Using Remotely Sensed Data</title>
-      <link>https://EllenConsidine.github.io/publication/plastic-aq-causal/</link>
+      <link>http://localhost:4321/publication/plastic-aq-causal/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/plastic-aq-causal/</guid>
+      <guid>http://localhost:4321/publication/plastic-aq-causal/</guid>
       <description>&lt;p&gt;Visual abstract uses images from &lt;a href=&#34;https://www.flickr.com/photos/thegef/8652479588&#34;&gt;Global Environment Facility&lt;/a&gt; and &lt;a href=&#34;https://stocksnap.io/photo/satellite-orbit-JRVIMXKSYX&#34;&gt;StockSnap&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimizing Heat Alert Issuance with Reinforcement Learning</title>
-      <link>https://EllenConsidine.github.io/publication/hasdm/</link>
+      <link>http://localhost:4321/publication/hasdm/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/hasdm/</guid>
+      <guid>http://localhost:4321/publication/hasdm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect modification of the association between fine particulate air pollution during a wildfire event and respiratory health by area-level measures of socio-economic status, race/ethnicity, and smoking prevalence</title>
-      <link>https://EllenConsidine.github.io/publication/wildfire-ses/</link>
+      <link>http://localhost:4321/publication/wildfire-ses/</link>
       <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/wildfire-ses/</guid>
+      <guid>http://localhost:4321/publication/wildfire-ses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluation of Model-Based PM2.5 Estimates for Exposure Assessment during Wildfire Smoke Episodes in the Western U.S.</title>
-      <link>https://EllenConsidine.github.io/publication/wildfire-pm/</link>
+      <link>http://localhost:4321/publication/wildfire-pm/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/wildfire-pm/</guid>
+      <guid>http://localhost:4321/publication/wildfire-pm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating Use of Low-Cost Sensors to Increase Accuracy and Equity of Real-Time Air Quality Information</title>
-      <link>https://EllenConsidine.github.io/publication/lcs_placements/</link>
+      <link>http://localhost:4321/publication/lcs_placements/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/lcs_placements/</guid>
+      <guid>http://localhost:4321/publication/lcs_placements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Upper Division Course Projects at Harvard and CU Boulder</title>
-      <link>https://EllenConsidine.github.io/project/course_projects/</link>
+      <link>http://localhost:4321/project/course_projects/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/course_projects/</guid>
+      <guid>http://localhost:4321/project/course_projects/</guid>
       <description>&lt;p&gt;To provide a sense of what I&amp;rsquo;ve worked on other than my research in the National Studies on Air Pollution &amp;amp; Health Group and Earth Lab, here is a list of my most substantial projects that resulted in course papers but not peer-reviewed publications:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Reviewed state-of-the-art offline reinforcement learning algorithms&lt;/li&gt;
@@ -81,25 +81,25 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>Daily PM2.5 concentration estimates by county, ZIP code, and census tract in 11 western states 2008–2018</title>
-      <link>https://EllenConsidine.github.io/publication/pm25-ml/</link>
+      <link>http://localhost:4321/publication/pm25-ml/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/pm25-ml/</guid>
+      <guid>http://localhost:4321/publication/pm25-ml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving accuracy of air pollution exposure measurements: Statistical correction of a municipal low-cost airborne particulate matter sensor network</title>
-      <link>https://EllenConsidine.github.io/publication/ddphe-collab/</link>
+      <link>http://localhost:4321/publication/ddphe-collab/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/ddphe-collab/</guid>
+      <guid>http://localhost:4321/publication/ddphe-collab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advice for the COMAP MCM/ICM</title>
-      <link>https://EllenConsidine.github.io/post/mcm-advice/</link>
+      <link>http://localhost:4321/post/mcm-advice/</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/mcm-advice/</guid>
+      <guid>http://localhost:4321/post/mcm-advice/</guid>
       <description>&lt;p&gt;In 2017, 2018, and 2019, a team of two friends and I participated in the &lt;a href=&#34;https://www.comap.com/contests/mcm-icm&#34;&gt;Consortium for Mathematics and Its Applications (COMAP) International Mathematical / Interdisciplinary Contest in Modeling (MCM/ICM)&lt;/a&gt;. The basic idea of the contest is that over 99 hours, a team of three undergrads is tasked with choosing one of six open-ended questions, building some kind of mathematical model, and writing a paper synthesizing their findings along with external research.&lt;/p&gt;
 &lt;p&gt;Over the three years, my team&amp;rsquo;s projects spanned topics from happiness economics to the political impacts of climate change to the spread of the opioid epidemic. After being named one of the 36 winners (out of more than 25,000 teams worldwide) in 2019, I feel qualified to give out some advice for this contest.&lt;/p&gt;
 &lt;p&gt;I won&amp;rsquo;t dive too much into the logistics, but preparing for the contest does make things run more smoothly. Pick out a place to work with your team where you won&amp;rsquo;t be distracted, where you have easy access to food and bathrooms, etc. Decide ahead of time what platforms you&amp;rsquo;re going to use to collaborate with your team (e.g. Overleaf, Google Docs, etc.). Plan ahead with school work / get excused from attending lecture so that you don&amp;rsquo;t have to worry about other responsibilities during the contest. Start the weekend well-rested.&lt;/p&gt;
@@ -119,9 +119,9 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>Associations between respiratory health and ozone and fine particulate matter during a wildfire event</title>
-      <link>https://EllenConsidine.github.io/publication/wildfire-epi/</link>
+      <link>http://localhost:4321/publication/wildfire-epi/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/wildfire-epi/</guid>
+      <guid>http://localhost:4321/publication/wildfire-epi/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ellen Considine</title>
-    <link>https://EllenConsidine.github.io/</link>
-      <atom:link href="https://EllenConsidine.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/</link>
+      <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <description>Ellen Considine</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Ellen Considine</title>
-      <link>https://EllenConsidine.github.io/</link>
+      <link>http://localhost:4321/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://EllenConsidine.github.io/event/example/</link>
+      <link>http://localhost:4321/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/event/example/</guid>
+      <guid>http://localhost:4321/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Some Takeaways from my Time as a PhD Student</title>
-      <link>https://EllenConsidine.github.io/post/phd-tracking-hours/</link>
+      <link>http://localhost:4321/post/phd-tracking-hours/</link>
       <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/phd-tracking-hours/</guid>
+      <guid>http://localhost:4321/post/phd-tracking-hours/</guid>
       <description>&lt;h3 id=&#34;the-big-picture&#34;&gt;The big picture&lt;/h3&gt;
 &lt;p&gt;Looking back on the last five years, I think I had about as good of an experience doing a PhD as one can have.&lt;/p&gt;
 &lt;p&gt;That’s not to say that everything was rainbows and unicorns. Major sources of stress over the years included facing challenging course material, learning how to balance the demands of teaching with my other responsibilities, running into countless dead ends in a research project, soul-searching about what kind of career I wanted to pursue, and navigating the uncertainty of the job search. I suspect that both chronic and acute stress contributed to several prolonged illnesses I had during this time frame.&lt;/p&gt;
@@ -82,26 +82,26 @@
     
     <item>
       <title>A Spatiotemporal, Quasi-experimental Causal Inference Approach to Characterize the Effects of Global Plastic Waste Export and Burning on Air Quality Using Remotely Sensed Data</title>
-      <link>https://EllenConsidine.github.io/publication/plastic-aq-causal/</link>
+      <link>http://localhost:4321/publication/plastic-aq-causal/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/plastic-aq-causal/</guid>
+      <guid>http://localhost:4321/publication/plastic-aq-causal/</guid>
       <description>&lt;p&gt;Visual abstract uses images from &lt;a href=&#34;https://www.flickr.com/photos/thegef/8652479588&#34;&gt;Global Environment Facility&lt;/a&gt; and &lt;a href=&#34;https://stocksnap.io/photo/satellite-orbit-JRVIMXKSYX&#34;&gt;StockSnap&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimizing Heat Alert Issuance with Reinforcement Learning</title>
-      <link>https://EllenConsidine.github.io/publication/hasdm/</link>
+      <link>http://localhost:4321/publication/hasdm/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/hasdm/</guid>
+      <guid>http://localhost:4321/publication/hasdm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Book Recommendations</title>
-      <link>https://EllenConsidine.github.io/project/book_recs/</link>
+      <link>http://localhost:4321/project/book_recs/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/book_recs/</guid>
+      <guid>http://localhost:4321/project/book_recs/</guid>
       <description>&lt;p&gt;Life gets busy and it can be hard to find the time and motivation to sit down and read nonfiction. However, many of the most important ideas that frame my perspective on the world and my place in it have come from nonfiction books. If you have the time to explore some of the following, great! If you don&amp;rsquo;t have time to read the full books, I still recommend Googling these authors / titles. Whether it&amp;rsquo;s a summary of the book, a YouTube video, or an article or blog post, these people have ideas worth hearing!&lt;/p&gt;
 &lt;h2 id=&#34;environmental&#34;&gt;Environmental&lt;/h2&gt;
 &lt;ul&gt;
@@ -143,9 +143,9 @@
     
     <item>
       <title>Others&#39; Ideas that Resonate</title>
-      <link>https://EllenConsidine.github.io/post/ideas_resonate/</link>
+      <link>http://localhost:4321/post/ideas_resonate/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/ideas_resonate/</guid>
+      <guid>http://localhost:4321/post/ideas_resonate/</guid>
       <description>&lt;p&gt;Here are lists of articles, podcasts, videos, etc. that I intend to continuously update as I come across well-explained, powerful ideas that relate directly to my field(s) of interest. For the most part, these resources are more conversational than technical, and are meant to inspire as well as inform. Also see my list of recommended nonfiction books, which spans a larger range of topics.&lt;/p&gt;
 &lt;h3 id=&#34;environmental-health&#34;&gt;Environmental Health&lt;/h3&gt;
 &lt;p&gt;Articles:&lt;/p&gt;
@@ -271,9 +271,9 @@
     
     <item>
       <title>Applying for the NSF GRFP</title>
-      <link>https://EllenConsidine.github.io/post/nsf-grfp/</link>
+      <link>http://localhost:4321/post/nsf-grfp/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/nsf-grfp/</guid>
+      <guid>http://localhost:4321/post/nsf-grfp/</guid>
       <description>&lt;p&gt;There is a ton of general information online about the National Science Foundation (NSF) Graduate Research Fellowship, so I won&amp;rsquo;t go into many details here. For a large, high-quality collection of advice and past examples across fields, check out &lt;a href=&#34;https://www.alexhunterlang.com/nsf-fellowship&#34;&gt;Alex Lang&amp;rsquo;s website&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;However, for folks interested in statistics/data science/AI applied to public health, a couple more tailored insights may be valuable. For context: I applied for the GRFP during my senior year of undergrad (fall of 2019). I am now entering my fifth and final year of a PhD program in Biostatistics.&lt;/p&gt;
 &lt;h4 id=&#34;to-what-extent-should-i-focus-on-public-health-in-my-application&#34;&gt;To what extent should I focus on public health in my application?&lt;/h4&gt;
@@ -302,34 +302,34 @@ computer or information sciences, is eligible for support.&amp;rdquo;&lt;/p&gt;
     
     <item>
       <title>Projects</title>
-      <link>https://EllenConsidine.github.io/projects/</link>
+      <link>http://localhost:4321/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/projects/</guid>
+      <guid>http://localhost:4321/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Climate &amp; Health Event Series, Science Policy Group</title>
-      <link>https://EllenConsidine.github.io/project/scipol/</link>
+      <link>http://localhost:4321/project/scipol/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/scipol/</guid>
+      <guid>http://localhost:4321/project/scipol/</guid>
       <description>&lt;p&gt;One of the roles I undertook as Vice-President of the Harvard graduate student science policy group was co-organizing a series of events at the intersection of climate &amp;amp; health. This brought together students and staff from across the Harvard School of Public Health, Medical School, Dental School, and Graduate School of Arts &amp;amp; Sciences. In particular, I spearheaded and moderated a panel and networking dinner focused on the translation of research into policy.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://EllenConsidine.github.io/experience/</link>
+      <link>http://localhost:4321/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/experience/</guid>
+      <guid>http://localhost:4321/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>https://EllenConsidine.github.io/teaching/js/</link>
+      <link>http://localhost:4321/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/teaching/js/</guid>
+      <guid>http://localhost:4321/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -376,7 +376,7 @@ computer or information sciences, is eligible for support.&amp;rdquo;&lt;/p&gt;
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://EllenConsidine.github.io/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:4321/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -453,9 +453,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>https://EllenConsidine.github.io/teaching/python/</link>
+      <link>http://localhost:4321/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/teaching/python/</guid>
+      <guid>http://localhost:4321/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -502,7 +502,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://EllenConsidine.github.io/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:4321/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -579,9 +579,9 @@ data.head()
     
     <item>
       <title>Zooming Out -- On Sustainability, Social Justice, and Data</title>
-      <link>https://EllenConsidine.github.io/post/zooming-out/</link>
+      <link>http://localhost:4321/post/zooming-out/</link>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/zooming-out/</guid>
+      <guid>http://localhost:4321/post/zooming-out/</guid>
       <description>&lt;p&gt;The threat of climate change has been a driving motivation for both my professional and personal choices for many years. In practice, this has manifested as getting into the weeds with various academic subjects (i.e. air quality, statistics, public health, computer science) as well as recurrent introspection on many aspects of lifestyle. This spring, I was reminded of the importance of picking my head up and seeking out new perspectives &amp;ndash; despite the countless hours I&amp;rsquo;ve spent educating myself on environmental and social/economic justice topics, there is always more to learn and consider. In this blog, I&amp;rsquo;ll share some broad reflections from several recent experiences.&lt;/p&gt;
 &lt;p&gt;Most of the ideas here were inspired by:&lt;/p&gt;
 &lt;ol&gt;
@@ -640,9 +640,9 @@ data.head()
     
     <item>
       <title>Overview of Data Science Tools for Climate &amp; Health</title>
-      <link>https://EllenConsidine.github.io/project/online_course_climate-health-data-science/</link>
+      <link>http://localhost:4321/project/online_course_climate-health-data-science/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/online_course_climate-health-data-science/</guid>
+      <guid>http://localhost:4321/project/online_course_climate-health-data-science/</guid>
       <description>&lt;p&gt;&lt;em&gt;As a pedagogy fellow during AY 2022-2023, I developed this short course for the new online master&amp;rsquo;s in public health program at the Harvard School of Public Health.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Visual abstract uses images from &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Climate_change_icon.png&#34;&gt;Wikimedia Commons&lt;/a&gt; and &lt;a href=&#34;https://openclipart.org/detail/216852/heartbeat-logo-for-healthse-no-background-red-heart#google_vignette&#34;&gt;OpenClipart&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
@@ -663,26 +663,26 @@ data.head()
     
     <item>
       <title>Effect modification of the association between fine particulate air pollution during a wildfire event and respiratory health by area-level measures of socio-economic status, race/ethnicity, and smoking prevalence</title>
-      <link>https://EllenConsidine.github.io/publication/wildfire-ses/</link>
+      <link>http://localhost:4321/publication/wildfire-ses/</link>
       <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/wildfire-ses/</guid>
+      <guid>http://localhost:4321/publication/wildfire-ses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Review Editor for the Fifth National Climate Assessment, Focus on Western Wildfires</title>
-      <link>https://EllenConsidine.github.io/project/nca5/</link>
+      <link>http://localhost:4321/project/nca5/</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/nca5/</guid>
+      <guid>http://localhost:4321/project/nca5/</guid>
       <description>&lt;p&gt;I helped coordinate response to public comments for the cross-cutting feature on western wildfires.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Statistical Consulting and Learning-Centered Teaching</title>
-      <link>https://EllenConsidine.github.io/post/stat-collab-teaching/</link>
+      <link>http://localhost:4321/post/stat-collab-teaching/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/stat-collab-teaching/</guid>
+      <guid>http://localhost:4321/post/stat-collab-teaching/</guid>
       <description>&lt;p&gt;This academic year, I am a pedagogy fellow (PF) at the Harvard School of Public Health (HSPH). Instead of being a TF/TA for the Biostatistics Department (which typically involves grading, teaching labs and holding office hours for students), I work on developing curriculum and encouraging evidence-based teaching practices, both within my department and for the school overall. For HSPH-wide projects, I collaborate with PFs from other departments. In this post, I&amp;rsquo;ll focus on insights inspired by my department-specific project as well as by a course on teaching that all the PFs took last semester.&lt;/p&gt;
 &lt;p&gt;For context: in spring 2020, I really enjoyed taking a course at CU on statistical collaboration. (The Professor, Eric Vance, used the term collaboration as opposed to consulting to emphasize the importance of consistent, two-way communication between statisticians and domain experts.) When I heard that my current department was looking for a PF to redesign our PhD-level statistical consulting course, I applied immediately.&lt;/p&gt;
 &lt;p&gt;Beyond digging into statistical consulting, being a PF has been a great opportunity to think deeply about whether I want teaching to be a core part of my future career. The upshot on that front is that I&amp;rsquo;m still making up my mind. However, many of the ideas I&amp;rsquo;ve been synthesizing are broadly applicable on both individual and systemic levels, sufficiently so that they merit a post. The three main topics I will discuss are&lt;/p&gt;
@@ -712,25 +712,25 @@ data.head()
     
     <item>
       <title>Evaluation of Model-Based PM2.5 Estimates for Exposure Assessment during Wildfire Smoke Episodes in the Western U.S.</title>
-      <link>https://EllenConsidine.github.io/publication/wildfire-pm/</link>
+      <link>http://localhost:4321/publication/wildfire-pm/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/wildfire-pm/</guid>
+      <guid>http://localhost:4321/publication/wildfire-pm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating Use of Low-Cost Sensors to Increase Accuracy and Equity of Real-Time Air Quality Information</title>
-      <link>https://EllenConsidine.github.io/publication/lcs_placements/</link>
+      <link>http://localhost:4321/publication/lcs_placements/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/lcs_placements/</guid>
+      <guid>http://localhost:4321/publication/lcs_placements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching Fellow for Graduate-Level Biostatistics Courses</title>
-      <link>https://EllenConsidine.github.io/project/tf/</link>
+      <link>http://localhost:4321/project/tf/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/tf/</guid>
+      <guid>http://localhost:4321/project/tf/</guid>
       <description>&lt;p&gt;Here are descriptions of the three full-semester courses that I helped teach at HSPH.&lt;/p&gt;
 &lt;h3 id=&#34;spring-2024-bst-226-applied-longitudinal-analysis&#34;&gt;Spring 2024: BST 226, Applied Longitudinal Analysis&lt;/h3&gt;
 &lt;p&gt;Approx. number of students: 100&lt;/p&gt;
@@ -746,9 +746,9 @@ data.head()
     
     <item>
       <title>Upper Division Course Projects at Harvard and CU Boulder</title>
-      <link>https://EllenConsidine.github.io/project/course_projects/</link>
+      <link>http://localhost:4321/project/course_projects/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/course_projects/</guid>
+      <guid>http://localhost:4321/project/course_projects/</guid>
       <description>&lt;p&gt;To provide a sense of what I&amp;rsquo;ve worked on other than my research in the National Studies on Air Pollution &amp;amp; Health Group and Earth Lab, here is a list of my most substantial projects that resulted in course papers but not peer-reviewed publications:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Reviewed state-of-the-art offline reinforcement learning algorithms&lt;/li&gt;
@@ -772,9 +772,9 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>The Revelatory Mirror of AI/ML -- On Evolution, Uncertainty, and Recourse</title>
-      <link>https://EllenConsidine.github.io/post/revelatory-mirror/</link>
+      <link>http://localhost:4321/post/revelatory-mirror/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/revelatory-mirror/</guid>
+      <guid>http://localhost:4321/post/revelatory-mirror/</guid>
       <description>&lt;p&gt;&lt;strong&gt;“Our successes and failures alike in getting these systems to do &amp;lsquo;what we want,&amp;rsquo; it turns out, offer us an unflinching, revelatory mirror.” - Brian Christian&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This summer, I joined a data science &amp;amp; society-themed book club sponsored by the Harvard Data Science Initiative. Our first book was &lt;em&gt;The Alignment Problem: Machine Learning and Human Values&lt;/em&gt; by Brian Christian (2020). It turned out to be one of my favorite nonfiction books. Someone in the group also let us know about a free virtual event, the Symposium on Interpretable and Explainable Artificial Intelligence and Machine Learning, hosted by the National Academies of Science Committee on Applied and Theoretical Statistics, which I ended up attending. (If you&amp;rsquo;re interested in this Symposium, a recording is available &lt;a href=&#34;https://www.nationalacademies.org/event/06-21-2022/interpretable-and-explainable-ai-and-machine-learning&#34;&gt;here&lt;/a&gt;.)&lt;/p&gt;
 &lt;p&gt;Between the reading, the Symposium, and our book club&amp;rsquo;s weekly discussions, there are a plethora of topics about which I could wax lyrical. For the sake of a bite-sized post, however, I will stick to a few overarching themes that stuck out to me: (1) the development of artificial intelligence (AI) giving us insights into our own brains, (2) the ability (or lack thereof) for individual people or minority groups to pursue justice for maltreatment at the &amp;ldquo;hands&amp;rdquo; of an algorithm, and (3) the perpetual need for humility (for both humans and AI).&lt;/p&gt;
@@ -803,18 +803,18 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>Science in the News Talk</title>
-      <link>https://EllenConsidine.github.io/project/sitn/</link>
+      <link>http://localhost:4321/project/sitn/</link>
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/sitn/</guid>
+      <guid>http://localhost:4321/project/sitn/</guid>
       <description>&lt;p&gt;I leveraged the material from my HPHR blog, as well as new content, to give a public-facing talk on air pollution, global health, data science, and public policy.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Breathing Data Blog</title>
-      <link>https://EllenConsidine.github.io/project/breathing_data/</link>
+      <link>http://localhost:4321/project/breathing_data/</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/project/breathing_data/</guid>
+      <guid>http://localhost:4321/project/breathing_data/</guid>
       <description>&lt;p&gt;In 2021, I wrote a series of blog posts on air pollution, global health, and data science for &lt;em&gt;HPHR Journal&lt;/em&gt;, formerly the &lt;em&gt;Harvard Public Health Review&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Cover image from PurpleAir map on June 7, 2021.&lt;/p&gt;
 </description>
@@ -822,17 +822,17 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>Daily PM2.5 concentration estimates by county, ZIP code, and census tract in 11 western states 2008–2018</title>
-      <link>https://EllenConsidine.github.io/publication/pm25-ml/</link>
+      <link>http://localhost:4321/publication/pm25-ml/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/pm25-ml/</guid>
+      <guid>http://localhost:4321/publication/pm25-ml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Principled Negotiation and the Ethos of Public Health</title>
-      <link>https://EllenConsidine.github.io/post/public-health-ethos/</link>
+      <link>http://localhost:4321/post/public-health-ethos/</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/public-health-ethos/</guid>
+      <guid>http://localhost:4321/post/public-health-ethos/</guid>
       <description>&lt;p&gt;I am currently reading a book on negotiation called &lt;em&gt;Getting to Yes&lt;/em&gt;, written by members of the Harvard Negotiation Project. One of the opening chapters describes positional bargaining: two sides starting from places of disagreement and inching their way closer by making small concessions in turn. The authors describe how problematic this process is: it is inefficient, commonly leads to unwise outcomes (good for neither side), and can harm relationships between parties. Instead, the book presents a case for principled negotiation, founded on separating the people (negotiators) from the problem, focusing on interests instead of positions, inventing options for mutual gain, and insisting on use of objective criteria. &lt;a href=&#34;https://www.pon.harvard.edu/daily/negotiation-skills-daily/principled-negotiation-focus-interests-create-value/&#34;&gt;Here is a nice summary&lt;/a&gt;, for those interested in learning more.&lt;/p&gt;
 &lt;p&gt;I bring this book up to motivate presentation of my principles. Nearly everything we do in our professional and personal lives is a negotiation of some kind. It is important to establish what we believe so that we can work with others to identify common ground and develop pragmatic solutions to our problems.&lt;/p&gt;
 &lt;p&gt;Listening to the news and having conversations with other people, it is clear that there are foundationally diverse beliefs about how human civilization should look, and how we should get there (if the belief is that we aren&amp;rsquo;t already there). I have come to the unoriginal conclusion that the largest discrepancy in how people think and act is described by the weight an individual mentally assigns to their personal freedoms in comparison with the freedoms of others, and to what extent they believe we should rely on governmental authorities to enforce the balance of individuals&amp;rsquo; freedoms. This discrepancy has obvious ties to the arena of public health, where large and complex problems such as infectious diseases and environmental pollution bring tensions between individual freedoms and collective sacrifice to light. In fact, while pondering my beliefs and their implications, I ran across the &lt;a href=&#34;https://www.apha.org/-/media/files/pdf/membergroups/ethics/code_of_ethics.ashx&#34;&gt;Public Health Code of Ethics&lt;/a&gt; by the American Public Health Association (APHA) and determined this to be the most clear articulation of my principles that I have ever found.&lt;/p&gt;
@@ -847,17 +847,17 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>Improving accuracy of air pollution exposure measurements: Statistical correction of a municipal low-cost airborne particulate matter sensor network</title>
-      <link>https://EllenConsidine.github.io/publication/ddphe-collab/</link>
+      <link>http://localhost:4321/publication/ddphe-collab/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/ddphe-collab/</guid>
+      <guid>http://localhost:4321/publication/ddphe-collab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advice for the COMAP MCM/ICM</title>
-      <link>https://EllenConsidine.github.io/post/mcm-advice/</link>
+      <link>http://localhost:4321/post/mcm-advice/</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/mcm-advice/</guid>
+      <guid>http://localhost:4321/post/mcm-advice/</guid>
       <description>&lt;p&gt;In 2017, 2018, and 2019, a team of two friends and I participated in the &lt;a href=&#34;https://www.comap.com/contests/mcm-icm&#34;&gt;Consortium for Mathematics and Its Applications (COMAP) International Mathematical / Interdisciplinary Contest in Modeling (MCM/ICM)&lt;/a&gt;. The basic idea of the contest is that over 99 hours, a team of three undergrads is tasked with choosing one of six open-ended questions, building some kind of mathematical model, and writing a paper synthesizing their findings along with external research.&lt;/p&gt;
 &lt;p&gt;Over the three years, my team&amp;rsquo;s projects spanned topics from happiness economics to the political impacts of climate change to the spread of the opioid epidemic. After being named one of the 36 winners (out of more than 25,000 teams worldwide) in 2019, I feel qualified to give out some advice for this contest.&lt;/p&gt;
 &lt;p&gt;I won&amp;rsquo;t dive too much into the logistics, but preparing for the contest does make things run more smoothly. Pick out a place to work with your team where you won&amp;rsquo;t be distracted, where you have easy access to food and bathrooms, etc. Decide ahead of time what platforms you&amp;rsquo;re going to use to collaborate with your team (e.g. Overleaf, Google Docs, etc.). Plan ahead with school work / get excused from attending lecture so that you don&amp;rsquo;t have to worry about other responsibilities during the contest. Start the weekend well-rested.&lt;/p&gt;
@@ -877,9 +877,9 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>On Having an Impact, Part 2</title>
-      <link>https://EllenConsidine.github.io/post/impact-part2/</link>
+      <link>http://localhost:4321/post/impact-part2/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/impact-part2/</guid>
+      <guid>http://localhost:4321/post/impact-part2/</guid>
       <description>&lt;p&gt;The Effective Altruism (EA) / 80,000 Hours philosophy has guided many of my thoughts and actions over the past 4+ years. In this post, my goal is to articulate some of the most important and generalizable aspects of my EA journey so far. If you haven&amp;rsquo;t yet encountered the EA / 80,000 Hours movement, I recommend checking out Part 1!&lt;/p&gt;
 &lt;h3 id=&#34;overall-reflections&#34;&gt;Overall Reflections&lt;/h3&gt;
 &lt;p&gt;Internalizing many of the EA / 80,000 Hours ideas guided me into the field of environmental public health / biostatistics, no question. This semester, I’ve really enjoyed seeing the close alignment between these fields / movements in my introductory public health classes. Of course, there are countless other fields in which one can pursue having a positive impact along the lines of the EA literature. I can simply confirm that I am glad to have made decisions in accordance with this paradigm.&lt;/p&gt;
@@ -904,9 +904,9 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>On Having an Impact, Part 1</title>
-      <link>https://EllenConsidine.github.io/post/impact-part1/</link>
+      <link>http://localhost:4321/post/impact-part1/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/impact-part1/</guid>
+      <guid>http://localhost:4321/post/impact-part1/</guid>
       <description>&lt;p&gt;My views and aspirations for both my professional and my personal life have been profoundly influenced by the Effective Altruism (EA) / 80,000 Hours movement. This post is meant to introduce those who haven’t encountered this movement to it. See &amp;ldquo;On Having an Impact, Part 2&amp;rdquo; for some of my reflections in light of this overarching philosophy.&lt;/p&gt;
 &lt;h3 id=&#34;intro-to-effective-altruism-and-80000-hours&#34;&gt;Intro to Effective Altruism and 80,000 Hours&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Note: Instead of citing everything in the paragraphs below, I’m including a list of links at the end of this post, which I encourage you to explore!&lt;/em&gt;&lt;/p&gt;
@@ -949,9 +949,9 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>Pursuing STEM, Motivated by the Humanities</title>
-      <link>https://EllenConsidine.github.io/post/stem-humanities/</link>
+      <link>http://localhost:4321/post/stem-humanities/</link>
       <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/stem-humanities/</guid>
+      <guid>http://localhost:4321/post/stem-humanities/</guid>
       <description>&lt;p&gt;In an alternate but closely related universe, I could easily have chosen a career in the humanities. I love learning about sociology and philosophy. I am most intellectually enthusiastic when pondering underlying societal phenomenon and the ways we might go about addressing societal issues which manifest human suffering.&lt;/p&gt;
 &lt;p&gt;However, several important factors guided my path into statistics and data science. Firstly, my parents brought my brother and me up to be very conscious of the vocational value of our educations, as well as to gravitate towards career paths which keep doors open and allow for maximal flexibility. Given the modern world&amp;rsquo;s number and variety of jobs in STEM, we were both nudged in that direction. Under the umbrella of practicality, I also grew up with the knowledge that PhDs in STEM are most often fully funded, while many/most other graduate degrees are not, and that it is most often easier to transition from a more technical / hard science field into a less technical / softer skills position than to transition the other way. Further, the fact that both of my parents studied science and math made going into STEM the obvious thing to do. Somewhere along the way, I also came to realize that being someone who wanted to and was able to effectively bridge ideas between STEM and humanities disciplines was relatively rare, making this a valuable niche to pursue. Finally, as I discuss at the end of &amp;ldquo;The Benefits of Attending Your State’s Public University for Undergrad&amp;rdquo;, there were a number of factors at CU that kept me in STEM once I was there, namely stronger peers and harder classes (on average) and more research opportunities &amp;ndash; many professors need students who can assist with quantitative tasks.&lt;/p&gt;
 &lt;p&gt;In this post, I reflect on my experiences as a STEM student with a humanities heart. A recent conversation with an older student in my PhD program reminded me that I&amp;rsquo;m far from alone in this and that being candid about our experiences can help to assure and guide others as they make their way on similar trajectories.&lt;/p&gt;
@@ -973,9 +973,9 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>On Finding a Career Path</title>
-      <link>https://EllenConsidine.github.io/post/finding-career-path/</link>
+      <link>http://localhost:4321/post/finding-career-path/</link>
       <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/finding-career-path/</guid>
+      <guid>http://localhost:4321/post/finding-career-path/</guid>
       <description>&lt;p&gt;Planning out your life is impossible. Circumstances change, people change. New information comes to your attention and you shift course. But at the same time, it&amp;rsquo;s helpful to have a sense of direction, a sense of purpose, to guide your thoughts and actions. Having an idea of where you want to end up can provide this sense of direction.&lt;/p&gt;
 &lt;p&gt;I think of navigating life in this way like hiking through the wilderness. Setting your sights on a distant mountain frees you from having to expend energy on wayfinding every second of every day. You can focus instead on where you&amp;rsquo;re putting your feet and on enjoying the more nearby scenery. As you&amp;rsquo;re making your way across the plains, a different mountain might come into view. Or, maybe, the coast of a large body of water. You might decide this new destination looks better than the first mountain, so you re-orient in that direction. Maybe you&amp;rsquo;ll visit the first mountain someday, maybe you won&amp;rsquo;t. And so it goes: at any point in time, you are hiking towards something, but that something can change as frequently as you want it to.&lt;/p&gt;
 &lt;p&gt;Continuing with this analogy: as you make your way in your intended direction, you will likely encounter other people (depending on how remote the trail is). If you are able to describe where you&amp;rsquo;re headed, these people may be able to give you advice, having previously explored similar places. This is another reason it&amp;rsquo;s helpful to have a sense of direction: you can make it easier for other people to help you. The more detail you provide, the more specific other people can be with their advice. And, if you&amp;rsquo;re visibly inspired about where you&amp;rsquo;re going, other people are often more inspired to help you get there.&lt;/p&gt;
@@ -1003,9 +1003,9 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>An Honest Conversation About Box-Checking</title>
-      <link>https://EllenConsidine.github.io/post/box-checking/</link>
+      <link>http://localhost:4321/post/box-checking/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/box-checking/</guid>
+      <guid>http://localhost:4321/post/box-checking/</guid>
       <description>&lt;p&gt;&amp;ldquo;Box-checking&amp;rdquo; has a pretty negative connotation. It implies that your actions are inauthentic: the only reason you are doing something is to put it on your resume / achieve some glamorous end goal, not because you actually want to do it. It is often associated with helicopter parents and overachieving students trying to get into prestigious colleges. It is perceived as soulless running of the rat race. In this post, I attempt to flesh out a more nuanced perspective.&lt;/p&gt;
 &lt;p&gt;Over the years, I have observed that feeling the need to fill out one&amp;rsquo;s resume and appear objectively impressive can be incredibly stressful and potentially damaging for individuals&amp;rsquo; mental health. In high school, many of my peers were stressed all the time about whether they were doing enough to be accepted into their dream colleges. I feel fortunate to have avoided this in my late teenage years because I planned to attend my home state university. I truly believe that I was doing the things I did in high school (focusing mostly on music and sports) because I enjoyed them, not because I felt forced to do them.&lt;/p&gt;
 &lt;p&gt;After starting college, however, the lines between authentic engagement and box-checking became more blurred for me. Did I join Engineers Without Borders purely because I wanted to help other people and learn about the world or because I wanted this cool international volunteering experience in my back pocket? Did I start doing my research internship because I really wanted to spend more hours of the day learning how to code in R or because I knew that it would open doors to future opportunities? Did I spend more time than I needed to setting up a socially-positive collaborative research project simply because I thought that it was important work to do or because I was already planning to apply for grad school in public health and knew that such a project would help strengthen my application? The honest answer to all of these questions is &lt;em&gt;both&lt;/em&gt;. At times, I have felt uncomfortable with this duality: am I doing this because I care about it or because it will look good on my resume?&lt;/p&gt;
@@ -1034,9 +1034,9 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>Reflections on Privilege in Higher Education</title>
-      <link>https://EllenConsidine.github.io/post/privilege-higher-ed/</link>
+      <link>http://localhost:4321/post/privilege-higher-ed/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/privilege-higher-ed/</guid>
+      <guid>http://localhost:4321/post/privilege-higher-ed/</guid>
       <description>&lt;p&gt;2020 has been a year of reflection for many people. In particular, I am optimistic that renewed focus on systemic racism and economic inequities will fuel real changes in how many individuals and organizations think about and act on promoting inclusivity and fairness. However, while reflecting on my undergraduate experience I have come to the conclusion that many of the advantages I had during college were somewhat subtle and/or difficult to address through many common techniques of diversity-promotion. By articulating these advantages and brainstorming some partial solutions, I hope that I and others can be more conscious of these exclusive processes and more in a position to help implement inclusive ones.&lt;/p&gt;
 &lt;h3 id=&#34;ways-that-my-privilege-has-helped-me&#34;&gt;Ways that my privilege has helped me&lt;/h3&gt;
 &lt;p&gt;The most obvious benefit of economic privilege is &lt;strong&gt;not having to worry about money&lt;/strong&gt; during college. Having to get a job to cover living expenses and/or tuition would have made everything (from courses to research to volunteering to attending extra seminars) so much more difficult, and doing all three at once impossible. Even with complete financial aid independent of work-study, however, the knowledge that your financial coverage depends on your grades is much more stressful than if the only thing you have to lose if you fail a test is your ego or your parents&amp;rsquo; approval. Don&amp;rsquo;t get me wrong: having high expectations from your ego and/or your family is stressful enough, but this is still fundamentally different. In general, having a financial safety net makes risk-taking (including academic and professional exploration) more possible and internally palatable. I will never truly know what it feels like to be worried about having enough money for next month&amp;rsquo;s rent, because I would always know in the back of my mind that I could ask my family for help. I have come to believe that this psychological difference can be very potent in determining individuals&amp;rsquo; ability to find and pursue opportunities.&lt;/p&gt;
@@ -1074,9 +1074,9 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>The Benefits of Attending Your State’s Public University for Undergrad</title>
-      <link>https://EllenConsidine.github.io/post/public-university-undergrad/</link>
+      <link>http://localhost:4321/post/public-university-undergrad/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/public-university-undergrad/</guid>
+      <guid>http://localhost:4321/post/public-university-undergrad/</guid>
       <description>&lt;p&gt;I grew up in Boulder, Colorado. The University of Colorado (CU) sits right in the middle of town. To many of my high school peers and their families, attending CU was a fallback. It was seen as unadventurous and not at all prestigious. Despite the many good reasons I had for attending CU, I recognize that these perceptions weighed on me somewhat over the last four years. Now, two months into a PhD program at Harvard, my last subconscious traces of insecurity about my undergraduate education have finally faded. The semester is still ramping up, but I feel very well prepared for success in my classes and research projects. I write this with the hope that others in similar positions in high school will feel more confident than I did in choosing what&amp;rsquo;s right for them and not caring what anyone else thinks.&lt;/p&gt;
 &lt;p&gt;In my experience, here are the four main reasons for strong students to consider attending their state universities for undergrad: lower cost, lower stress, more opportunities per capita, and connections in your home state.&lt;/p&gt;
 &lt;p&gt;The &lt;strong&gt;cost of college&lt;/strong&gt; nowadays is insane. For almost any family, paying between $30,000 and $300,000 for a four-year degree per kid is going to be difficult, if not impossible. If you can get a sufficiently large fraction covered by financial aid or merit scholarships, great. If not, these amounts of money have extremely high opportunity costs. The way my parents described opportunity cost to my brother and me was by telling us how much they had saved for each of us and asking us whether we&amp;rsquo;d like to spend all the money on college-related expenses or save some of it and put that towards other things such as a graduate or professional degree, a down-payment on a place to live, or traveling. This perspective made the financial choice much more tangible, and motivated both my brother and me to go to college in-state. However, I think that many families do not discuss family resources and choice of higher education in this way.&lt;/p&gt;
@@ -1093,9 +1093,9 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>The Power of Showing Up and Reaching Out</title>
-      <link>https://EllenConsidine.github.io/post/showing-up-reaching-out/</link>
+      <link>http://localhost:4321/post/showing-up-reaching-out/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/post/showing-up-reaching-out/</guid>
+      <guid>http://localhost:4321/post/showing-up-reaching-out/</guid>
       <description>&lt;p&gt;When people ask me for advice about college, this is the number one thing I tell them: you never know what will happen if you show up to an event and/or reach out to someone. I feel very grateful that my parents instilled this in me before I went off to college, because it led to every single one of the best opportunities I had during undergrad. By sharing the following stories, it is my intention that others might be inspired to muster the energy and overcome the initial awkwardness of showing up and reaching out.&lt;/p&gt;
 &lt;h3 id=&#34;story-1-how-i-got-involved-in-undergraduate-research&#34;&gt;Story #1: How I Got Involved in Undergraduate Research&lt;/h3&gt;
 &lt;p&gt;In the spring of my freshman year of college, two of my courses were an introductory data science course and an environmental sociology course. In the environmental sociology course, there was a brief lecture on the health impacts of air pollution, which I found fascinating. In the data science course, our final project was to analyze a data set of our choice. I thought it would be cool to combine these interests, and after reading a bit online, I came up with the idea of analyzing whether proximity to highways was associated with asthma rates. I spent a while looking for data online and found some aggregated data sets, but thought there were probably much better publicly-available options that I just wasn&amp;rsquo;t finding.&lt;/p&gt;
@@ -1115,9 +1115,9 @@ satellite images of US cities&lt;/li&gt;
     
     <item>
       <title>Associations between respiratory health and ozone and fine particulate matter during a wildfire event</title>
-      <link>https://EllenConsidine.github.io/publication/wildfire-epi/</link>
+      <link>http://localhost:4321/publication/wildfire-epi/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/wildfire-epi/</guid>
+      <guid>http://localhost:4321/publication/wildfire-epi/</guid>
       <description></description>
     </item>
     

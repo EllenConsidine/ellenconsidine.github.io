@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Health | Ellen Considine</title>
-    <link>https://EllenConsidine.github.io/tags/health/</link>
-      <atom:link href="https://EllenConsidine.github.io/tags/health/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/tags/health/</link>
+      <atom:link href="http://localhost:4321/tags/health/index.xml" rel="self" type="application/rss+xml" />
     <description>Health</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://EllenConsidine.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:4321/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Health</title>
-      <link>https://EllenConsidine.github.io/tags/health/</link>
+      <link>http://localhost:4321/tags/health/</link>
     </image>
     
     <item>
       <title>Daily PM2.5 concentration estimates by county, ZIP code, and census tract in 11 western states 2008–2018</title>
-      <link>https://EllenConsidine.github.io/publication/pm25-ml/</link>
+      <link>http://localhost:4321/publication/pm25-ml/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://EllenConsidine.github.io/publication/pm25-ml/</guid>
+      <guid>http://localhost:4321/publication/pm25-ml/</guid>
       <description></description>
     </item>
     
