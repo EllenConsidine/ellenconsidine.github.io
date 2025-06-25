@@ -262,18 +262,6 @@
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/mathematical-modeling/</loc>
-    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/tags/remote-sensing/</loc>
-    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/project/course_projects/</loc>
-    <lastmod>2022-12-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:4321/tags/algorithmic-justice/</loc>
     <lastmod>2022-07-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -331,6 +319,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/tags/competition/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/mathematical-modeling/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
